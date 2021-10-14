@@ -60,7 +60,7 @@
 
 * [Website](https://snowball.network)
 * [GitHub](https://github.com/Snowball-Finance)
-* [Twitter](https://twitter.com/snowball_defi)
+* [Twitter](https://twitter.com/snowballdefi)
 * [Discord](https://discord.gg/BPnBYDSqcb)
 * [Telegram](https://t.me/throwsnowballs)
 * [Medium](https://medium.com/snowball-finance)
