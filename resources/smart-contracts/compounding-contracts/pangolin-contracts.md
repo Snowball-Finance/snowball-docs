@@ -94,7 +94,7 @@
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `SNOB - AVAX`    | [0x10286816b50821dC7c1575aDf5AeFD97f256e165](https://cchain.explorer.avax.network/address/0x10286816b50821dC7c1575aDf5AeFD97f256e165/transactions) |
 | `SNOB - PNG`     | [0x4Bcfb10465a8D22F0A047Df3AfA8eE06CBCc8E13](https://cchain.explorer.avax.network/address/0x4Bcfb10465a8D22F0A047Df3AfA8eE06CBCc8E13/transactions) |
-| `AVAX - PNG`     | [0x08d8C7C1a6E8543a4674E77cc0111EAa1D520f8b](https://cchain.explorer.avax.network/address/0x08d8C7C1a6E8543a4674E77cc0111EAa1D520f8b/transactions) |
+| `AVAX - PNG`     | [0x6d94512442980Dca2D63Aa6d526Ddc8fEf47Ca53](https://cchain.explorer.avax.network/address/0x6d94512442980Dca2D63Aa6d526Ddc8fEf47Ca53/transactions) |
 | `AVAX - VSO`     | [0x4304db2D76A55754Ae8b0d71d6ECBe10e545Bf40](https://cchain.explorer.avax.network/address/0x4304db2D76A55754Ae8b0d71d6ECBe10e545Bf40/transactions) |
 | `AVAX - SPORE`   | [0xeC96cbe0D178cB18eCf0D7bf6c2B599DAd28dA47](https://cchain.explorer.avax.network/address/0xeC96cbe0D178cB18eCf0D7bf6c2B599DAd28dA47/transactions) |
 | `AVAX - BNB`     | [0x8Ab22Febc8E71fC400C228948403F847433A8c88](https://cchain.explorer.avax.network/address/0x8Ab22Febc8E71fC400C228948403F847433A8c88/transactions) |
@@ -174,7 +174,7 @@
 | `PNG - GDL`      | [0xA514c642b92C8a2c3CBF7Cf7Af53f5C2C835AfC7](https://cchain.explorer.avax.network/address/0xA514c642b92C8a2c3CBF7Cf7Af53f5C2C835AfC7/transactions) |
 | `PNG - MFI`      | [0xc932639f60BC2F839126298A9f9130084A038F54](https://cchain.explorer.avax.network/address/0xc932639f60BC2F839126298A9f9130084A038F54/transactions) |
 | `PNG - AVE`      | [0xE234532d0d2c119a8bF11F7fD77f792887a46a10](https://cchain.explorer.avax.network/address/0xE234532d0d2c119a8bF11F7fD77f792887a46a10/transactions) |
-| `PNG`            | [0x5E431A41D75b273Cf0BD165c7551838FB3C4CE10](https://cchain.explorer.avax.network/address/0x5E431A41D75b273Cf0BD165c7551838FB3C4CE10/transactions) |
+| `PNG`            | [0xA1EdFF60A604BB9dFEf25fc00b6D82a07cEAAf91](https://cchain.explorer.avax.network/address/0xA1EdFF60A604BB9dFEf25fc00b6D82a07cEAAf91/transactions) |
 
 ## Compounding Gauge Contracts
 
