@@ -50,9 +50,7 @@
 
 #### ![](../.gitbook/assets/azuleto.webp) AzuLeto ![](../.gitbook/assets/mod.png)![](../.gitbook/assets/support.png) 
 
-#### ![](../.gitbook/assets/sergio2098.webp) Sergio2098 ![](../.gitbook/assets/mod.png)![](../.gitbook/assets/support.png) 
-
-#### ![](../.gitbook/assets/mogibbs.webp) Mo Gibbs ![](../.gitbook/assets/support.png) 
+#### ![](../.gitbook/assets/sergio2098.webp) Sergio2098 ![](../.gitbook/assets/mod.png)![](../.gitbook/assets/support.png)
 
 #### ![](../.gitbook/assets/shung.webp) Shung ![](../.gitbook/assets/support.png) 
 
