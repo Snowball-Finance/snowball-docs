@@ -49,3 +49,7 @@ To view the full list of supported compounding pools, visit the [**Compound**](h
 {% content-ref url="../resources/smart-contracts/compounding-contracts/" %}
 [compounding-contracts](../resources/smart-contracts/compounding-contracts/)
 {% endcontent-ref %}
+
+{% content-ref url="../resources/harvest-stats.md" %}
+[harvest-stats.md](../resources/harvest-stats.md)
+{% endcontent-ref %}

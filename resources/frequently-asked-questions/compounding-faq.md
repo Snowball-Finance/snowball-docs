@@ -24,6 +24,10 @@ Once you’ve deposited tokens into a compounding strategy on Snowball, you will
 
 Rewards from our compounding strategies are compounded / re-invested 2-3 times a day. Feel free to check the #harvests channel on our [**Discord server**](https://discord.gg/BPnBYDSqcb) to see updates each time this takes place.
 
+### Where can I see total harvested amounts?
+
+We take snapshots of our weekly harvests. These are available on our [**Harvest Stats**](../harvest-stats.md) page.
+
 ### Does the APY on pools take fees into account?
 
 All APR and APY values displayed on Snowball have already taken into account our performance fee. What you see is what you get, always.

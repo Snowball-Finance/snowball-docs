@@ -49,6 +49,7 @@
 * [Our Team](resources/our-team.md)
 * [Roadmap](resources/roadmap.md)
 * [DeFi Glossary](resources/defi-glossary.md)
+* [Harvest Stats](resources/harvest-stats.md)
 
 ## Developers
 
