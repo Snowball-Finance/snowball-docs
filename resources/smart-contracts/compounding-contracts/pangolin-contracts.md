@@ -94,7 +94,7 @@
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `SNOB - AVAX`    | [0x10286816b50821dC7c1575aDf5AeFD97f256e165](https://cchain.explorer.avax.network/address/0x10286816b50821dC7c1575aDf5AeFD97f256e165/transactions) |
 | `SNOB - PNG`     | [0x4Bcfb10465a8D22F0A047Df3AfA8eE06CBCc8E13](https://cchain.explorer.avax.network/address/0x4Bcfb10465a8D22F0A047Df3AfA8eE06CBCc8E13/transactions) |
-| `AVAX - PNG`     | [0x6d94512442980Dca2D63Aa6d526Ddc8fEf47Ca53](https://cchain.explorer.avax.network/address/0x6d94512442980Dca2D63Aa6d526Ddc8fEf47Ca53/transactions) |
+| `AVAX - PNG`     | [0xaeBF59cb4aF3061e2455867FeB1000E2F32b7dF6](https://cchain.explorer.avax.network/address/0xaeBF59cb4aF3061e2455867FeB1000E2F32b7dF6/transactions) |
 | `AVAX - VSO`     | [0x4304db2D76A55754Ae8b0d71d6ECBe10e545Bf40](https://cchain.explorer.avax.network/address/0x4304db2D76A55754Ae8b0d71d6ECBe10e545Bf40/transactions) |
 | `AVAX - SPORE`   | [0xeC96cbe0D178cB18eCf0D7bf6c2B599DAd28dA47](https://cchain.explorer.avax.network/address/0xeC96cbe0D178cB18eCf0D7bf6c2B599DAd28dA47/transactions) |
 | `AVAX - BNB`     | [0x8Ab22Febc8E71fC400C228948403F847433A8c88](https://cchain.explorer.avax.network/address/0x8Ab22Febc8E71fC400C228948403F847433A8c88/transactions) |
