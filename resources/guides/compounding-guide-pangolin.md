@@ -1,12 +1,12 @@
 # Depositing into Compounding Strategies from Pangolin
 
-This guide covers how to deposit into our compounding strategies on Snowball for Pangolin liquidity pools. To understand more about how our compounding strategies work, check out our [**Compounding**](https://snowballs.gitbook.io/snowball-docs/products/compounding) docs.
+This guide covers how to deposit into our compounding strategies on Snowball for Pangolin liquidity pools. To understand more about how our compounding strategies work, check out our [**Compounding**](../../products/compounding.md) docs.
 
 1\) Go to the Snowball [**website**](https://app.snowball.network) and click on the **Compound & Earn** page on the sidebar.
 
 ![](<../../.gitbook/assets/Screen Shot 2021-08-02 at 7.41.52 PM.png>)
 
-2\) Find the pool you want to deposit into. In this example, we will use the AVAX-SNOB pool from Pangolin. 
+2\) Find the pool you want to deposit into. In this example, we will use the AVAX-SNOB pool from Pangolin.&#x20;
 
 3\) Click on **Get PGL**.
 

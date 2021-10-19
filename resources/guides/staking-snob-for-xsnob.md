@@ -1,6 +1,6 @@
 # Staking SNOB for xSNOB
 
-This guide covers how to stake your SNOB tokens. Staking will lock your SNOB for a predetermined amount of time and in return you will receive xSNOB. Before depositing, learn about all the benefits of holding xSNOB [**here**](https://snowballs.gitbook.io/snowball-docs/governance/xsnob).
+This guide covers how to stake your SNOB tokens. Staking will lock your SNOB for a predetermined amount of time and in return you will receive xSNOB. Before depositing, learn about all the benefits of holding xSNOB [**here**](../../governance/xsnob/).
 
 1\) Head to the staking page of our website [**here**](https://app.snowball.network/staking). Make sure you connect your wallet and that you are currently on the Avalanche Chain.
 

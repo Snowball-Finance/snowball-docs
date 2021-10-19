@@ -10,7 +10,7 @@
 ## Compounding Deposit Contracts
 
 {% hint style="info" %}
-If you are look for instructions on how to withdraw from a deprecated pool, check out our guides available [**here**](https://snowballs.gitbook.io/snowball-docs/resources/guides/manual-contract-interaction). Keep this page open to find the addresses you'll need.
+If you are look for instructions on how to withdraw from a deprecated pool, check out our guides available [**here**](../guides/). Keep this page open to find the addresses you'll need.
 {% endhint %}
 
 | Pair           | Platform     | Address                                                                                                                                            |

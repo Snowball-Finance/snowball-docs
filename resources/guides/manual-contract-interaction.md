@@ -3,7 +3,7 @@
 In the rare case something happens to Snowball's website, you can always interact with our contracts through a block explorer. This guide will cover how to deposit funds into our contracts, claim your SNOB rewards and withdraw from our contracts without relying on our beautiful web interfaces.
 
 {% hint style="info" %}
-If you're planning on interact with deprecated contracts, all the addresses you'll need can be found [**here**](https://snowballs.gitbook.io/snowball-docs/resources/smart-contracts/deprecated-contracts)** **instead of our usual compounding contracts page.
+If you're planning on interact with deprecated contracts, all the addresses you'll need can be found [**here**](../smart-contracts/deprecated-contracts.md)** **instead of our usual compounding contracts page.
 {% endhint %}
 
 ## Depositing into Compounding Strategies
@@ -20,7 +20,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 ![](../../.gitbook/assets/Manual1.png)
 
-5\) Find the **Approve** method; it is usually the 1st method. In the first box - _spender(address)_ - you will need to input Snowball's **compounding deposit contract** for the token pair you'd like to compound. This can be found on our [**Compounding Contracts page**](https://snowballs.gitbook.io/snowball-docs/resources/smart-contracts/compounding-contracts). In the second box - _value(uint256)_ - add an arbitrarily large number, such as 999999999999999999999999999.
+5\) Find the **Approve** method; it is usually the 1st method. In the first box - _spender(address)_ - you will need to input Snowball's **compounding deposit contract** for the token pair you'd like to compound. This can be found on our [**Compounding Contracts page**](../smart-contracts/compounding-contracts/). In the second box - _value(uint256)_ - add an arbitrarily large number, such as 999999999999999999999999999.
 
 6\) Click **Write**. You will be asked to approve the transaction through your wallet.
 
@@ -36,7 +36,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 ![](../../.gitbook/assets/Manual3.png)
 
-10\) On the same page, find the **Approve** method; it is usually the first method. In the first box - _spender(address)_ - you will need to input Snowball's **compounding gauge contract** for the token pair you'd like to compound. This can be found on our [**Compounding Contracts page**](https://snowballs.gitbook.io/snowball-docs/resources/smart-contracts/compounding-contracts). In the second box - _value(uint256)_ - add an arbitrarily large number, such as 999999999999999999999999999.
+10\) On the same page, find the **Approve** method; it is usually the first method. In the first box - _spender(address)_ - you will need to input Snowball's **compounding gauge contract** for the token pair you'd like to compound. This can be found on our [**Compounding Contracts page**](../smart-contracts/compounding-contracts/). In the second box - _value(uint256)_ - add an arbitrarily large number, such as 999999999999999999999999999.
 
 11\) Click **Write**. You will be asked to approve the transaction through your wallet.
 
@@ -54,7 +54,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 ## Claiming SNOB Rewards
 
-1\) Find the **compounding** **gauge contract address** for the pool you want to claim rewards from and open it on a [**C-Chain block explorer**](https://cchain.explorer.avax.network). This can be found on our [**Compounding Contracts page**](https://snowballs.gitbook.io/snowball-docs/resources/smart-contracts/compounding-contracts).
+1\) Find the **compounding** **gauge contract address** for the pool you want to claim rewards from and open it on a [**C-Chain block explorer**](https://cchain.explorer.avax.network). This can be found on our [**Compounding Contracts page**](../smart-contracts/compounding-contracts/).
 
 2\) Once you have found it, click on **Write Contract**_._
 
@@ -74,7 +74,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 ## Withdrawing from Compounding Strategies
 
-1\) Find the **compounding gauge contract address** for the pool you want to withdraw from and open it on a [**C-Chain block explorer**](https://cchain.explorer.avax.network). This can be found on our [**Compounding Contracts page**](https://snowballs.gitbook.io/snowball-docs/resources/smart-contracts/compounding-contracts).
+1\) Find the **compounding gauge contract address** for the pool you want to withdraw from and open it on a [**C-Chain block explorer**](https://cchain.explorer.avax.network). This can be found on our [**Compounding Contracts page**](../smart-contracts/compounding-contracts/).
 
 2\) Once you have found it, click on **Write Contract**_._
 
@@ -86,7 +86,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 ![](../../.gitbook/assets/Manual7.png)
 
-5\) Find the **compounding deposit contract address** for the pool you want to withdraw from and open it on the block explorer. This can be found on our [**Compounding Contracts page**](https://snowballs.gitbook.io/snowball-docs/resources/smart-contracts/compounding-contracts).
+5\) Find the **compounding deposit contract address** for the pool you want to withdraw from and open it on the block explorer. This can be found on our [**Compounding Contracts page**](../smart-contracts/compounding-contracts/).
 
 6\) Once you have found it, click on **Write Contract**_._
 

@@ -10,7 +10,7 @@ StableVault uses code that has been forked from [**Saddle Finance**](https://sad
 
 ### Are there any deposit or withdrawal fees on the StableVault?
 
-None. There are however incentives and disincentives to deposit or withdraw tokens that would balance or imbalance the pool. See more details [**here**](https://snowballs.gitbook.io/snowball-docs/products/stablevault#adding-liquidity-to-stablevault).
+None. There are however incentives and disincentives to deposit or withdraw tokens that would balance or imbalance the pool. See more details [**here**](../../products/stablevault.md).
 
 ### **Do I need to deposit all the tokens listed in the vault?**
 

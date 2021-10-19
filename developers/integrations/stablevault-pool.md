@@ -3,7 +3,7 @@
 The StableVault deposit contract is included in our registry over at the GaugeProxyV2 [**contract**](https://cchain.explorer.avax.network/address/0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27/read-contract), together with all other compounding deposit contracts.
 
 {% hint style="info" %}
-If you are looking to query wallet balances off the StableVault pool, info from the [**Compounding Pools**](https://snowballs.gitbook.io/snowball-docs/developers/integrations/compounding-pools) integration page is still relevant. Ratios and underlying tokens are non-applicable, however.
+If you are looking to query wallet balances off the StableVault pool, info from the [**Compounding Pools**](compounding-pools.md) integration page is still relevant. Ratios and underlying tokens are non-applicable, however.
 {% endhint %}
 
 ### s4D Token Contract

@@ -30,7 +30,4 @@ Our guides will provide you step-by-step instructions to interact with our vario
 [manual-contract-interaction.md](manual-contract-interaction.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
+{% embed url="https://fraxfinancecommunity.medium.com/guide-how-to-bridge-frax-to-avalanche-network-and-add-liquidity-to-snowball-ff32d66ae6cb" %}

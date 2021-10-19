@@ -3,7 +3,7 @@
 ![](../.gitbook/assets/Q1\_2021.png)
 
 * [x] **Snowball Launch** - We had a fair launch on March 7th with three [**auto-compounding strategies**](https://app.snowball.network/compound-and-earn).
-* [x] **Timelocks & Multisig** - These [**safety measures**](https://snowballs.gitbook.io/snowball-docs/resources/security) were introduced to further secure the protocol and help build the community's trust in Snowball.
+* [x] **Timelocks & Multisig** - These [**safety measures**](security.md) were introduced to further secure the protocol and help build the community's trust in Snowball.
 * [x] **New Auto-Compounding Strategies** - We added two new strategies: AVAX-LINK and AVAX-USDT.
 * [x] **s3D StableVault** - We launched the first [**stable asset AMM**](https://app.snowball.network/s3d-vault) on Avalanche with DAI, BUSD and USDT.
 
@@ -14,7 +14,7 @@
 * [x] **PNG Auto-Compounding Strategies** - These 9 new PNG strategies were introduced to show our support for the Pangolin community.
 * [x] **s3F StableVault** - We partnered with [**Frax Finance**](https://frax.finance) to bring the FRAX stablecoin to the Avalanche network and to create a [**stable asset pool**](https://app.snowball.network/s3f-vault) with FRAX, TUSD and USDT.
 * [x] **Pangolin Rewards** - We added PNG rewards to the SNOB token on the [**Pangolin Exchange**](https://pangolin.exchange) - Avalanche's largest DEX.
-* [x] **SNOB Staking** - We introduced [**xSNOB**](https://snowballs.gitbook.io/snowball-docs/governance/xsnob), the staked version of the SNOB token.
+* [x] **SNOB Staking** - We introduced [**xSNOB**](../governance/xsnob/), the staked version of the SNOB token.
 * [x] **Partnerships** - We've announced an official partnership with Avalanche and Penguin Finance; while continuing to support the Avalanche ecosystem as a whole.
 
 ![](../.gitbook/assets/Q3\_2021.png)
@@ -24,7 +24,7 @@
 * [x] **New Auto-Compounding Strategies** - Now at 111 [**auto-compounding strategies**](https://app.snowball.network/compound-and-earn) in total; we've continued to expand our offerings as the Avalanche ecosystem grows.
 * [x] **s4D StableVault** - We deprecated the old StableVaults in order to launch [**s4D**](https://app.snowball.network/s4d-vault), a stable asset pool with DAI.e, FRAX, TUSD and USDT.e.
 * [x] **Partnerships** - We partnered with [**Sherpa Cash**](https://sherpa.cash) in order to launch their new token through an IDO.
-* [x] **Team Expansion** - We have brought on new developers, designers and other team members and nearly tripled the size of [**our team**](https://snowballs.gitbook.io/snowball-docs/resources/our-team)!
+* [x] **Team Expansion** - We have brought on new developers, designers and other team members and nearly tripled the size of [**our team**](our-team.md)!
 
 ![](../.gitbook/assets/Q4\_2021.png)
 
