@@ -6,78 +6,84 @@ Our team is made up of a large assortment of talented individuals from the commu
 Want to be a part of our team and contribute to the development of Snowball? Reach out to us on [**Discord**](https://discord.gg/BPnBYDSqcb).
 {% endhint %}
 
-#### ![](../.gitbook/assets/bigwampa.webp) Big Wampa ![](../.gitbook/assets/founder.png) ![](../.gitbook/assets/council.png)
+## Core Team
 
-#### ![](../.gitbook/assets/8-bit.webp) 8-Bit Giraffe ![](../.gitbook/assets/founder.png)
+#### ![](../.gitbook/assets/bigwampa.webp) Big Wampa (Co-Founder) | [**Twitter**](https://twitter.com/big_wampa)
 
-#### ![](../.gitbook/assets/abominablesasquatch.webp) Abominable Sasquatch ![](../.gitbook/assets/founder.png)
+#### ![](../.gitbook/assets/8-bit.webp) 8-Bit Giraffe (Co-Founder) | [**Twitter**](https://twitter.com/8bitgiraffe_)
 
-#### ![](../.gitbook/assets/bloomie.webp) Bloomie ![](../.gitbook/assets/council.png)
+#### ![](../.gitbook/assets/abominablesasquatch.webp) Abominable Sasquatch (Co-Founder) | [**Twitter**](https://twitter.com/abominablesas)
 
-#### ![](../.gitbook/assets/bmino.webp) Bmino ![](../.gitbook/assets/council.png)
+#### ![](../.gitbook/assets/jomari.webp) Jomari (Lead Smart Contract Developer) | [**Twitter**](https://twitter.com/Jomari_P)
 
-#### ![](../.gitbook/assets/leo.webp) Leo ![](../.gitbook/assets/council.png)
+#### ![](../.gitbook/assets/jonas.webp) Jonas (Lead Software Engineer) | [**Twitter**](https://twitter.com/cyberjenos)
 
-#### ![](../.gitbook/assets/jomari.webp) Jomari ![](../.gitbook/assets/council.png)![](../.gitbook/assets/smart-contracts.png)
+#### ![](../.gitbook/assets/bloomie.webp) Bloomie (Council Member) | [**Twitter**](https://twitter.com/BloomieBTC)
 
-#### ![](../.gitbook/assets/jonas.webp) Jonas ![](../.gitbook/assets/council.png)![](../.gitbook/assets/smart-contracts.png)![](../.gitbook/assets/front-end.png)![](../.gitbook/assets/back-end.png)
+#### ![](../.gitbook/assets/bmino.webp) Bmino (Council Member) | [**Twitter**](https://twitter.com/bmino_)
 
-#### ![](../.gitbook/assets/timbotronic.webp) Timbotronic ![](../.gitbook/assets/smart-contracts.png)![](../.gitbook/assets/back-end.png)
+#### ![](../.gitbook/assets/leo.webp) Leo (Council Member) | [**Twitter**](https://twitter.com/Best_coder_NA)
 
-#### ![](../.gitbook/assets/tide.webp) Tide ![](../.gitbook/assets/smart-contracts.png)
+#### ![](../.gitbook/assets/saito.webp) Saito (Software Engineer)
 
-#### ![](../.gitbook/assets/abbie.webp) Abbie ![](../.gitbook/assets/smart-contracts.png)
+#### ![](../.gitbook/assets/timbotronic.webp) Timbotronic (Software Test Engineer)
 
-#### ![](../.gitbook/assets/auroter.webp) Auroter ![](../.gitbook/assets/smart-contracts.png)
+#### ![](../.gitbook/assets/tide.webp) Tide (Smart Contract Developer)
 
-#### ![](../.gitbook/assets/saito.webp) Saito ![](../.gitbook/assets/front-end.png)![](../.gitbook/assets/back-end.png)
+#### ![](../.gitbook/assets/abbie.webp) Abbie (Smart Contract Developer)
 
-#### ![](../.gitbook/assets/jennywenny.webp) Jennywenny ![](../.gitbook/assets/front-end.png)
+#### ![](../.gitbook/assets/auroter.webp) Auroter (Smart Contract Developer)
 
-#### ![](../.gitbook/assets/frostbourne.webp) Frostbourne ![](../.gitbook/assets/front-end.png)
+#### ![](../.gitbook/assets/jennywenny.webp) Jennywenny (Tech Ops)
 
-#### ![](../.gitbook/assets/sanjeev1308.webp) Sanjeev1308 ![](../.gitbook/assets/front-end.png)
+#### ![](../.gitbook/assets/frostbourne.webp) Frostbourne (Front-End Engineer)
 
-#### ![](../.gitbook/assets/tian.webp) Tian ![](../.gitbook/assets/front-end.png)
+#### ![](../.gitbook/assets/sanjeev1308.webp) Sanjeev1308 (Front-End Engineer)
 
-#### ![](../.gitbook/assets/david-defi-web.webp) David-Defi-Web ![](../.gitbook/assets/front-end.png)
+#### ![](../.gitbook/assets/tian.webp) Tian (Front-End Engineer)
 
-#### ![](../.gitbook/assets/feds.webp) Feds ![](../.gitbook/assets/design.png)
+#### ![](../.gitbook/assets/david-defi-web.webp) David-Defi-Web (Front-End Engineer)
 
-#### ![](../.gitbook/assets/guanabanat.webp) GuanabaNat ![](../.gitbook/assets/design.png)
+#### ![](../.gitbook/assets/feds.webp) (UI/UX Designer)
 
-#### ![](../.gitbook/assets/luis.webp) Luis ![](../.gitbook/assets/design.png)
+#### ![](../.gitbook/assets/guanabanat.webp) GuanabaNat (Illustrator)
 
-#### ![](../.gitbook/assets/cryptogoddess91.webp) Cryptogoddess91 ![](../.gitbook/assets/design.png)
+#### ![](../.gitbook/assets/luis.webp) Luis (UI/UX Designer)
 
-#### ![](../.gitbook/assets/pan\_.webp) Pan\_ ![](../.gitbook/assets/design.png)
+#### ![](../.gitbook/assets/cryptogoddess91.webp) Cryptogoddess91 (UI/UX Designer)
 
-#### ![](../.gitbook/assets/ncookie.webp) Ncookie ![](../.gitbook/assets/docs.png)
+#### ![](../.gitbook/assets/pan\_.webp) Pan\_ (UI/UX Designer)
 
-#### ![](../.gitbook/assets/azuleto.webp) AzuLeto ![](../.gitbook/assets/mod.png)![](../.gitbook/assets/support.png)
+#### ![](../.gitbook/assets/ncookie.webp) Ncookie (Technical Writer) | [**Twitter**](https://twitter.com/ncookie_eth)
 
-#### ![](../.gitbook/assets/sergio2098.webp) Sergio2098 ![](../.gitbook/assets/mod.png)![](../.gitbook/assets/support.png)
+## Community Team
 
-#### ![](../.gitbook/assets/shung.webp) Shung ![](../.gitbook/assets/support.png)
+#### ![](../.gitbook/assets/azuleto.webp) AzuLeto (Discord Community Moderator)
 
-#### ![](../.gitbook/assets/warcha.webp) Warcha ![](../.gitbook/assets/support.png)
+#### ![](../.gitbook/assets/sergio2098.webp) Sergio2098 (Telegram Community Moderator)
 
-#### ![](../.gitbook/assets/erkan.webp) Erkan ![](../.gitbook/assets/support.png)
+#### ![](../.gitbook/assets/shung.webp) Shung (Support Staff)
 
-#### ![](../.gitbook/assets/mintle.webp) Mintle ![](../.gitbook/assets/contributors.png)
+#### ![](../.gitbook/assets/warcha.webp) Warcha (Support Staff)
 
-#### ![](../.gitbook/assets/nrv.webp) Nrv ![](../.gitbook/assets/contributors.png)
+#### ![](../.gitbook/assets/erkan.webp) Erkan (Support Staff)
 
-#### ![](../.gitbook/assets/kadir.webp) Kadir ![](../.gitbook/assets/contributors.png)
+## Contributors
 
-#### ![](../.gitbook/assets/tylers.webp) TylerS ![](../.gitbook/assets/contributors.png)
+#### ![](../.gitbook/assets/mintle.webp) Mintle
 
-#### ![](../.gitbook/assets/jahnk.webp) Jahn\_k ![](../.gitbook/assets/contributors.png)
+#### ![](../.gitbook/assets/nrv.webp) Nrv
 
-#### ![](../.gitbook/assets/louislee.webp) Louis Lee ![](../.gitbook/assets/contributors.png)
+#### ![](../.gitbook/assets/kadir.webp) Kadir
 
-#### ![](../.gitbook/assets/metadept.webp) Metadept ![](../.gitbook/assets/contributors.png)
+#### ![](../.gitbook/assets/tylers.webp) TylerS
 
-#### ![](../.gitbook/assets/whaleclub.webp) Whale Club ![](../.gitbook/assets/contributors.png)
+#### ![](../.gitbook/assets/jahnk.webp) Jahn\_k
 
-#### ![](../.gitbook/assets/cryptofish.webp) Cryptofish ![](../.gitbook/assets/contributors.png)
+#### ![](../.gitbook/assets/louislee.webp) Louis Lee
+
+#### ![](../.gitbook/assets/metadept.webp) Metadept
+
+#### ![](../.gitbook/assets/whaleclub.webp) Whale Club
+
+#### ![](../.gitbook/assets/cryptofish.webp) Cryptofish
