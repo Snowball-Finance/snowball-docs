@@ -3,16 +3,16 @@
 In the rare case something happens to Snowball's website, you can always interact with our contracts through a block explorer. This guide will cover how to deposit funds into our contracts, claim your SNOB rewards and withdraw from our contracts without relying on our beautiful web interfaces.
 
 {% hint style="info" %}
-If you're planning on interact with deprecated contracts, all the addresses you'll need can be found [**here**](../smart-contracts/deprecated-contracts.md)** **instead of our usual compounding contracts page.
+If you're planning on interact with deprecated contracts, all the addresses you'll need can be found [**here**](../smart-contracts/deprecated-contracts.md) instead of our usual compounding contracts page.
 {% endhint %}
 
 ## Depositing into Compounding Strategies
 
 1\) Supply liquidity to a pool on [**Pangolin**](https://app.pangolin.exchange/#/png/1) or [**Trader Joe**](https://www.traderjoexyz.com/#/pool) that receives rewards.
 
-2\) Find the contract address for the pool you deposited into and open it on a [**C-Chain block explorer**](https://cchain.explorer.avax.network). On Pangolin, this can be found on their [**analytics page**](https://info.pangolin.exchange/#/home). On Trader Joe, this can be found through their [**pools page**](https://www.traderjoexyz.com/#/pool)**.**
+2\) Find the contract address for the pool you deposited into and open it on a [**C-Chain block explorer**](https://cchain.explorer.avax.network). On Pangolin, this can be found on their [**analytics page**](https://info.pangolin.exchange/#/home). On Trader Joe, this can be found through their [**pools page**](https://www.traderjoexyz.com/#/pool).
 
-3\) Once you have found it, click on **Write Contract**_._
+3\) Once you have found it, click on **Write Contract**.
 
 ![](../../.gitbook/assets/Manual0.png)
 
@@ -56,7 +56,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 1\) Find the **compounding** **gauge contract address** for the pool you want to claim rewards from and open it on a [**C-Chain block explorer**](https://cchain.explorer.avax.network). This can be found on our [**Compounding Contracts page**](../smart-contracts/compounding-contracts/).
 
-2\) Once you have found it, click on **Write Contract**_._
+2\) Once you have found it, click on **Write Contract**.
 
 ![](../../.gitbook/assets/Manual5.png)
 
@@ -76,7 +76,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 1\) Find the **compounding gauge contract address** for the pool you want to withdraw from and open it on a [**C-Chain block explorer**](https://cchain.explorer.avax.network). This can be found on our [**Compounding Contracts page**](../smart-contracts/compounding-contracts/).
 
-2\) Once you have found it, click on **Write Contract**_._
+2\) Once you have found it, click on **Write Contract**.
 
 ![](../../.gitbook/assets/Manual5.png)
 
@@ -88,7 +88,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 5\) Find the **compounding deposit contract address** for the pool you want to withdraw from and open it on the block explorer. This can be found on our [**Compounding Contracts page**](../smart-contracts/compounding-contracts/).
 
-6\) Once you have found it, click on **Write Contract**_._
+6\) Once you have found it, click on **Write Contract**.
 
 ![](../../.gitbook/assets/Manual8.png)
 
