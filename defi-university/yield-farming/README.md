@@ -14,9 +14,15 @@ Courses in the **Yield Farming** category cover the many different yield farming
 
 ## 2nd Year Courses
 
-None.
+{% content-ref url="yf-261-auto-compounding.md" %}
+[yf-261-auto-compounding.md](yf-261-auto-compounding.md)
+{% endcontent-ref %}
 
 ## 3rd Year Courses
+
+{% content-ref url="yf-312-folding.md" %}
+[yf-312-folding.md](yf-312-folding.md)
+{% endcontent-ref %}
 
 {% content-ref url="yf-323-impermanent-loss.md" %}
 [yf-323-impermanent-loss.md](yf-323-impermanent-loss.md)
