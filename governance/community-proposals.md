@@ -4,7 +4,7 @@ Snowball is democratically governed by the community through its governance prot
 
 ![](../.gitbook/assets/voting.jpeg)
 
-## **Proposals**
+## Proposals
 
 Anyone with xSNOB tokens can vote on Snowball proposals. For a proposal to pass, there are a few conditions that must be met:
 
@@ -15,7 +15,7 @@ Your vote can be changed after voting in case you've changed your mind.
 
 In order to create a proposal, you must hold a minimum of 100,000 xSNOB. If you do not have the required minimum number of tokens, someone who does can execute the proposal on your behalf. You may only have one active proposal at any given time.
 
-## **Timelocks**
+## Timelocks
 
 Every proposal must have a voting period of at least 72 hours. Once the voting period comes to an end, there is an execution delay of 24 hours prior to any technical changes to the Snowball protocol.
 
