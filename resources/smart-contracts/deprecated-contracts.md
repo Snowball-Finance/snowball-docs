@@ -22,6 +22,7 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `AVAX - USDT`  | `Pangolin`   | [0x3fcFBCB4b368222fCB4d9c314eCA597489FE8605](https://cchain.explorer.avax.network/address/0x3fcFBCB4b368222fCB4d9c314eCA597489FE8605/transactions) |
 | `AVAX - DAI`   | `Pangolin`   | [0xb21b21E4fA802EE4c158d7cf4bD5416B8035c5e0](https://cchain.explorer.avax.network/address/0xb21b21E4fA802EE4c158d7cf4bD5416B8035c5e0/transactions) |
 | `AVAX - UNI`   | `Pangolin`   | [0xdf7F15d05d641dF701D961a38d03028e0a26a42D](https://cchain.explorer.avax.network/address/0xdf7F15d05d641dF701D961a38d03028e0a26a42D/transactions) |
+| `AVAX - FRAX`  | `Pangolin`   | [0xD0686AC7d0CfFd00A29567D37774058452210D57](https://cchain.explorer.avax.network/address/0xD0686AC7d0CfFd00A29567D37774058452210D57/transactions) |
 | `PNG - ETH`    | `Pangolin`   | [0x3815f36C3d60d658797958EAD8778f6500be16Df](https://cchain.explorer.avax.network/address/0x3815f36C3d60d658797958EAD8778f6500be16Df/transactions) |
 | `PNG - wBTC`   | `Pangolin`   | [0x763Aa38c837f61DD8429313933Cc47f24E881430](https://cchain.explorer.avax.network/address/0x763Aa38c837f61DD8429313933Cc47f24E881430/transactions) |
 | `PNG - LINK`   | `Pangolin`   | [0x392c51Ab0AF3017E3e22713353eCF5B9d6fBDE84](https://cchain.explorer.avax.network/address/0x392c51Ab0AF3017E3e22713353eCF5B9d6fBDE84/transactions) |
@@ -36,12 +37,12 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `PNG - ELE`    | `Pangolin`   | [0x1812f42de15EA7da3901ce34237Ee8CA5F01857a](https://cchain.explorer.avax.network/address/0x1812f42de15EA7da3901ce34237Ee8CA5F01857a/transactions) |
 | `AVAX - ETH`   | `Trader Joe` | [0xAbD637a6881a2D4bbf279aE484c2447c070f7C73](https://cchain.explorer.avax.network/address/0xf41f4B7E40baAc51Ba4507cd471dC092670BB839/transactions) |
 | `AVAX - USDT`  | `Trader Joe` | [0xB305856C54efC004955BC51e3D20ceF566C11eEE](https://cchain.explorer.avax.network/address/0xB305856C54efC004955BC51e3D20ceF566C11eEE/transactions) |
-| `JOE - DAI`    | `Trader Joe` | [0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2](https://cchain.explorer.avax.network/address/0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2/transactions) |
 | `AVAX - DAI`   | `Trader Joe` | [0xAD050d11521dd1dD2Cc136A9e979BAA8F6Fab69a](https://cchain.explorer.avax.network/address/0xAD050d11521dd1dD2Cc136A9e979BAA8F6Fab69a/transactions) |
 | `AVAX - LINK`  | `Trader Joe` | [0x4bD6D4fE5E3bBaa0FfB075EE9F0980FbcC6c0192](https://cchain.explorer.avax.network/address/0x4bD6D4fE5E3bBaa0FfB075EE9F0980FbcC6c0192/transactions) |
 | `AVAX - wBTC`  | `Trader Joe` | [0x86b109380aB2c34B740848b06Bee62C882F01df5](https://cchain.explorer.avax.network/address/0x86b109380aB2c34B740848b06Bee62C882F01df5/transactions) |
 | `AVAX - SPORE` | `Trader Joe` | [0x2f17BAC3E0339C1BFB6E0DD380d65bd2Fc665C75](https://cchain.explorer.avax.network/address/0x2f17BAC3E0339C1BFB6E0DD380d65bd2Fc665C75/transactions) |
 | `JOE - PNG`    | `Trader Joe` | [0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47](https://cchain.explorer.avax.network/address/0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47/transactions) |
+| `JOE - DAI`    | `Trader Joe` | [0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2](https://cchain.explorer.avax.network/address/0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2/transactions) |
 
 ## Compounding Strategy Contracts
 
@@ -54,6 +55,7 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `AVAX - USDT`  | `Pangolin`   | [0x961890586dfB84919d8C6C5f6304192A2b3ddaB7](https://cchain.explorer.avax.network/address/0x961890586dfB84919d8C6C5f6304192A2b3ddaB7/transactions) |
 | `AVAX - DAI`   | `Pangolin`   | [0xe6D5806B2248777761adE4Bc4f38E9AAB6Bf9BC2](https://cchain.explorer.avax.network/address/0xe6D5806B2248777761adE4Bc4f38E9AAB6Bf9BC2/transactions) |
 | `AVAX - UNI`   | `Pangolin`   | [0x6eb9CB199C55De50279a69705BA88C146FADC574](https://cchain.explorer.avax.network/address/0x6eb9CB199C55De50279a69705BA88C146FADC574/transactions) |
+| `AVAX - FRAX`  | `Pangolin`   | [0x36c98A11a2B41A5b9b5ebAF8D3160EB8d2fC1800](https://cchain.explorer.avax.network/address/0x36c98A11a2B41A5b9b5ebAF8D3160EB8d2fC1800/transactions) |
 | `PNG - ETH`    | `Pangolin`   | [0x9B3298Dba29A1Fc7061A4eF9b360eAa12879C911](https://cchain.explorer.avax.network/address/0x9B3298Dba29A1Fc7061A4eF9b360eAa12879C911/transactions) |
 | `PNG - wBTC`   | `Pangolin`   | [0xafbA321B14A22501466d18eA0D9616f8e90Fc378](https://cchain.explorer.avax.network/address/0xafbA321B14A22501466d18eA0D9616f8e90Fc378/transactions) |
 | `PNG - LINK`   | `Pangolin`   | [0xe11248e5c0a98038633603F291267b74183AB7be](https://cchain.explorer.avax.network/address/0xe11248e5c0a98038633603F291267b74183AB7be/transactions) |
@@ -68,12 +70,12 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `PNG - ELE`    | `Pangolin`   | [0xCF08e9d9e41CDadCCb751D36fC76b97B2eA2BF13](https://cchain.explorer.avax.network/address/0xCF08e9d9e41CDadCCb751D36fC76b97B2eA2BF13/transactions) |
 | `AVAX - ETH`   | `Trader Joe` | [0xCaA216B286E286a831F009E67d72C40cb1a5b72A](https://cchain.explorer.avax.network/address/0xCaA216B286E286a831F009E67d72C40cb1a5b72A/transactions) |
 | `AVAX - USDT`  | `Trader Joe` | [0x717342dd24B21447dd76228A0Fe017167F039277](https://cchain.explorer.avax.network/address/0x717342dd24B21447dd76228A0Fe017167F039277/transactions) |
-| `JOE - DAI`    | `Trader Joe` | [0x54773bb26f7D725366e68AB5a196e8F9cA761aEE](https://cchain.explorer.avax.network/address/0x54773bb26f7D725366e68AB5a196e8F9cA761aEE/transactions) |
 | `AVAX - DAI`   | `Trader Joe` | [0xb09359516366111ACe33D5ED6B5f6BbEC9cdF9bD](https://cchain.explorer.avax.network/address/0xb09359516366111ACe33D5ED6B5f6BbEC9cdF9bD/transactions) |
 | `AVAX - LINK`  | `Trader Joe` | [0xD85cBb70074423a6E0AEc7955c8E147d608E2D0d](https://cchain.explorer.avax.network/address/0xD85cBb70074423a6E0AEc7955c8E147d608E2D0d/transactions) |
 | `AVAX - wBTC`  | `Trader Joe` | [0x8D56e13C06D0d66f58B8c33A08701a1dc186eb55](https://cchain.explorer.avax.network/address/0x8D56e13C06D0d66f58B8c33A08701a1dc186eb55/transactions) |
 | `AVAX - SPORE` | `Trader Joe` | [0xf41f4B7E40baAc51Ba4507cd471dC092670BB839](https://cchain.explorer.avax.network/address/0xf41f4B7E40baAc51Ba4507cd471dC092670BB839/transactions) |
 | `JOE - PNG`    | `Trader Joe` | [0x4a0aEE254e6A4C03695b202eaA381bfFc2D3e035](https://cchain.explorer.avax.network/address/0x4a0aEE254e6A4C03695b202eaA381bfFc2D3e035/transactions) |
+| `JOE - DAI`    | `Trader Joe` | [0x54773bb26f7D725366e68AB5a196e8F9cA761aEE](https://cchain.explorer.avax.network/address/0x54773bb26f7D725366e68AB5a196e8F9cA761aEE/transactions) |
 
 ## Compounding Gauge Contracts
 
@@ -86,6 +88,7 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `AVAX - USDT`   | `Pangolin`   | [0x45590658f6608c5be4c94ce885c52dbddb4fa21a](https://cchain.explorer.avax.network/address/0x45590658F6608C5be4C94ce885c52DBDdb4FA21a/transactions) |
 | `AVAX - DAI`    | `Pangolin`   | [0x2e2191fde0872e686b0a5117cd639896d2c8ad97](https://cchain.explorer.avax.network/address/0x2e2191fde0872e686b0a5117Cd639896D2C8Ad97/transactions) |
 | `AVAX - UNI`    | `Pangolin`   | [0x0e06c4d0ecaae66b82ebc9133ca52ea82702cd30](https://cchain.explorer.avax.network/address/0x0e06C4D0ECAaE66B82eBC9133Ca52EA82702CD30/transactions) |
+| `AVAX - FRAX`  | `Pangolin`   | [0x54DD846ec886449Baf4D19A844B1F5C597Acb48B](https://cchain.explorer.avax.network/address/0x54DD846ec886449Baf4D19A844B1F5C597Acb48B/transactions) |
 | `PNG - ETH`     | `Pangolin`   | [0x5f05dc58ee067c91a98ec025d5c332af40b84667](https://cchain.explorer.avax.network/address/0x5F05DC58Ee067C91a98eC025d5C332aF40B84667/transactions) |
 | `PNG - wBTC`    | `Pangolin`   | [0x1e544e0eedc7e44f506f2ae7d389e0b07289e3c1](https://cchain.explorer.avax.network/address/0x1e544e0eEDC7E44F506f2ae7d389e0b07289e3C1/transactions) |
 | `PNG - LINK`    | `Pangolin`   | [0xc4960af75f321c7fb36b725afc6059727e2db457](https://cchain.explorer.avax.network/address/0xC4960aF75F321C7FB36b725Afc6059727e2DB457/transactions) |
@@ -112,12 +115,12 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `PNG - ELE`     | `Pangolin`   | [0x15a6d23d2bf3a2aca33aadc2e1f597929d6d61c8](https://cchain.explorer.avax.network/address/0x15A6D23d2bF3A2AcA33aadc2E1f597929D6d61C8/transactions) |
 | `AVAX - ETH`    | `Trader Joe` | [0xa634ec1bada2fac4eaa71439b0b18dd3486823e6](https://cchain.explorer.avax.network/address/0xA634ec1BaDa2faC4eaa71439b0b18Dd3486823e6/transactions) |
 | `AVAX - USDT`   | `Trader Joe` | [0x5e8fe0f937c4b842b4c48542fbb33e4830a14048](https://cchain.explorer.avax.network/address/0x5E8FE0F937C4b842B4C48542fBB33e4830a14048/transactions) |
-| `JOE - DAI`     | `Trader Joe` | [0xff49e162e6bc10cdf12a8c35f162b79ab3d34bea](https://cchain.explorer.avax.network/address/0xfF49E162E6bc10CDF12A8c35f162B79ab3d34BEA/transactions) |
 | `AVAX - DAI`    | `Trader Joe` | [0x72473eb3f0e26c0dcf8332b5af129fa4f62c1046](https://cchain.explorer.avax.network/address/0x72473EB3F0E26c0dCf8332b5af129fa4F62c1046/transactions) |
 | `AVAX - LINK`   | `Trader Joe` | [0xb1755d58c6519a7ccb52206b4dfe64fe591574e6](https://cchain.explorer.avax.network/address/0xb1755D58c6519a7CCB52206B4DFE64fe591574e6/transactions) |
 | `AVAX - wBTC`   | `Trader Joe` | [0x67160690c546925e03fe4191bc28cd70b459cc82](https://cchain.explorer.avax.network/address/0x67160690c546925e03fE4191BC28Cd70B459cC82/transactions) |
 | `AVAX - SPORE`  | `Trader Joe` | [0x76ac2c3d79ee189487b3eaf7cb4299e413af3e66](https://cchain.explorer.avax.network/address/0x76aC2c3D79eE189487b3Eaf7Cb4299E413aF3e66/transactions) |
 | `JOE - PNG`     | `Trader Joe` | [0xcacf38d95bc613cb3f5f2306b6fbed2472fd5ae6](https://cchain.explorer.avax.network/address/0xcAcF38D95Bc613cb3F5f2306b6fBed2472FD5ae6/transactions) |
+| `JOE - DAI`     | `Trader Joe` | [0xff49e162e6bc10cdf12a8c35f162b79ab3d34bea](https://cchain.explorer.avax.network/address/0xfF49E162E6bc10CDF12A8c35f162B79ab3d34BEA/transactions) |
 
 ## StableVault Contracts
 
