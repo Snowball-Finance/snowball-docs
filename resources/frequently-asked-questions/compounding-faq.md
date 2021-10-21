@@ -1,22 +1,22 @@
 # Compounding FAQ
 
-### **Where can I find the current list of compounding strategies?**
+### Where can I find the current list of compounding strategies?
 
 All our compounding strategies can be found on the [**Compound**](https://app.snowball.network/compound-and-earn) page of our website. You can also find a list of all strategies under the [**Compounding Contracts**](../smart-contracts/compounding-contracts/) page of our documentation.
 
-### **What fees does Snowball charge for auto-compounding?**
+### What fees does Snowball charge for auto-compounding?
 
 Snowball takes a 10% performance fee on all profits made through auto-compounding. This happens once every harvest. There are no deposit or withdrawal fees.
 
-### **Are Snowball’s compounding strategies safe?**
+### Are Snowball’s compounding strategies safe?
 
-Snowball’s compounding strategies use code that has been forked from [**Pickle Finance**](https://www.pickle.finance), which has been audited. However, we still recommend using the protocol with caution as any new code may not have been fully audited. You can review our code on the [**Snowball GitHub**](https://github.com/Snowball-Finance).&#x20;
+Snowball’s compounding strategies use code that has been forked from [**Pickle Finance**](https://www.pickle.finance), which has been audited. However, we still recommend using the protocol with caution as any new code may not have been fully audited. You can review our code on the [**Snowball GitHub**](https://github.com/Snowball-Finance).
 
-### **How does auto-compounding work with Snowball?**
+### How does auto-compounding work with Snowball?
 
-To learn about how auto-compounding works with Snowball, visit the [**Compounding**](../../products/compounding.md) page of our documentation. For a step by step guide on how to use Snowball’s compound feature, view our [**compounding guides**](../guides/).&#x20;
+To learn about how auto-compounding works with Snowball, visit the [**Compounding**](../../products/compounding.md) page of our documentation. For a step by step guide on how to use Snowball’s compound feature, view our [**compounding guides**](../guides/).
 
-### **How do I earn SNOB rewards while compounding?**
+### How do I earn SNOB rewards while compounding?
 
 Once you’ve deposited tokens into a compounding strategy on Snowball, you will automatically start to earn SNOB rewards if the pool you deposited into has been voted on to receive rewards. SNOB rewards are determined by each pool's [**gauges**](../../governance/xsnob/gauges.md).
 
