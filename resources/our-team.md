@@ -30,9 +30,9 @@ Jonas is a Brazilian software engineer with over 7 years of experience working w
 
 #### ![](../.gitbook/assets/saito.webp) Saito (Software Engineer)
 
-#### ![](../.gitbook/assets/timbotronic.webp) Timbotronic (Software Engineer)
+Saito hails from El Salvador, and has over 9 years of experience in software engineering and software architecture. They've helped develop much of the back-end, dev-ops and infrastructure behind Snowball's products.
 
-Timbotronic hails from El Salvador, and has over 9 years of experience in software engineering and software architecture. They've helped develop much of the back-end, dev-ops and infrastructure behind Snowball's products.
+#### ![](../.gitbook/assets/timbotronic.webp) Timbotronic (Software Engineer)
 
 #### ![](../.gitbook/assets/tide.webp) Tide (Smart Contract Engineer)
 
@@ -40,7 +40,7 @@ Timbotronic hails from El Salvador, and has over 9 years of experience in softwa
 
 #### ![](../.gitbook/assets/auroter.webp) Auroter (Smart Contract Engineer)
 
-Auroter hails from the US, and in the past has worked as a mathematician, value engineer and as a systems engineer. Some rumors indicate they are quite the musician, too! At Snowball, they've shifted their efforts to developing smart contracts; the foundation of Snowball's products.
+Auroter hails from the US, and has a background as a value engineer, systems engineer and mathematician. At Snowball, they've worked on developing smart contracts; the foundation of Snowball's products.
 
 #### ![](../.gitbook/assets/jennywenny.webp) Jennywenny (Tech Ops)
 
