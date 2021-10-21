@@ -6,18 +6,18 @@ Since March, Snowball has grown to be one of the leading DeFi projects on Avalan
 
 ## **Core Products**
 
-****[**Compound**](https://app.snowball.network/compound-and-earn) - Rewards from other protocols are auto-compounded and fees are reduced through community pooling.&#x20;
+[**Compound**](https://app.snowball.network/compound-and-earn) - Rewards from other protocols are auto-compounded and fees are reduced through community pooling.&#x20;
 
-****[**StableVault**](https://app.snowball.network/s4d-vault) - Swap stablecoins or provide liquidity to earn risk-averse returns.
+[**StableVault**](https://app.snowball.network/s4d-vault) - Swap stablecoins or provide liquidity to earn risk-averse returns.
 
 ## Official Links
 
-* ****[**Website**](https://app.snowball.network)****
-* ****[**Discord**](https://discord.gg/BGpEHvehMz)****
-* ****[**Telegram**](https://t.me/throwsnowballs)
-* ****[**Medium**](https://medium.com/snowball-finance)
-* ****[**Twitter**](https://twitter.com/snowballdefi)
-* ****[**Github**](https://github.com/Snowball-Finance)
+* [**Website**](https://app.snowball.network)
+* [**Discord**](https://discord.gg/BGpEHvehMz)
+* [**Telegram**](https://t.me/throwsnowballs)
+* [**Medium**](https://medium.com/snowball-finance)
+* [**Twitter**](https://twitter.com/snowballdefi)
+* [**Github**](https://github.com/Snowball-Finance)
 
 {% hint style="info" %}
 New to DeFi? Learn more about the space on Snowball's very own [**DeFi University**](defi-university/introduction.md)!
