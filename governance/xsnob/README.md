@@ -2,7 +2,7 @@
 
 xSNOB is the staked version of SNOB. It is acquired by locking your SNOB for a predetermined amount of time on the [**xSNOB**](https://app.snowball.network/staking) page of our website. 
 
-## **How is xSNOB used?**
+## How is xSNOB used?
 
 The xSNOB token has four main applications:
 
@@ -29,7 +29,7 @@ See the links below for more info on each of these applications:
 [community-proposals.md](../community-proposals.md)
 {% endcontent-ref %}
 
-## **xSNOB Mechanisms**
+## xSNOB Mechanisms
 
 Your xSNOB balance is determined by two things: the amount of SNOB you have locked and the time left on your lock period. 
 
