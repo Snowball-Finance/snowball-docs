@@ -4,7 +4,7 @@
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Snowball Token (SNOB)`    | [0xc38f41a296a4493ff429f1238e030924a1542e50](https://cchain.explorer.avax.network/address/0xC38f41A296A4493Ff429F1238e030924A1542e50/transactions) |
 | `Governance`               | [0xfdCcf6D49A29f435E509DFFAAFDecB0ADD93f8C0](https://cchain.explorer.avax.network/address/0xfdCcf6D49A29f435E509DFFAAFDecB0ADD93f8C0/transactions) |
-| `Treasury`                 | [0x294aB3200ef36200db84C4128b7f1b4eec71E38a](https://cchain.explorer.avax.network/address/0x294aB3200ef36200db84C4128b7f1b4eec71E38a/tokens)       |
+| `Treasury`                 | [0x294aB3200ef36200db84C4128b7f1b4eec71E38a](https://cchain.explorer.avax.network/address/0x294aB3200ef36200db84C4128b7f1b4eec71E38a/transactions) |
 | `Council`                  | [0x028933a66DD0cCC239a3d5c2243b2d96672f11F5](https://cchain.explorer.avax.network/address/0x028933a66DD0cCC239a3d5c2243b2d96672f11F5/transactions) |
 | `Payroll`                  | [0x05faF04e3416e40Af70ecA1deEfe2E8B6feC3703](https://cchain.explorer.avax.network/address/0x05faF04e3416e40Af70ecA1deEfe2E8B6feC3703/transactions) |
 | `Proposal 3 Funds`         | [0x5df42ace37bA4AceB1f3465Aad9bbAcaA238D652](https://cchain.explorer.avax.network/address/0x5df42ace37bA4AceB1f3465Aad9bbAcaA238D652/transactions) |
