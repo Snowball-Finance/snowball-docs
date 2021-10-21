@@ -2,7 +2,7 @@
 
 Gauges control the distribution of SNOB to Snowball’s products. Gauges are voted on by xSNOB holders and are updated daily at approximately 0 UTC.
 
-## **How gauges work**
+## How gauges work
 
 Each pool in Snowball has an associated gauge, which can be voted on to add SNOB rewards. Pools earn a percentage of the total SNOB rewards distributed, depending on how xSNOB holders allocate them. Every day, gauges are updated to reflect the current votes.
 
