@@ -8,7 +8,7 @@ You need at least one of the pool's coins to deposit.
 
 2\) Head to the [**s4D StableVault**](https://app.snowball.network/s4d-vault) page on the Snowball website.
 
-3\) Click on **Liquidity**.
+3\) Click on **Liquidity**:
 
 ![](<../../.gitbook/assets/Screen Shot 2021-08-16 at 12.50.29 PM.png>)
 
@@ -18,7 +18,7 @@ You need at least one of the pool's coins to deposit.
 
 5\) Go to the [**Compound & Earn**](https://app.snowball.network/compound-and-earn) page on Snowball's website.
 
-6\) Find the s4D StableVault in the list of pairs and click **Deposit**.
+6\) Find the s4D StableVault in the list of pairs and click **Deposit**:
 
 ![](<../../.gitbook/assets/Screen Shot 2021-08-17 at 4.45.10 PM.png>)
 
