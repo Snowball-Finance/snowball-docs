@@ -8,11 +8,11 @@ This guide covers how to deposit into our compounding strategies on Snowball for
 
 2\) Find the pool you want to deposit into. In this example, we will use the AVAX-SNOB pool from Trader Joe.
 
-3\) Click on **Get JLP**.
+3\) Click on **Get JLP**:
 
 ![](<../../.gitbook/assets/Screen Shot 2021-08-02 at 7.18.03 PM (1).png>)
 
-4\) This will take you to the Trader Joe website. There you can select the amount of tokens you want to deposit. Once you've done that, select **Approve SNOB **(Will depend on what token you are depositing). You will be asked to approve the transaction in your wallet.
+4\) This will take you to the Trader Joe website. There you can select the amount of tokens you want to deposit. Once you've done that, select **Approve SNOB** (Will depend on what token you are depositing). You will be asked to approve the transaction in your wallet.
 
 ![](<../../.gitbook/assets/Screen Shot 2021-08-02 at 7.01.28 PM.png>)
 
