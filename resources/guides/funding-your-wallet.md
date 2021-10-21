@@ -2,11 +2,11 @@
 
 This guide provides one of the many ways to fund your wallet on the Avalanche network. This method avoids using the bridge due to reports of issues and delays in fund transfers through the bridge.
 
-In this guide, we are going to directly send AVAX tokens to the Avalanche X-Chain, bypassing the Ethereum Mainnet entirely. 
+In this guide, we are going to directly send AVAX tokens to the Avalanche X-Chain, bypassing the Ethereum Mainnet entirely.&#x20;
 
 _Note that this guide will require purchasing AVAX on a centralized exchange. For those who do not want to do this, the usage of a bridge from Ethereum or another chain is necessary._
 
-## 1) MetaMask Setup 
+## 1) MetaMask Setup&#x20;
 
 If you don't have MetaMask, install it [**here**](https://metamask.io/download).
 
@@ -16,7 +16,7 @@ This is where you will create or import an existing Ethereum wallet. If you donâ
 
 #### **Connect Metamask to Avalanche**
 
-Click the drop-down menu and select "Custom RPC." 
+Click the drop-down menu and select "Custom RPC."&#x20;
 
 ![](https://pangolin.exchange/tutorials/getting-started/001.png)
 
@@ -31,12 +31,12 @@ Enter the following settings into their respective fields:
 #### **Add the SNOB  Token (Optional)**
 
 1\)  Select "Add Token"\
- 
+&#x20;
 
 ![](https://pangolin.exchange/tutorials/getting-started/002.png)
 
 2\)  Select "Custom Token"\
- 
+&#x20;
 
 ![](https://pangolin.exchange/tutorials/getting-started/003.png)
 

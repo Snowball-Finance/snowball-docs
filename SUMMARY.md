@@ -51,6 +51,28 @@
 * [DeFi Glossary](resources/defi-glossary.md)
 * [Harvest Stats](resources/harvest-stats.md)
 
+## DeFi University
+
+* [Introduction](defi-university/introduction.md)
+* [Fundamentals](defi-university/fundamentals/README.md)
+  * [FN 101 - Decentralized Finance](defi-university/fundamentals/fn-101-decentralized-finance.md)
+  * [FN 102 - Wallets](defi-university/fundamentals/fn-102-wallets.md)
+  * [FN 103 - Block Explorers](defi-university/fundamentals/fn-103-block-explorers.md)
+  * [FN 104 - Tokens](defi-university/fundamentals/fn-104-tokens.md)
+  * [FN 221 - DEXs](defi-university/fundamentals/fn-221-dexs.md)
+  * [FN 231 - Stablecoins](defi-university/fundamentals/fn-231-stablecoins.md)
+* [Yield Farming](defi-university/yield-farming/README.md)
+  * [YF 111 - Lending Markets](defi-university/yield-farming/yf-111-lending-markets.md)
+  * [YF 122 - Liquidity Pools](defi-university/yield-farming/yf-122-liquidity-pools.md)
+  * [YF 261 - Auto-Compounding](defi-university/yield-farming/yf-261-auto-compounding.md)
+  * [YF 312 - Folding](defi-university/yield-farming/yf-312-folding.md)
+  * [YF 323 - Impermanent Loss](defi-university/yield-farming/yf-323-impermanent-loss.md)
+  * [YF 424 - LP Math](defi-university/yield-farming/yf-424-lp-math.md)
+* [Governance](defi-university/governance/README.md)
+  * [GV 141 - DAOs](defi-university/governance/gv-141-daos.md)
+* [Extracurricular](defi-university/extracurricular/README.md)
+  * [EX 151 - Spotting Scams](defi-university/extracurricular/ex-151-spotting-scams.md)
+
 ## Developers
 
 * [Integrations](developers/integrations/README.md)
