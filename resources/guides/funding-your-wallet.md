@@ -2,21 +2,21 @@
 
 This guide provides one of the many ways to fund your wallet on the Avalanche network. This method avoids using the bridge due to reports of issues and delays in fund transfers through the bridge.
 
-In this guide, we are going to directly send AVAX tokens to the Avalanche X-Chain, bypassing the Ethereum Mainnet entirely.&#x20;
+In this guide, we are going to directly send AVAX tokens to the Avalanche X-Chain, bypassing the Ethereum Mainnet entirely.
 
 _Note that this guide will require purchasing AVAX on a centralized exchange. For those who do not want to do this, the usage of a bridge from Ethereum or another chain is necessary._
 
-## 1) MetaMask Setup&#x20;
+## 1) MetaMask Setup
 
 If you don't have MetaMask, install it [**here**](https://metamask.io/download).
 
-#### **Create a Wallet or Import an Existing Wallet**
+#### Create a Wallet or Import an Existing Wallet
 
 This is where you will create or import an existing Ethereum wallet. If you don’t have an existing Ethereum wallet, select "Create a Wallet." Always keep your password, seed phrase and private key to yourself and make sure to write it down. If you lose all three, you may not be able to access your funds. **Note: This is the wallet that will be used to conduct transactions on Avalanche.**
 
-#### **Connect Metamask to Avalanche**
+#### Connect Metamask to Avalanche
 
-Click the drop-down menu and select "Custom RPC."&#x20;
+Click the drop-down menu and select "Custom RPC":
 
 ![](https://pangolin.exchange/tutorials/getting-started/001.png)
 
@@ -28,15 +28,13 @@ Enter the following settings into their respective fields:
 * **Symbol**: AVAX
 * **Explorer**: https://cchain.explorer.avax.network/
 
-#### **Add the SNOB  Token (Optional)**
+#### Add the SNOB  Token (Optional)
 
-1\)  Select "Add Token"\
-&#x20;
+1\)  Select "Add Token":
 
 ![](https://pangolin.exchange/tutorials/getting-started/002.png)
 
-2\)  Select "Custom Token"\
-&#x20;
+2\)  Select "Custom Token":
 
 ![](https://pangolin.exchange/tutorials/getting-started/003.png)
 
@@ -74,15 +72,15 @@ After you have successfully accessed your wallet through Avalanche Wallet, you w
 
 ![](<../../.gitbook/assets/image (2).png>)
 
-#### **Copy Your X-Chain Address**
+#### Copy Your X-Chain Address
 
 You can use this address in order to send AVAX from an exchange to your wallet.
 
 Some relevant articles on how to withdraw from some of the most popular exchanges:
 
-* ****[**https://medium.com/avalancheavax/avalanche-avax-can-now-be-purchased-using-a-debit-or-credit-card-via-simplex-c54a4c7fda30**](https://medium.com/avalancheavax/avalanche-avax-can-now-be-purchased-using-a-debit-or-credit-card-via-simplex-c54a4c7fda30)****
-* ****[**https://academy.binance.com/en/articles/how-to-withdraw**](https://academy.binance.com/en/articles/how-to-withdraw)****
-* ****[**https://support.kraken.com/hc/en-us/articles/360000672763-How-to-withdraw-cryptocurrencies-from-your-Kraken-account**](https://support.kraken.com/hc/en-us/articles/360000672763-How-to-withdraw-cryptocurrencies-from-your-Kraken-account)****
+* [**https://medium.com/avalancheavax/avalanche-avax-can-now-be-purchased-using-a-debit-or-credit-card-via-simplex-c54a4c7fda30**](https://medium.com/avalancheavax/avalanche-avax-can-now-be-purchased-using-a-debit-or-credit-card-via-simplex-c54a4c7fda30)
+* [**https://academy.binance.com/en/articles/how-to-withdraw**](https://academy.binance.com/en/articles/how-to-withdraw)
+* [**https://support.kraken.com/hc/en-us/articles/360000672763-How-to-withdraw-cryptocurrencies-from-your-Kraken-account**](https://support.kraken.com/hc/en-us/articles/360000672763-How-to-withdraw-cryptocurrencies-from-your-Kraken-account)
 
 _For U.S. residents, you can use the _[_**OKcoin**_](https://www.okcoin.com)_ exchange to buy AVAX._
 
@@ -90,7 +88,7 @@ _For U.S. residents, you can use the _[_**OKcoin**_](https://www.okcoin.com)_ ex
 
 Once you send your AVAX tokens from your exchange, they should show up on your X-Chain wallet address through Avalanche Wallet. We are going to move them to your C-Chain wallet address so that it is visible and usable from your MetaMask wallet.
 
-Click on** Cross Chain **on the left. You will be presented with a choice for **Source Chain** and **Destination Chain**. Select X-Chain and C-Chain, respectively. You will see your X-Chain and C-Chain balances, and an input field for entering the amount to transfer from the source chain to the destination chain.
+Click on **Cross Chain** on the left. You will be presented with a choice for **Source Chain** and **Destination Chain**. Select X-Chain and C-Chain, respectively. You will see your X-Chain and C-Chain balances, and an input field for entering the amount to transfer from the source chain to the destination chain.
 
 ![](<../../.gitbook/assets/image (3).png>)
 
