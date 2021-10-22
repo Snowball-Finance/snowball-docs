@@ -33,7 +33,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 8\) Find the **depositAll** method; it is usually the 4th method.
 
 {% hint style="danger" %}
-Never dep
+**Never deposit tokens directly into a compounding gauge contract. Doing so will lead to a loss of funds.** Steps 9 and 14 are to deposit into the compounding deposit contract and compounding gauge contract respectively. These need to be followed in order.
 {% endhint %}
 
 9\) Click **Write**. You will be asked to approve the transaction through your wallet.
@@ -84,7 +84,7 @@ Never dep
 
 ![](../../.gitbook/assets/Manual5.png)
 
-3\) Find the \*\*withdrawAll \*\*method; it is usually the 12th method.
+3\) Find the **withdrawAll** method; it is usually the 12th method.
 
 4\) Click **Write**. You will be asked to approve the transaction through your wallet.
 
@@ -96,7 +96,7 @@ Never dep
 
 ![](../../.gitbook/assets/Manual8.png)
 
-7\) Find the \*\*withdrawAll \*\*method; it is usually the 12th method.
+7\) Find the **withdrawAll** method; it is usually the 12th method.
 
 8\) Click **Write**. You will be asked to approve the transaction through your wallet.
 
