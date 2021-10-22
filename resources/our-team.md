@@ -64,7 +64,7 @@ Feds hails from Italy, and has a masters of science degree in interaction design
 
 #### ![](../.gitbook/assets/cryptogoddess91.webp) Cryptogoddess91 (UI/UX Design) | [Twitter](https://twitter.com/cryptogoddess91)
 
-Cryptogoddess91 is from the US, and has three associate degrees in business administration, social and behavioral sciences and natural sciences. When they aren't dancing, laughing or exploring the world they are using their creative skills to create amazing UX designs for Snowball's community.
+Cryptogoddess91 is from the US, and has three associate degrees in business administration, social and behavioral sciences and natural sciences, as well as a nanodegree in UX design. When they aren't dancing, laughing or exploring the world they are using their creative skills to create amazing UX designs for Snowball's community.
 
 #### ![](../.gitbook/assets/pan\_.webp) Pan\_ (UI/UX Design)
 
