@@ -8,7 +8,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 ## Depositing into Compounding Strategies
 
-1\) Supply liquidity to a pool on [**Pangolin**](https://app.pangolin.exchange/#/png/1) or [**Trader Joe**](https://www.traderjoexyz.com/#/pool) that receives rewards.
+1\) If depositing LP tokens, first supply liquidity to a pool on [**Pangolin**](https://app.pangolin.exchange/#/png/1) or [**Trader Joe**](https://www.traderjoexyz.com/#/pool) that receives rewards.
 
 2\) Find the contract address for the pool you deposited into and open it on a [**C-Chain block explorer**](https://cchain.explorer.avax.network). On Pangolin, this can be found on their [**analytics page**](https://info.pangolin.exchange/#/home). On Trader Joe, this can be found through their [**pools page**](https://www.traderjoexyz.com/#/pool).
 
@@ -31,6 +31,10 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 ![](../../.gitbook/assets/Manual8.png)
 
 8\) Find the **depositAll** method; it is usually the 4th method.
+
+{% hint style="danger" %}
+Never dep
+{% endhint %}
 
 9\) Click **Write**. You will be asked to approve the transaction through your wallet.
 
@@ -80,7 +84,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 ![](../../.gitbook/assets/Manual5.png)
 
-3\) Find the **withdrawAll **method; it is usually the 12th method.
+3\) Find the \*\*withdrawAll \*\*method; it is usually the 12th method.
 
 4\) Click **Write**. You will be asked to approve the transaction through your wallet.
 
@@ -92,7 +96,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 ![](../../.gitbook/assets/Manual8.png)
 
-7\) Find the **withdrawAll **method; it is usually the 12th method.
+7\) Find the \*\*withdrawAll \*\*method; it is usually the 12th method.
 
 8\) Click **Write**. You will be asked to approve the transaction through your wallet.
 
