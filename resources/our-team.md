@@ -16,11 +16,13 @@ Want to be a part of our team and contribute to the development of Snowball? Rea
 
 #### ![](../.gitbook/assets/abominablesasquatch.webp) Abominable Sasquatch (Co-Founder) | [**Twitter**](https://twitter.com/abominablesas)
 
-#### ![](../.gitbook/assets/jomari.webp) Jomari (Lead Smart Contract Engineer) | [**Twitter**](https://twitter.com/Jomari\_P)
+Abominable Sasquatch is enjoying the Avalanche.
+
+#### ![](../.gitbook/assets/jomari.webp) Jomari (**Core Strategist**) | [**Twitter**](https://twitter.com/Jomari\_P)
 
 #### ![](../.gitbook/assets/jonas.webp) Jonas (Lead Software Engineer) | [**Twitter**](https://twitter.com/cyberjenos)
 
-Jonas is a Brazilian software engineer with over 7 years of experience working with ERP systems and other web 2.0 technologies. Having coded Pangolin's 'Pangobot' for fun, they quickly become involved with the Avalanche ecosystem, and now contributed much to the back-end and front-end development of Snowball.
+Jonas is a Brazilian software engineer with over 7 years of experience working with ERP systems and other web 2.0 technologies. Having coded Pangolin's 'Pangobot' for fun, they quickly become involved with the Avalanche ecosystem, and now contributed much to the back-end and front-end development of Snowball. They are also a member of Snowball's council.
 
 #### ![](../.gitbook/assets/bloomie.webp) Bloomie (Council Member) | [**Twitter**](https://twitter.com/BloomieBTC)
 
