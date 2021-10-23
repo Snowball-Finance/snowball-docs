@@ -35,7 +35,6 @@
 | `AVAX - GDL`     | [0x342476c1F9436277acBC088788D0De53b8b34106](https://cchain.explorer.avax.network/address/0x342476c1F9436277acBC088788D0De53b8b34106/transactions) |
 | `AVAX - MFI`     | [0x2F2Ba207f86b46b05a1c79e50b9f980e267719B8](https://cchain.explorer.avax.network/address/0x2F2Ba207f86b46b05a1c79e50b9f980e267719B8/transactions) |
 | `AVAX - AVE`     | [0xD579719d3a58492D803c7d60E3565733a4ba3DEa](https://cchain.explorer.avax.network/address/0xD579719d3a58492D803c7d60E3565733a4ba3DEa/transactions) |
-| `AVAX - FXS`     | [0x07E837D2ae3F2fB565ABdAa80797d47412FC3a94](https://cchain.explorer.avax.network/address/0x07E837D2ae3F2fB565ABdAa80797d47412FC3a94/transactions) |
 | `AVAX - START`   | [0x973509A4e6DfAA2B5753fC8FB4f85F861fFbA8BB](https://cchain.explorer.avax.network/address/0x973509A4e6DfAA2B5753fC8FB4f85F861fFbA8BB/transactions) |
 | `AVAX - SWAP`    | [0x7Fc1954FbC383e5c477b81c0E1CFBf3846D0dE10](https://cchain.explorer.avax.network/address/0x7Fc1954FbC383e5c477b81c0E1CFBf3846D0dE10/transactions) |
 | `AVAX - TUNDRA`  | [0x05Bba89E406792D2d73d6D4022347c3893b02a20](https://cchain.explorer.avax.network/address/0x05Bba89E406792D2d73d6D4022347c3893b02a20/transactions) |
@@ -122,7 +121,6 @@
 | `AVAX - GDL`     | [0xD9Eb45274edEA6780D0608E8406706F7e072A1e5](https://cchain.explorer.avax.network/address/0xD9Eb45274edEA6780D0608E8406706F7e072A1e5/transactions) |
 | `AVAX - MFI`     | [0xe38FBfD228a6aFc9335E7FCA067c7BFB38477778](https://cchain.explorer.avax.network/address/0xe38FBfD228a6aFc9335E7FCA067c7BFB38477778/transactions) |
 | `AVAX - AVE`     | [0x0750b2C5DB83fbc3cd3a441193566AB88e9b61B8](https://cchain.explorer.avax.network/address/0x0750b2C5DB83fbc3cd3a441193566AB88e9b61B8/transactions) |
-| `AVAX - FXS`     | [0xA4BB2C3BDE08FAB2c1a9537B57f08653f51e8fEf](https://cchain.explorer.avax.network/address/0xA4BB2C3BDE08FAB2c1a9537B57f08653f51e8fEf/transactions) |
 | `AVAX - START`   | [0xa66e5568d5b79338d99d8A10FbCA2bB813615e45](https://cchain.explorer.avax.network/address/0xa66e5568d5b79338d99d8A10FbCA2bB813615e45/transactions) |
 | `AVAX - SWAP`    | [0xEFD3C8c866D93B71314114dfdd4f64Fc5525d000](https://cchain.explorer.avax.network/address/0xEFD3C8c866D93B71314114dfdd4f64Fc5525d000/transactions) |
 | `AVAX - TUNDRA`  | [0x3dB4B5A0164D832Cd0f87d3051F3BA2377935B97](https://cchain.explorer.avax.network/address/0x3dB4B5A0164D832Cd0f87d3051F3BA2377935B97/transactions) |
@@ -209,7 +207,6 @@
 | `AVAX - GDL`     | [0xd3ff20d6ae096f7f409ccb0648bef04387166ed5](https://cchain.explorer.avax.network/address/0xD3ff20d6Ae096f7F409ccB0648bEF04387166eD5/transactions) |
 | `AVAX - MFI`     | [0x94ee0d35cf0f6fbbad224d9757fc2a87ea643ca4](https://cchain.explorer.avax.network/address/0x94Ee0d35cF0F6FBbAD224D9757FC2a87Ea643CA4/transactions) |
 | `AVAX - AVE`     | [0xcb88f7e2092335ca45439c2d806767c08dba9b99](https://cchain.explorer.avax.network/address/0xCB88F7e2092335Ca45439c2D806767c08DbA9b99/transactions) |
-| `AVAX - FXS`     | [0x22b7e7694739Ee6fb5Fd05b8A1c601C6C568F99A](https://cchain.explorer.avax.network/address/0x22b7e7694739Ee6fb5Fd05b8A1c601C6C568F99A/transactions) |
 | `AVAX - START`   | [0x1e6063cff3fb325d08c80048ee8c168a8799010a](https://cchain.explorer.avax.network/address/0x1e6063cFF3fb325D08c80048ee8c168A8799010a/transactions) |
 | `AVAX - SWAP`    | [0xac2f4a0c972e8e4ddc5b3455620c76116c90e0c2](https://cchain.explorer.avax.network/address/0xAC2f4a0C972E8E4DDc5B3455620c76116c90E0C2/transactions) |
 | `AVAX - TUNDRA`  | [0x814320bdc7ec20cc33fed8e875653189da16392e](https://cchain.explorer.avax.network/address/0x814320bdC7eC20cc33fed8E875653189DA16392E/transactions) |
