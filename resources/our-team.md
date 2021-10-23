@@ -34,7 +34,9 @@ Jonas is a Brazilian software engineer with over 7 years of experience working w
 
 Saito hails from El Salvador, and has over 9 years of experience in software engineering and software architecture. They've helped develop much of the back-end, dev-ops and infrastructure behind Snowball's products.
 
-#### ![](../.gitbook/assets/timbotronic.webp) Timbotronic (Software Engineer)
+#### ![](../.gitbook/assets/timbotronic.webp) Timbotronic (Smart Contract Engineer)
+
+Timbotronic is our resident British cat-lover, coming from the world of TradFi turned degen through DeFi. At Snowball they help manage our smart contract infrastructure through Hardhat deployments, tests and more.
 
 #### ![](../.gitbook/assets/tide.webp) Tide (Smart Contract Engineer)
 
