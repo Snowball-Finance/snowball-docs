@@ -23,6 +23,7 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `AVAX - DAI`   | `Pangolin`   | [0xb21b21E4fA802EE4c158d7cf4bD5416B8035c5e0](https://cchain.explorer.avax.network/address/0xb21b21E4fA802EE4c158d7cf4bD5416B8035c5e0/transactions) |
 | `AVAX - UNI`   | `Pangolin`   | [0xdf7F15d05d641dF701D961a38d03028e0a26a42D](https://cchain.explorer.avax.network/address/0xdf7F15d05d641dF701D961a38d03028e0a26a42D/transactions) |
 | `AVAX - FRAX`  | `Pangolin`   | [0xD0686AC7d0CfFd00A29567D37774058452210D57](https://cchain.explorer.avax.network/address/0xD0686AC7d0CfFd00A29567D37774058452210D57/transactions) |
+| `AVAX - FXS`   | `Pangolin`   | [0x07E837D2ae3F2fB565ABdAa80797d47412FC3a94](https://cchain.explorer.avax.network/address/0x07E837D2ae3F2fB565ABdAa80797d47412FC3a94/transactions) |
 | `PNG - ETH`    | `Pangolin`   | [0x3815f36C3d60d658797958EAD8778f6500be16Df](https://cchain.explorer.avax.network/address/0x3815f36C3d60d658797958EAD8778f6500be16Df/transactions) |
 | `PNG - wBTC`   | `Pangolin`   | [0x763Aa38c837f61DD8429313933Cc47f24E881430](https://cchain.explorer.avax.network/address/0x763Aa38c837f61DD8429313933Cc47f24E881430/transactions) |
 | `PNG - LINK`   | `Pangolin`   | [0x392c51Ab0AF3017E3e22713353eCF5B9d6fBDE84](https://cchain.explorer.avax.network/address/0x392c51Ab0AF3017E3e22713353eCF5B9d6fBDE84/transactions) |
@@ -56,6 +57,7 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `AVAX - DAI`   | `Pangolin`   | [0xe6D5806B2248777761adE4Bc4f38E9AAB6Bf9BC2](https://cchain.explorer.avax.network/address/0xe6D5806B2248777761adE4Bc4f38E9AAB6Bf9BC2/transactions) |
 | `AVAX - UNI`   | `Pangolin`   | [0x6eb9CB199C55De50279a69705BA88C146FADC574](https://cchain.explorer.avax.network/address/0x6eb9CB199C55De50279a69705BA88C146FADC574/transactions) |
 | `AVAX - FRAX`  | `Pangolin`   | [0x36c98A11a2B41A5b9b5ebAF8D3160EB8d2fC1800](https://cchain.explorer.avax.network/address/0x36c98A11a2B41A5b9b5ebAF8D3160EB8d2fC1800/transactions) |
+| `AVAX - FXS`   | `Pangolin`   | [0xA4BB2C3BDE08FAB2c1a9537B57f08653f51e8fEf](https://cchain.explorer.avax.network/address/0xA4BB2C3BDE08FAB2c1a9537B57f08653f51e8fEf/transactions) |
 | `PNG - ETH`    | `Pangolin`   | [0x9B3298Dba29A1Fc7061A4eF9b360eAa12879C911](https://cchain.explorer.avax.network/address/0x9B3298Dba29A1Fc7061A4eF9b360eAa12879C911/transactions) |
 | `PNG - wBTC`   | `Pangolin`   | [0xafbA321B14A22501466d18eA0D9616f8e90Fc378](https://cchain.explorer.avax.network/address/0xafbA321B14A22501466d18eA0D9616f8e90Fc378/transactions) |
 | `PNG - LINK`   | `Pangolin`   | [0xe11248e5c0a98038633603F291267b74183AB7be](https://cchain.explorer.avax.network/address/0xe11248e5c0a98038633603F291267b74183AB7be/transactions) |
@@ -89,6 +91,7 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `AVAX - DAI`    | `Pangolin`   | [0x2e2191fde0872e686b0a5117cd639896d2c8ad97](https://cchain.explorer.avax.network/address/0x2e2191fde0872e686b0a5117Cd639896D2C8Ad97/transactions) |
 | `AVAX - UNI`    | `Pangolin`   | [0x0e06c4d0ecaae66b82ebc9133ca52ea82702cd30](https://cchain.explorer.avax.network/address/0x0e06C4D0ECAaE66B82eBC9133Ca52EA82702CD30/transactions) |
 | `AVAX - FRAX`  | `Pangolin`   | [0x54DD846ec886449Baf4D19A844B1F5C597Acb48B](https://cchain.explorer.avax.network/address/0x54DD846ec886449Baf4D19A844B1F5C597Acb48B/transactions) |
+| `AVAX - FXS`   | `Pangolin`   | [0x22b7e7694739Ee6fb5Fd05b8A1c601C6C568F99A](https://cchain.explorer.avax.network/address/0x22b7e7694739Ee6fb5Fd05b8A1c601C6C568F99A/transactions) |
 | `PNG - ETH`     | `Pangolin`   | [0x5f05dc58ee067c91a98ec025d5c332af40b84667](https://cchain.explorer.avax.network/address/0x5F05DC58Ee067C91a98eC025d5C332aF40B84667/transactions) |
 | `PNG - wBTC`    | `Pangolin`   | [0x1e544e0eedc7e44f506f2ae7d389e0b07289e3c1](https://cchain.explorer.avax.network/address/0x1e544e0eEDC7E44F506f2ae7d389e0b07289e3C1/transactions) |
 | `PNG - LINK`    | `Pangolin`   | [0xc4960af75f321c7fb36b725afc6059727e2db457](https://cchain.explorer.avax.network/address/0xC4960aF75F321C7FB36b725Afc6059727e2DB457/transactions) |
