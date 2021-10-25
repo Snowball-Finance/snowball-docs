@@ -40,7 +40,7 @@ _These vaults are in the process of being deprecated. _
 
 [**s3D StableVault**](https://app.snowball.network/s3d-vault) - a 3 token pool between USDT, DAI, and BUSD
 
-****[**s3F StableVault**](https://app.snowball.network/s3f-vault) - a 3 token pool between USDT, FRAX, and TUSD
+[**s3F StableVault**](https://app.snowball.network/s3f-vault) - a 3 token pool between USDT, FRAX, and TUSD
 
 ## StableVault Resources
 
