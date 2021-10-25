@@ -35,3 +35,7 @@ All APR and APY values displayed on Snowball have already taken into account our
 ### I don't see my pool on Snowball anymore. Are my funds safe?
 
 If a pool you've deposited into is deprecated (no longer in use) it will not be displayed on our website. But do not worry, your funds are safe. Check out our guides [**here**](../guides/) on how to withdraw them.
+
+### Can I get liquidated when depositing in any of Snowball's single-asset auto-compounding strategies?
+
+There is no liquidation risk for any of Snowball's strategies. This is because on our folding strategies, you are borrowing the same token you are providing as collateral, and Snowball is constantly re-investing your rewards, so your borrowed amount will never surpass 100% of your collateral's value.
