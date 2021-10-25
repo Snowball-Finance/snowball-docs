@@ -35,7 +35,7 @@ Your xSNOB balance is determined by two things: the amount of SNOB you have lock
 
 SNOB must be locked for a predetermined amount of time. During this time your SNOB cannot be removed or transferred, and you cannot decrease the amount of time it is locked for. The minimum lock period is 1 week and the maximum lock period is 2 years. You will receive more xSNOB the longer your SNOB is locked.
 
-| **SNOB Staked** | **Time Staked** | **xSNOB Received** |
+|   SNOB Staked   |   Time Staked   |   xSNOB Received   |
 | :-------------: | :-------------: | :----------------: |
 |        1        |      1 week     |        0.01        |
 |        1        |     1 month     |        0.04        |
