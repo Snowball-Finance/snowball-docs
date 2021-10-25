@@ -24,8 +24,8 @@ Block explorers provide a way to view information on the blockchain in a simple 
 
 The Avalanche C-Chain has two main block explorers:
 
-* **Native Avax Explorer** - [**https://cchain.explorer.avax.network/**](https://cchain.explorer.avax.network)****
-* **AvaScan** - [**https://avascan.info/blockchain/c/txs**](https://avascan.info/blockchain/c/txs)****
+* **Native Avax Explorer** - [**https://cchain.explorer.avax.network/**](https://cchain.explorer.avax.network)
+* **AvaScan** - [**https://avascan.info/blockchain/c/txs**](https://avascan.info/blockchain/c/txs)
 
 {% hint style="info" %}
 All smart contract / DeFi-related transactions take place on Avalanche's C-Chain (Contract Chain). The links above are for this chain. The X-Chain and P-Chain have their own URLs.
@@ -37,11 +37,11 @@ Both explorers provide the same type of information, but have differing visuals 
 
 Other blockchains also have their own block explorers. The most popular ones are linked below:
 
-* **Ethereum** - [**https://etherscan.io/**](https://etherscan.io)****
-* **Binance Smart Chain** - [**https://bscscan.com/**](https://bscscan.com)****
-* **Polygon** - [**https://polygonscan.com/**](https://polygonscan.com)****
-* **Fantom** - [**https://ftmscan.com/**](https://ftmscan.com)****
-* **Harmony **-** **[**https://explorer.harmony.one/**](https://explorer.harmony.one)****
+* **Ethereum** - [**https://etherscan.io/**](https://etherscan.io)
+* **Binance Smart Chain** - [**https://bscscan.com/**](https://bscscan.com)
+* **Polygon** - [**https://polygonscan.com/**](https://polygonscan.com)
+* **Fantom** - [**https://ftmscan.com/**](https://ftmscan.com)
+* **Harmony** - [**https://explorer.harmony.one/**](https://explorer.harmony.one)
 
 ## Block Explorer Utilities
 
