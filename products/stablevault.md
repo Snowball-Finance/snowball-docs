@@ -36,7 +36,7 @@ In the future, StableVault will integrate with lending strategies across Avalanc
 
 ## Deprecated StableVaults
 
-_These vaults are in the process of being deprecated. _
+_These vaults are in the process of being deprecated._
 
 [**s3D StableVault**](https://app.snowball.network/s3d-vault) - a 3 token pool between USDT, DAI, and BUSD
 
