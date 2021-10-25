@@ -10,11 +10,11 @@ Weekly snapshots are taken every Sunday, and this page is updated every Monday.
 
 {% tabs %}
 {% tab title="Total Value Harvested" %}
-![](../.gitbook/assets/VH0-17-10-21.png)
+![](<../.gitbook/assets/Total Value Harvested.png>)
 {% endtab %}
 
 {% tab title="Token Distribution" %}
-![](../.gitbook/assets/VH1-17-10-21.png)
+![](<../.gitbook/assets/Token Distribution.png>)
 {% endtab %}
 {% endtabs %}
 
@@ -22,18 +22,18 @@ Weekly snapshots are taken every Sunday, and this page is updated every Monday.
 
 {% tabs %}
 {% tab title="JOE" %}
-![](../.gitbook/assets/JOE-17-10-21.png)
+![](<../.gitbook/assets/JOE Harvested.png>)
 {% endtab %}
 
 {% tab title="PNG" %}
-![](../.gitbook/assets/PNG-17-10-21.png)
+![](<../.gitbook/assets/PNG Harvested.png>)
 {% endtab %}
 
 {% tab title="QI" %}
-![](../.gitbook/assets/QI-17-10-21.png)
+![](<../.gitbook/assets/QI Harvested.png>)
 {% endtab %}
 
 {% tab title="WAVAX" %}
-![](../.gitbook/assets/WAVAX-17-10-21.png)
+![](<../.gitbook/assets/WAVAX Harvested.png>)
 {% endtab %}
 {% endtabs %}
