@@ -18,6 +18,22 @@ Weekly snapshots are taken every Sunday, and this page is updated every Monday.
 {% endtab %}
 {% endtabs %}
 
+## Strategy Type Stats
+
+{% tabs %}
+{% tab title="Harvest Totals By Strategy Type" %}
+![](<../.gitbook/assets/Harvest Totals By Strategy Type.png>)
+{% endtab %}
+
+{% tab title="LP Strategies" %}
+![](<../.gitbook/assets/LP Strategy Distribution.png>)
+{% endtab %}
+
+{% tab title="Single-Asset Strategies" %}
+![](<../.gitbook/assets/Single-Asset Strategy Distribution.png>)
+{% endtab %}
+{% endtabs %}
+
 ## Individual Token Stats
 
 {% tabs %}
