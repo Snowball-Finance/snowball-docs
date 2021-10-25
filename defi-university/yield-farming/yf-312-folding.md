@@ -72,7 +72,7 @@ A more aggressive folding strategy using more folds and a 90% borrowing threshol
 
 ## The Risks
 
-As with any leveraged or margin trading strategy, the most important risk to keep in mind when folding is liquidations. **In contrast to most leveraged strategies, however, folding carries no liquidation risk on price movements. **This is because you are borrowing the same asset you are lending, meaning the price ratio of your borrowed assets to your collateral will always remain the same.
+As with any leveraged or margin trading strategy, the most important risk to keep in mind when folding is liquidations. **In contrast to most leveraged strategies, however, folding carries no liquidation risk on price movements.** This is because you are borrowing the same asset you are lending, meaning the price ratio of your borrowed assets to your collateral will always remain the same.
 
 There is still risk of liquidation, but one entirely under your control. This is because the benefits of folding are to dramatically increase the amount of incentive rewards you are accumulating, but you are still losing funds due to the borrowing interest rate you are exposed to. In practice, this means you are losing token A while gaining even more of token B. Your collateral is token A, and the platform incentives you are receiving is token B.
 
