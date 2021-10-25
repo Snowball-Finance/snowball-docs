@@ -44,7 +44,7 @@ Now that the pool is rebalanced, it accurately reflects the prices of USDC and A
 
 Alice still has 1000 USDC and 10 AVAX; now worth $2100 in total.
 
-If Bob were to withdraw their funds from the liquidity pool, the 1048.81 USDC and 9.53 AVAX would now be worth $2097.62. **Bob has experienced an impermanent loss of -$2.38. **Of course this doesn't take into consideration any profit Bob has made in trading fees or rewards while providing liquidity to the pool, which Alice would have missed out on.
+If Bob were to withdraw their funds from the liquidity pool, the 1048.81 USDC and 9.53 AVAX would now be worth $2097.62. **Bob has experienced an impermanent loss of -$2.38.** Of course this doesn't take into consideration any profit Bob has made in trading fees or rewards while providing liquidity to the pool, which Alice would have missed out on.
 
 {% hint style="info" %}
 If you're looking for a more in-depth explanation of the math behind LP and impermanent loss calculations, check out the YF 424 course on 'LP Math'.
