@@ -32,7 +32,7 @@ You now should have LP tokens in your wallet. Don't worry if they are not displa
 
 ![](<../../.gitbook/assets/Screen Shot 2021-08-26 at 12.28.15 PM (1).png>)
 
-9\) Click **Deposit**. You will be asked to approve the transaction in your wallet **twice **again.
+9\) Click **Deposit**. You will be asked to approve the transaction in your wallet **twice** again.
 
 ![](<../../.gitbook/assets/Screen Shot 2021-08-26 at 12.28.31 PM.png>)
 
