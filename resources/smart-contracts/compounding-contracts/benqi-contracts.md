@@ -10,6 +10,7 @@
 | `LINK.e` | [0x32d9D114A2F5aC4ce777463e661BFA28C8fE9Eb7](https://cchain.explorer.avax.network/address/0x32d9D114A2F5aC4ce777463e661BFA28C8fE9Eb7/transactions) |
 | `USDC.e` | [0xa8981Eab82d0a471b37F7d87A221C92aE60c0E00](https://cchain.explorer.avax.network/address/0xa8981Eab82d0a471b37F7d87A221C92aE60c0E00/transactions) |
 | `QI`     | [0x68b8037876385BBd6bBe80bAbB2511b95DA372C4](https://cchain.explorer.avax.network/address/0x68b8037876385BBd6bBe80bAbB2511b95DA372C4/transactions) |
+| `WAVAX`  | [0x7b74324f523831687fC8FCE946F15a3AA632dC06](https://cchain.explorer.avax.network/address/0x7b74324f523831687fC8FCE946F15a3AA632dC06/transactions) |
 
 ## Compounding Strategy Contracts
 
@@ -21,6 +22,7 @@
 | `LINK.e` | [0xbd86DdDf32923763F26A0eB051c35b6442c323fe](https://cchain.explorer.avax.network/address/0xbd86DdDf32923763F26A0eB051c35b6442c323fe/transactions) |
 | `USDC.e` | [0xb9B9800d18287dDB04296Bd47192daba159d8128](https://cchain.explorer.avax.network/address/0xb9B9800d18287dDB04296Bd47192daba159d8128/transactions) |
 | `QI`     | [0xEC09CbA71eA33C8f3559889b8191Ec889f3f0f8A](https://cchain.explorer.avax.network/address/0xEC09CbA71eA33C8f3559889b8191Ec889f3f0f8A/transactions) |
+| `WAVAX`  | [0x6A7464013bAB4724fC62D5ff8F8Dc8583Cc143ec](https://cchain.explorer.avax.network/address/0x6A7464013bAB4724fC62D5ff8F8Dc8583Cc143ec/transactions) |
 
 ## Compounding Gauge Contracts
 
@@ -32,3 +34,4 @@
 | `LINK.e` | [0x3605a13e60c5c40d448262c2665d45f7ff06894f](https://cchain.explorer.avax.network/address/0x3605a13e60C5C40d448262c2665d45f7FF06894F/transactions) |
 | `USDC.e` | [0xe0d541537f78372de01c54d1446c0827d542a28a](https://cchain.explorer.avax.network/address/0xe0d541537f78372DE01C54D1446C0827D542a28A/transactions) |
 | `QI`     | [0x0Ec726BF3FF6CBf58c9f300d86F5fAd149a52039](https://cchain.explorer.avax.network/address/0x0Ec726BF3FF6CBf58c9f300d86F5fAd149a52039/transactions) |
+| `WAVAX`  | [0xaBe28c3B53E8200C87aDb2b790d3594C3fcEf16d](https://cchain.explorer.avax.network/address/0xaBe28c3B53E8200C87aDb2b790d3594C3fcEf16d/transactions) |
