@@ -34,11 +34,11 @@ Snowball has our very StableVault product, which allows for swapping stablecoins
 
 Other chains also have their own DEXs. The following are a few with decent functionality in each of the most popular chains:
 
-* **Ethereum** - [**UniSwap**](https://app.uniswap.org/#/swap), [**Curve**](https://curve.fi), [**1Inch**](https://app.1inch.io/#/1/swap), [**SushiSwap**](https://app.sushi.com/swap)****
-* **Binance Smart Chain** - [**PancakeSwap**](https://pancakeswap.finance/swap), [**1Inch**](https://app.1inch.io/#/56/swap), [**SushiSwap**](https://app.sushi.com/swap)****
-* **Polygon** - [**QuickSwap**](https://quickswap.exchange/#/swap), [**Curve**](https://polygon.curve.fi), [**1Inch**](https://app.1inch.io/#/137/swap), [**SushiSwap**](https://app.sushi.com/swap)****
-* **Fantom** - [**SpookySwap**](https://spookyswap.finance/swap), [**Curve**](https://ftm.curve.fi)****
-* **Harmony **- [**Curve**](https://harmony.curve.fi),** **[**SushiSwap**](https://app.sushi.com/swap),** **[**ViperSwap**](https://viperswap.one/#/swap)****
+* **Ethereum** - [**UniSwap**](https://app.uniswap.org/#/swap), [**Curve**](https://curve.fi), [**1Inch**](https://app.1inch.io/#/1/swap), [**SushiSwap**](https://app.sushi.com/swap)
+* **Binance Smart Chain** - [**PancakeSwap**](https://pancakeswap.finance/swap), [**1Inch**](https://app.1inch.io/#/56/swap), [**SushiSwap**](https://app.sushi.com/swap)
+* **Polygon** - [**QuickSwap**](https://quickswap.exchange/#/swap), [**Curve**](https://polygon.curve.fi), [**1Inch**](https://app.1inch.io/#/137/swap), [**SushiSwap**](https://app.sushi.com/swap)
+* **Fantom** - [**SpookySwap**](https://spookyswap.finance/swap), [**Curve**](https://ftm.curve.fi)
+* **Harmony** - [**Curve**](https://harmony.curve.fi), [**SushiSwap**](https://app.sushi.com/swap), [**ViperSwap**](https://viperswap.one/#/swap)
 
 ## DEX Utilities
 
