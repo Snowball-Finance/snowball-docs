@@ -59,6 +59,8 @@
 | `AVAX - VEE`     | [0xc8AA857291B6622A212D4C32eecCcFBd6D06E685](https://cchain.explorer.avax.network/address/0xc8AA857291B6622A212D4C32eecCcFBd6D06E685/transactions) |
 | `AVAX - xUSD`    | [0x52A27EbAb7266dac986B66e39f39E73C86e85514](https://cchain.explorer.avax.network/address/0x52A27EbAb7266dac986B66e39f39E73C86e85514/transactions) |
 | `AVAX - OLIVE`   | [0xd686aD524e3324F20eafBAf0e80f4553f749431d](https://cchain.explorer.avax.network/address/0xd686aD524e3324F20eafBAf0e80f4553f749431d/transactions) |
+| `AVAX - FRAX`    | [0x8a9d06976073715461D66d595523a06C7B5c5313](https://cchain.explorer.avax.network/address/0x8a9d06976073715461D66d595523a06C7B5c5313/transactions) |
+| `AVAX - ROCO`    | [0x026402B96A3EBDeaE03B70E4C197D70a8f33B295](https://cchain.explorer.avax.network/address/0x026402B96A3EBDeaE03B70E4C197D70a8f33B295/transactions) |
 | `PNG - VSO`      | [0x8309C64390F376fD778BDd701d54d1F8DFfe1F39](https://cchain.explorer.avax.network/address/0x8309C64390F376fD778BDd701d54d1F8DFfe1F39/transactions) |
 | `PNG - SPORE`    | [0xa39785a4E4CdDa7509751ed152a00f3D37FbFa9F](https://cchain.explorer.avax.network/address/0xa39785a4E4CdDa7509751ed152a00f3D37FbFa9F/transactions) |
 | `PNG - BNB`      | [0x585DE92A24057400a7c445c89338c7d6c61dd080](https://cchain.explorer.avax.network/address/0x585DE92A24057400a7c445c89338c7d6c61dd080/transactions) |
@@ -145,6 +147,8 @@
 | `AVAX - VEE`     | [0xd5B368f41F48b6f629DD76c00E565beA030Bb04E](https://cchain.explorer.avax.network/address/0xd5B368f41F48b6f629DD76c00E565beA030Bb04E/transactions) |
 | `AVAX - xUSD`    | [0xfB9dad0D71EA4D61bc4efbd43A5B7A2F6bE2CC66](https://cchain.explorer.avax.network/address/0xfB9dad0D71EA4D61bc4efbd43A5B7A2F6bE2CC66/transactions) |
 | `AVAX - OLIVE`   | [0x2736a1D575c115b0899f8B9699898B9A2ba04238](https://cchain.explorer.avax.network/address/0x2736a1D575c115b0899f8B9699898B9A2ba04238/transactions) |
+| `AVAX - FRAX`    | [0x4d7661fB1C16Cb12EBE12C2C1dd4EDD29D725c7a](https://cchain.explorer.avax.network/address/0x4d7661fB1C16Cb12EBE12C2C1dd4EDD29D725c7a/transactions) |
+| `AVAX - ROCO`    | [0xB485080F8adaAEbD62A34f9A8Ab5d63891B4a059](https://cchain.explorer.avax.network/address/0xB485080F8adaAEbD62A34f9A8Ab5d63891B4a059/transactions) |
 | `PNG - VSO`      | [0xa7F6898d26637023aB386AA38ce3D19dff6618cA](https://cchain.explorer.avax.network/address/0xa7F6898d26637023aB386AA38ce3D19dff6618cA/transactions) |
 | `PNG - SPORE`    | [0x9004b64e5d793B70394a96f57b0dA869faD328c0](https://cchain.explorer.avax.network/address/0x9004b64e5d793B70394a96f57b0dA869faD328c0/transactions) |
 | `PNG - BNB`      | [0x8924Cecf2083341B13597e1175d7A318E0547C5e](https://cchain.explorer.avax.network/address/0x8924Cecf2083341B13597e1175d7A318E0547C5e/transactions) |
@@ -231,6 +235,8 @@
 | `AVAX - VEE`     | [0x13B0E3656e42f7ebb295BaCaaEc46d21AC1d7e4f](https://cchain.explorer.avax.network/address/0x13B0E3656e42f7ebb295BaCaaEc46d21AC1d7e4f/transactions) |
 | `AVAX - xUSD`    | [0x10bf69786b9962bF6fb569827a42639894AED37A](https://cchain.explorer.avax.network/address/0x10bf69786b9962bF6fb569827a42639894AED37A/transactions) |
 | `AVAX - OLIVE`   | [0x22b19fD5aC461573a41e738B05FEd4bcA681A3da](https://cchain.explorer.avax.network/address/0x22b19fD5aC461573a41e738B05FEd4bcA681A3da/transactions) |
+| `AVAX - FRAX`    | [0x8670E82e0A38046Eb89202CDeC5f1F099efab9d0](https://cchain.explorer.avax.network/address/0x8670E82e0A38046Eb89202CDeC5f1F099efab9d0/transactions) |
+| `AVAX - ROCO`    | [0x8Fa6d42eDfdaBe9af2A7c85771242a67dE11eb75](https://cchain.explorer.avax.network/address/0x8Fa6d42eDfdaBe9af2A7c85771242a67dE11eb75/transactions) |
 | `PNG - VSO`      | [0x97150ce64e4f569b0ad63a85e564391bbddc2a22](https://cchain.explorer.avax.network/address/0x97150Ce64E4F569B0aD63A85e564391bbddC2a22/transactions) |
 | `PNG - SPORE`    | [0x53f7445190f2010f8d22ea6e220813d4254b153f](https://cchain.explorer.avax.network/address/0x53F7445190F2010F8d22eA6E220813D4254B153f/transactions) |
 | `PNG - BNB`      | [0xb9e680e2af5f132d8ad6187d8a1ed1d99dea2772](https://cchain.explorer.avax.network/address/0xb9e680e2AF5F132D8Ad6187D8a1ed1D99DeA2772/transactions) |
