@@ -45,40 +45,6 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `JOE - PNG`    | `Trader Joe` | [0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47](https://cchain.explorer.avax.network/address/0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47/transactions) |
 | `JOE - DAI`    | `Trader Joe` | [0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2](https://cchain.explorer.avax.network/address/0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2/transactions) |
 
-## Compounding Strategy Contracts
-
-| Pair           | Platform     | Address                                                                                                                                            |
-| -------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `AVAX - ETH`   | `Pangolin`   | [0x6b32266e7793359Fa199C32e950cF5c0EB4b284A](https://cchain.explorer.avax.network/address/0x6b32266e7793359Fa199C32e950cF5c0EB4b284A/transactions) |
-| `AVAX - LINK`  | `Pangolin`   | [0x846E79A9d8CCC6bBafc3939177a3D53E51C634FC](https://cchain.explorer.avax.network/address/0x846E79A9d8CCC6bBafc3939177a3D53E51C634FC/transactions) |
-| `AVAX - SUSHI` | `Pangolin`   | [0x1b4468dC172B94B7B8307ca5b1f63466b086acc8](https://cchain.explorer.avax.network/address/0x1b4468dC172B94B7B8307ca5b1f63466b086acc8/transactions) |
-| `AVAX - wBTC`  | `Pangolin`   | [0x2edC6522d658946fBA5116fFaA60d8760d1B21A8](https://cchain.explorer.avax.network/address/0x2edC6522d658946fBA5116fFaA60d8760d1B21A8/transactions) |
-| `AVAX - USDT`  | `Pangolin`   | [0x961890586dfB84919d8C6C5f6304192A2b3ddaB7](https://cchain.explorer.avax.network/address/0x961890586dfB84919d8C6C5f6304192A2b3ddaB7/transactions) |
-| `AVAX - DAI`   | `Pangolin`   | [0xe6D5806B2248777761adE4Bc4f38E9AAB6Bf9BC2](https://cchain.explorer.avax.network/address/0xe6D5806B2248777761adE4Bc4f38E9AAB6Bf9BC2/transactions) |
-| `AVAX - UNI`   | `Pangolin`   | [0x6eb9CB199C55De50279a69705BA88C146FADC574](https://cchain.explorer.avax.network/address/0x6eb9CB199C55De50279a69705BA88C146FADC574/transactions) |
-| `AVAX - FRAX`  | `Pangolin`   | [0x36c98A11a2B41A5b9b5ebAF8D3160EB8d2fC1800](https://cchain.explorer.avax.network/address/0x36c98A11a2B41A5b9b5ebAF8D3160EB8d2fC1800/transactions) |
-| `AVAX - FXS`   | `Pangolin`   | [0xA4BB2C3BDE08FAB2c1a9537B57f08653f51e8fEf](https://cchain.explorer.avax.network/address/0xA4BB2C3BDE08FAB2c1a9537B57f08653f51e8fEf/transactions) |
-| `PNG - ETH`    | `Pangolin`   | [0x9B3298Dba29A1Fc7061A4eF9b360eAa12879C911](https://cchain.explorer.avax.network/address/0x9B3298Dba29A1Fc7061A4eF9b360eAa12879C911/transactions) |
-| `PNG - wBTC`   | `Pangolin`   | [0xafbA321B14A22501466d18eA0D9616f8e90Fc378](https://cchain.explorer.avax.network/address/0xafbA321B14A22501466d18eA0D9616f8e90Fc378/transactions) |
-| `PNG - LINK`   | `Pangolin`   | [0xe11248e5c0a98038633603F291267b74183AB7be](https://cchain.explorer.avax.network/address/0xe11248e5c0a98038633603F291267b74183AB7be/transactions) |
-| `PNG - USDT`   | `Pangolin`   | [0xAF1F77739E87a1bDA1114e13d4aF86c8546f3996](https://cchain.explorer.avax.network/address/0xAF1F77739E87a1bDA1114e13d4aF86c8546f3996/transactions) |
-| `PNG - SUSHI`  | `Pangolin`   | [0xdC3F53a364BE3b38d6f8e6a087f61cb2af58FC51](https://cchain.explorer.avax.network/address/0xdC3F53a364BE3b38d6f8e6a087f61cb2af58FC51/transactions) |
-| `PNG - DAI`    | `Pangolin`   | [0x53a6fFE10AdB8db0D861BF264134D42CAC03a1Bd](https://cchain.explorer.avax.network/address/0x53a6fFE10AdB8db0D861BF264134D42CAC03a1Bd/transactions) |
-| `PNG - AAVE`   | `Pangolin`   | [0x47F884e0bfC0e56eCDc581e2774efeC12874f7FD](https://cchain.explorer.avax.network/address/0x47F884e0bfC0e56eCDc581e2774efeC12874f7FD/transactions) |
-| `PNG - UNI`    | `Pangolin`   | [0x8eE25bdfe0B749B78157505B92bd919414Af696c](https://cchain.explorer.avax.network/address/0x8eE25bdfe0B749B78157505B92bd919414Af696c/transactions) |
-| `PNG - YFI`    | `Pangolin`   | [0x93bc576943Ef7452888dD810f502595Ee83187EE](https://cchain.explorer.avax.network/address/0x93bc576943Ef7452888dD810f502595Ee83187EE/transactions) |
-| `PNG - AAVE.e` | `Pangolin`   | [0xcF082105bb9339AD91760C4bb900f349b0E11deA](https://cchain.explorer.avax.network/address/0xcF082105bb9339AD91760C4bb900f349b0E11deA/transactions) |
-| `PNG - SHERPA` | `Pangolin`   | [0x765900536e7dbf5df6c17e228851bbfaaf3e1066](https://cchain.explorer.avax.network/address/0x765900536E7dbF5df6C17E228851bbfaaf3E1066/transactions) |
-| `PNG - ELE`    | `Pangolin`   | [0xCF08e9d9e41CDadCCb751D36fC76b97B2eA2BF13](https://cchain.explorer.avax.network/address/0xCF08e9d9e41CDadCCb751D36fC76b97B2eA2BF13/transactions) |
-| `AVAX - ETH`   | `Trader Joe` | [0xCaA216B286E286a831F009E67d72C40cb1a5b72A](https://cchain.explorer.avax.network/address/0xCaA216B286E286a831F009E67d72C40cb1a5b72A/transactions) |
-| `AVAX - USDT`  | `Trader Joe` | [0x717342dd24B21447dd76228A0Fe017167F039277](https://cchain.explorer.avax.network/address/0x717342dd24B21447dd76228A0Fe017167F039277/transactions) |
-| `AVAX - DAI`   | `Trader Joe` | [0xb09359516366111ACe33D5ED6B5f6BbEC9cdF9bD](https://cchain.explorer.avax.network/address/0xb09359516366111ACe33D5ED6B5f6BbEC9cdF9bD/transactions) |
-| `AVAX - LINK`  | `Trader Joe` | [0xD85cBb70074423a6E0AEc7955c8E147d608E2D0d](https://cchain.explorer.avax.network/address/0xD85cBb70074423a6E0AEc7955c8E147d608E2D0d/transactions) |
-| `AVAX - wBTC`  | `Trader Joe` | [0x8D56e13C06D0d66f58B8c33A08701a1dc186eb55](https://cchain.explorer.avax.network/address/0x8D56e13C06D0d66f58B8c33A08701a1dc186eb55/transactions) |
-| `AVAX - SPORE` | `Trader Joe` | [0xf41f4B7E40baAc51Ba4507cd471dC092670BB839](https://cchain.explorer.avax.network/address/0xf41f4B7E40baAc51Ba4507cd471dC092670BB839/transactions) |
-| `JOE - PNG`    | `Trader Joe` | [0x4a0aEE254e6A4C03695b202eaA381bfFc2D3e035](https://cchain.explorer.avax.network/address/0x4a0aEE254e6A4C03695b202eaA381bfFc2D3e035/transactions) |
-| `JOE - DAI`    | `Trader Joe` | [0x54773bb26f7D725366e68AB5a196e8F9cA761aEE](https://cchain.explorer.avax.network/address/0x54773bb26f7D725366e68AB5a196e8F9cA761aEE/transactions) |
-
 ## Compounding Gauge Contracts
 
 | Pair            | Platform     | Address                                                                                                                                            |
