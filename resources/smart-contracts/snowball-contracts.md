@@ -14,3 +14,4 @@
 | `Banker Joe Controller V4` | [0xFb7102506B4815a24e3cE3eAA6B834BE7a5f2807](https://cchain.explorer.avax.network/address/0xFb7102506B4815a24e3cE3eAA6B834BE7a5f2807/transactions) |
 | `Staked SNOB (xSNOB)`      | [0x83952E7ab4aca74ca96217D6F8f7591BEaD6D64E](https://cchain.explorer.avax.network/address/0x83952E7ab4aca74ca96217D6F8f7591BEaD6D64E/transactions) |
 | `Gauge Proxy V2`           | [0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27](https://cchain.explorer.avax.network/address/0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27/transactions) |
+| `SNOB Fee Distributor`     | [0xad86ef5fd2ebc25bb9db41a1fe8d0f2a322c7839](https://cchain.explorer.avax.network/address/0xad86ef5fd2ebc25bb9db41a1fe8d0f2a322c7839/transactions) |
