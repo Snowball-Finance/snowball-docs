@@ -66,14 +66,14 @@
 | Pair              | Address                                                                                                                                            |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `AVAX - PNG`      | [0x07309850E6d0a925dA0B1a57Cfa1Ed8CA68aAC36](https://cchain.explorer.avax.network/address/0x07309850E6d0a925dA0B1a57Cfa1Ed8CA68aAC36/transactions) |
-| `AVAX - JOE`      | [0x118EAa52519aC8E022f1587D4ec0EF1f7c2246e0](https://cchain.explorer.avax.network/address/0x118EAa52519aC8E022f1587D4ec0EF1f7c2246e0/transactions) |
+| `AVAX - JOE`      | [0x34aae98720d90C095Ac1137AB88766946b7c1c50](https://cchain.explorer.avax.network/address/0x34aae98720d90C095Ac1137AB88766946b7c1c50/transactions) |
 | `AVAX - SNOB`     | [0x868d0F1985e7e5585747bd6E9B111D031B71F960](https://cchain.explorer.avax.network/address/0x868d0F1985e7e5585747bd6E9B111D031B71F960/transactions) |
-| `AVAX - XAVA`     | [0x90967866125C3277aa7DF3a5651C5Ef12F18901b](https://cchain.explorer.avax.network/address/0x90967866125C3277aa7DF3a5651C5Ef12F18901b/transactions) |
+| `AVAX - XAVA`     | [0x2C6F37C4e80aE6A553A639f706E62fE5b3d9bB81](https://cchain.explorer.avax.network/address/0x2C6F37C4e80aE6A553A639f706E62fE5b3d9bB81/transactions) |
 | `AVAX - PEFI`     | [0x307524eEa94780884150583AB0332C94F6B1feb8](https://cchain.explorer.avax.network/address/0x307524eEa94780884150583AB0332C94F6B1feb8/transactions) |
 | `AVAX - ELK`      | [0x0Fd5eeef2261597369B51471eD5B9ebeEF7A4C6a](https://cchain.explorer.avax.network/address/0x0Fd5eeef2261597369B51471eD5B9ebeEF7A4C6a/transactions) |
 | `AVAX - VSO`      | [0x7F24Dd7073A83C3dE1Fb4aff10f72835b239c897](https://cchain.explorer.avax.network/address/0x7F24Dd7073A83C3dE1Fb4aff10f72835b239c897/transactions) |
 | `AVAX - SHERPA`   | [0x35Fe62800440595A77A11Ff5474b91be00Ea1705](https://cchain.explorer.avax.network/address/0x35Fe62800440595A77A11Ff5474b91be00Ea1705/transactions) |
-| `AVAX - YAK`      | [0xC561812B2e3962A89A99C2dd583B3537a32B15D0](https://cchain.explorer.avax.network/address/0xC561812B2e3962A89A99C2dd583B3537a32B15D0/transactions) |
+| `AVAX - YAK`      | [0x3274C42C24B190fFE5B168b2690829cDa7Bf710e](https://cchain.explorer.avax.network/address/0x3274C42C24B190fFE5B168b2690829cDa7Bf710e/transactions) |
 | `AVAX - ETH.e`    | [0xF3c9D8f8F2784e63BD2631c4a4c6Ef02973Aa6F2](https://cchain.explorer.avax.network/address/0xF3c9D8f8F2784e63BD2631c4a4c6Ef02973Aa6F2/transactions) |
 | `AVAX - wBTC.e`   | [0x5eED5F460aC62AF90147df981C6BF29C7B166919](https://cchain.explorer.avax.network/address/0x5eED5F460aC62AF90147df981C6BF29C7B166919/transactions) |
 | `AVAX - USDT.e `  | [0x92dAD9EA5027Df9A3f1417E2597DA718c9DDAC5F](https://cchain.explorer.avax.network/address/0x92dAD9EA5027Df9A3f1417E2597DA718c9DDAC5F/transactions) |
@@ -90,7 +90,7 @@
 | `AVAX - WET`      | [0x04249D6B55769f69e8E810e60ae885AD75646306](https://cchain.explorer.avax.network/address/0x04249D6B55769f69e8E810e60ae885AD75646306/transactions) |
 | `AVAX - mYAK`     | [0xB650D77EF3E1305fDf96c27A920149Cd71576495](https://cchain.explorer.avax.network/address/0xB650D77EF3E1305fDf96c27A920149Cd71576495/transactions) |
 | `AVAX - GB`       | [0x14519ABf2f04a632Ee65D84D9A37d9Eec02955F3](https://cchain.explorer.avax.network/address/0x14519ABf2f04a632Ee65D84D9A37d9Eec02955F3/transactions) |
-| `AVAX - SPELL`    | [0x5E881dE5B6127134600e03705966f3EA37D9e2d2](https://cchain.explorer.avax.network/address/0x5E881dE5B6127134600e03705966f3EA37D9e2d2/transactions) |
+| `AVAX - SPELL`    | [0xA54579E2C59Be00E92B63440492E817dBA398AA9](https://cchain.explorer.avax.network/address/0xA54579E2C59Be00E92B63440492E817dBA398AA9/transactions) |
 | `AVAX - AAVE.e`   | [0xc487FD871031ba788aEa388557Ceb2C0E8BFeACd](https://cchain.explorer.avax.network/address/0xc487FD871031ba788aEa388557Ceb2C0E8BFeACd/transactions) |
 | `AVAX - BIFI`     | [0x96e751710e88c867A9449e4eb97C65b9ea2D6cCb](https://cchain.explorer.avax.network/address/0x96e751710e88c867A9449e4eb97C65b9ea2D6cCb/transactions) |
 | `AVAX - BNB`      | [0x63e46c6DAC4B15Ef74eC8DdC4E80721A32B1649C](https://cchain.explorer.avax.network/address/0x63e46c6DAC4B15Ef74eC8DdC4E80721A32B1649C/transactions) |
