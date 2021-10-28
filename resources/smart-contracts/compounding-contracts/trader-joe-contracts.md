@@ -60,6 +60,7 @@
 | `DAI.e`           | [0x7b5FfCf45193986B757986379628432d90F20AAb](https://cchain.explorer.avax.network/address/0x7b5FfCf45193986B757986379628432d90F20AAb/transactions) |
 | `USDT.e`          | [0xc7Ca863275b2D0F7a07cA6e2550504362705aA1A](https://cchain.explorer.avax.network/address/0xc7Ca863275b2D0F7a07cA6e2550504362705aA1A/transactions) |
 | `WAVAX`           | [0x10EcfD99Af6f17ec70074F5E75aD19d2365bee5D](https://cchain.explorer.avax.network/address/0x10EcfD99Af6f17ec70074F5E75aD19d2365bee5D/transactions) |
+| `MIM`             | [0x3aAF997FdDA51eBb0918e3E59021f5FDE52444d8](https://cchain.explorer.avax.network/address/0x3aAF997FdDA51eBb0918e3E59021f5FDE52444d8/transactions) |
 
 ## Compounding Strategy Contracts
 
@@ -121,6 +122,7 @@
 | `DAI.e`           | [0xcD9AA4D1a0cEE1D0Ed3798DEd6fB925cBfE598A0](https://cchain.explorer.avax.network/address/0xcD9AA4D1a0cEE1D0Ed3798DEd6fB925cBfE598A0/transactions) |
 | `USDT.e`          | [0x3Ef4dC17b344cd234fa264d8D0bE424207f07532](https://cchain.explorer.avax.network/address/0x3Ef4dC17b344cd234fa264d8D0bE424207f07532/transactions) |
 | `WAVAX`           | [0xF6734C085D54f30eAe8620F43a495117ee4Fa39f](https://cchain.explorer.avax.network/address/0xF6734C085D54f30eAe8620F43a495117ee4Fa39f/transactions) |
+| `MIM`             | [0xA96030a8527966c0e23033f1248906866a99D9D7](https://cchain.explorer.avax.network/address/0xA96030a8527966c0e23033f1248906866a99D9D7/transactions) |
 
 ## Compounding Gauge Contracts
 
@@ -182,3 +184,4 @@
 | `DAI.e`           | [0xd06ef2189d719aF3b860Bd4B120329425159bFdE](https://cchain.explorer.avax.network/address/0xd06ef2189d719aF3b860Bd4B120329425159bFdE/transactions) |
 | `USDT.e`          | [0x1F5D44E5aB4804183B523B337DD289075e2616Dd](https://cchain.explorer.avax.network/address/0x1F5D44E5aB4804183B523B337DD289075e2616Dd/transactions) |
 | `WAVAX`           | [0x2d955F07b396cfda86E0508380024239b9D7bcfe](https://cchain.explorer.avax.network/address/0x2d955F07b396cfda86E0508380024239b9D7bcfe/transactions) |
+| `MIM`             | [0x55839d98536348825aB31c0c1263fbE814Bf649a](https://cchain.explorer.avax.network/address/0x55839d98536348825aB31c0c1263fbE814Bf649a/transactions) |
