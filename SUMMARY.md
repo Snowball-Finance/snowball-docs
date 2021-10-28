@@ -41,6 +41,7 @@
   * [Compounding Contracts](resources/smart-contracts/compounding-contracts/README.md)
     * [Pangolin Contracts](resources/smart-contracts/compounding-contracts/pangolin-contracts.md)
     * [Trader Joe Contracts](resources/smart-contracts/compounding-contracts/trader-joe-contracts.md)
+    * [Banker Joe Contracts](resources/smart-contracts/compounding-contracts/banker-joe-contracts.md)
     * [Benqi Contracts](resources/smart-contracts/compounding-contracts/benqi-contracts.md)
     * [Aave Contracts](resources/smart-contracts/compounding-contracts/aave-contracts.md)
   * [StableVault Contracts](resources/smart-contracts/stablevault-contracts.md)
