@@ -1,6 +1,6 @@
 # Compounding Contracts
 
-Our compounding deposit, strategy and gauge contracts are split into their respective platforms: Pangolin, Trader Joe, Benqi and Aave:
+Our compounding deposit, strategy and gauge contracts are split into their respective platforms:
 
 {% content-ref url="pangolin-contracts.md" %}
 [pangolin-contracts.md](pangolin-contracts.md)
@@ -8,6 +8,10 @@ Our compounding deposit, strategy and gauge contracts are split into their respe
 
 {% content-ref url="trader-joe-contracts.md" %}
 [trader-joe-contracts.md](trader-joe-contracts.md)
+{% endcontent-ref %}
+
+{% content-ref url="banker-joe-contracts.md" %}
+[banker-joe-contracts.md](banker-joe-contracts.md)
 {% endcontent-ref %}
 
 {% content-ref url="benqi-contracts.md" %}

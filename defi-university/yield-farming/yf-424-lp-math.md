@@ -44,7 +44,7 @@ This value, while not very useful on its own, can help calculate the pool's bala
 * Fees are collected from swaps
 * A change in price of one of the tokens in the pool
 
-When others deposit into the pool, the value of `k` would increase since there are more tokens in the pool, but your percentage share of the pool would decrease proportionally. Therefore, other than receiving a smaller percentage of trading fees over time, your LP position would not be majorly affected.&#x20;
+When others deposit into the pool, the value of `k` would increase since there are more tokens in the pool, but your percentage share of the pool would decrease proportionally. Therefore, other than receiving a smaller percentage of trading fees over time, your LP position would not be majorly affected.
 
 In the case of trading fees being collected into the pool, since there are also more tokens in the pool, the value of `k` would increase. However, since there are still the same amount of LP tokens in circulation, your share of the pool is unaffected. This means your LP tokens are now worth more. For example, if you owned 0.5% of the pool:
 
