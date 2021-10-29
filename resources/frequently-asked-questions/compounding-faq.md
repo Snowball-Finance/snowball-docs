@@ -39,3 +39,7 @@ If a pool you've deposited into is deprecated (no longer in use) it will not be 
 ### Can I get liquidated when depositing in any of Snowball's single-asset auto-compounding strategies?
 
 There is no liquidation risk for any of Snowball's strategies. This is because on our folding strategies, you are borrowing the same token you are providing as collateral, and Snowball is constantly re-investing your rewards, so your borrowed amount will never surpass 100% of your collateral's value.
+
+### My single-asset strategy balance is slowly decreasing over time. What is going on?
+
+If the single-asset strategy you are deposited into involves folding, your balance will slowly decrease due to borrowing costs until a harvest occurs. When this takes place, Snowball is selling the rewards you've accumulated for your original underlying asset, and your balance will increase by a value much higher than what it decreased by previously. At the moment, these harvests take place 2-3 times a day and can be tracked through the #harvests channel on our Discord server.
