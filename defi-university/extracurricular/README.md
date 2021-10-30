@@ -10,7 +10,9 @@ Courses in the **Extracurricular** category explore all sorts of topics outside 
 
 ## 2nd Year Courses
 
-None.
+{% content-ref url="ex-271-nfts.md" %}
+[ex-271-nfts.md](ex-271-nfts.md)
+{% endcontent-ref %}
 
 ## 3rd Year Courses
 
