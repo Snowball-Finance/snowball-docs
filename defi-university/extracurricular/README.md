@@ -1,6 +1,6 @@
 # Extracurricular
 
-Courses in the **Extracurricular** category explore all sorts of topics outside the scope of the other categories. If it's related to decentralized finance and doesn't fit elsewhere, it's here. Find a course to jump into:
+Courses in the **Extracurricular** category explore all sorts of topics outside the scope of the other categories, or more opinion-based cou. If it's related to decentralized finance and doesn't fit elsewhere, it's here. Find a course to jump into:
 
 ## 1st Year Courses
 
@@ -16,7 +16,9 @@ Courses in the **Extracurricular** category explore all sorts of topics outside 
 
 ## 3rd Year Courses
 
-None.
+{% content-ref url="ex-325-single-asset-vs-lp-strategies.md" %}
+[ex-325-single-asset-vs-lp-strategies.md](ex-325-single-asset-vs-lp-strategies.md)
+{% endcontent-ref %}
 
 ## 4th Year Courses
 

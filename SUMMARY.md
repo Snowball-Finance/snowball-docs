@@ -75,6 +75,7 @@
 * [Extracurricular](defi-university/extracurricular/README.md)
   * [EX 151 - Spotting Scams](defi-university/extracurricular/ex-151-spotting-scams.md)
   * [EX 271 - NFTs](defi-university/extracurricular/ex-271-nfts.md)
+  * [EX 325 - Single-Asset vs LP Strategies](defi-university/extracurricular/ex-325-single-asset-vs-lp-strategies.md)
 
 ## Developers
 
