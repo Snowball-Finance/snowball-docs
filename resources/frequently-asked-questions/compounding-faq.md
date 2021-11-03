@@ -2,7 +2,7 @@
 
 ### Where can I find the current list of compounding strategies?
 
-All our compounding strategies can be found on the [**Compound**](https://app.snowball.network/compound-and-earn) page of our website. You can also find a list of all strategies under the [**Compounding Contracts**](../smart-contracts/compounding-contracts/) page of our documentation.
+All our compounding strategies can be found on the [**Compound & Earn**](https://app.snowball.network/compound-and-earn) page of our website. You can also find a list of all strategies under the [**Compounding Contracts**](../smart-contracts/compounding-contracts/) page of our documentation.
 
 ### What fees does Snowball charge for auto-compounding?
 

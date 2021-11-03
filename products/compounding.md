@@ -1,42 +1,61 @@
 # Compounding
 
-Snowball's compound feature allows you to auto-compound the rewards you receive from other DeFi projects. Essentially, you earn more rewards than you would otherwise because you’re constantly reinvesting your rewards. 
+Snowball's compounding products allow you to auto-compound the rewards you receive from other DeFi projects. Essentially, you earn more rewards than you would otherwise because you’re constantly reinvesting your rewards.
 
-## What is compounding?
+{% hint style="info" %}
+Looking for a quick answer to a simple question? Check out our [**Compounding FAQ**](../resources/frequently-asked-questions/compounding-faq.md).&#x20;
+{% endhint %}
 
-In order to take advantage of [_**compounding**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#compounding), you need to first deposit into a reward farm. A reward farm is any place where you deposit funds and receive rewards in return. The most common reward farms are on [_**Decentralized Exchanges (DEXs)**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#decentralized-exchange-dex), and are called liquidity pools.
+## Why compound with Snowball?
 
-Compounding is when the rewards you get from depositing are reinvested to earn more rewards over time. This causes exponential growth because the original deposit AND the reinvested assets earn rewards. 
+After all, isn't this something you could do manually? The benefits of [_**compounding**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#compounding) with Snowball are the following:
 
-## How does it work?
+* **Gas Fees** - Each transaction costs [_**gas**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#gas) fees. These fees add up over time, and can sometimes even outweigh the benefits of compounding. Snowball pays those gas fees for you.
+* **Time** - Compounding is time-consuming. To get the most out of compounding, you generally need to compound rewards multiple times a day. Snowball automates the compounding process for you and saves you a lot of time you could be using elsewhere.
+* **Extra Rewards** - By compounding with Snowball you also gain extra additional SNOB token rewards. This means that your total returns would be even higher than if you would compound manually yourself.
 
-Compounding works by automatically selling your rewards from other protocols for the tokens you originally deposited, and re-investing those funds; exponentially increasing your gains over time. A more detailed explanation of the entire process can be seen in the image below:
+## What DeFi projects are supported?
 
-![Image by @mintle#4419](../.gitbook/assets/CompounderGuide.jpg)
+Snowball supports many [_**DEXs**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#decentralized-exchange-dex), lending platforms and other types of decentralized apps:
 
-For single-asset farms (Example: BenQi farms), sometimes Snowball can perform a [_**folding**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#folding) strategy, where an asset is lent and borrowed multiple times in order to increase profits.
+* [**Pangolin**](https://app.pangolin.exchange)****
+* [**Trader Joe**](https://traderjoexyz.com)****
+* [**Banker Joe**](https://traderjoexyz.com/#/lending)****
+* [**BenQi**](https://app.benqi.fi)****
+* [**Aave**](https://app.aave.com)****
+* [**Teddy Cash**](https://app.teddy.cash)****
 
-## The benefits of compounding with Snowball
+All our compounding strategies can be found in the [**Compound & Earn**](https://app.snowball.network/compound-and-earn) page of our site.
 
-While compounding is something that you can easily do on your own, there are a couple reasons why it’s better to use Snowball. 
+## How does compounding work?
 
-First, compounding costs [_**gas**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#gas) fees. These fees add up and can often outweigh the benefits of compounding. With Snowball, you pay zero gas fees. Snowball pays the fees for you.
+The basics of auto-compounding involve reinvesting rewards accrued from other DeFi projects, but the process of doing so involves a few more steps. The functionality of Snowball's compounding strategies also vary based on whether it is a liquidity pool, lending or staking strategy:
 
-Second, compounding is time consuming. To get the most out of compounding you generally need to compound rewards multiple times per day. Snowball automates the compounding process so that you don’t need to remember to compound or waste your valuable time. 
+### Liquidity Pool Strategies
 
-Third, by depositing into Snowball’s compounding strategies, you earn additional SNOB token rewards. This means that you earn higher rewards than you would compounding by yourself. 
+LP strategies are the most common type of strategy you'll find at Snowball. These involve depositing two or more assets into a [_**liquidity pool**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#liquidity-pool) of the a supported DeFi project, and depositing the resulting LP token into Snowball's compounding strategy. Snowball then deposits your LP token back into the other project and auto-compounds any rewards you receive over time.
 
-## Supported Reward Farms
+These strategies have some of the highest APYs available on Snowball. This is because not only are they heavily incentivized by DEXs that need liquidity, but you also gain value from trading fees as other Avalanche users use the liquidity you provide to trade between tokens.
 
-Snowball supports deposits from reward farms on Pangolin and Trader Joe, along with lending pools from BenQi, Aave and Trader Joe. This means that when you supply [_**liquidity**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#liquidity) or lend your tokens to any of these platforms, you can also deposit into Snowball to compound your earnings.
+{% hint style="info" %}
+To learn more about liquidity pools, check out the [**YF 122 - Liquidity Pools**](../defi-university/yield-farming/yf-122-liquidity-pools.md) course over at our DeFi University!
+{% endhint %}
 
-To view the full list of supported compounding pools, visit the [**Compound**](https://app.snowball.network/compound-and-earn) page of our website.
+### Lending + Folding Strategies
+
+Lending strategies are some of the safest investment strategies you can have, and involve lending a token of your choice on Snowball, which then deposits your token on a lending platform such as Banker Joe, BenQi or Aave. Other than the usual automatic reinvesting of rewards however, Snowball also implements [_**folding**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#folding) - a strategy to dramatically increase returns with no extra risk if certain market conditions are met.
+
+Folding strategies involve borrowing and lending the same token multiple times in order to multiply the incentive rewards received by the underlying DeFi project. If market conditions no longer make this strategy profitable, Snowball's strategies automatically unfold your investments to avoid any losses.
+
+{% hint style="info" %}
+Looking for a more in-depth explanation of folding strategies? Check out the [**YF 312 - Folding**](../defi-university/yield-farming/yf-312-folding.md) course over at our DeFi University.&#x20;
+{% endhint %}
+
+### Staking Strategies
+
+Staking strategies are simple, yet very effective. Examples of these are PNG staking through Pangolin, xJOE staking through Trader Joe, or TEDDY staking through Teddy Cash. Depositing these tokens through Snowball instead of directly through their respective platforms will have all the benefits of auto-compounding, and therefore get you more returns with even less effort required on your part.
 
 ## Compounding Resources
-
-{% content-ref url="../resources/frequently-asked-questions/compounding-faq.md" %}
-[compounding-faq.md](../resources/frequently-asked-questions/compounding-faq.md)
-{% endcontent-ref %}
 
 {% content-ref url="../resources/guides/compounding-guide-trader-joe.md" %}
 [compounding-guide-trader-joe.md](../resources/guides/compounding-guide-trader-joe.md)
