@@ -7,7 +7,7 @@ xSNOB is the staked version of SNOB. It is acquired by locking your SNOB for a p
 The xSNOB token has four main applications:
 
 * Voting on community proposals.
-* Voting on weekly gauges.
+* Voting on gauge allocations.
 * Earning a share of protocol revenues.
 * Earning boosted SNOB rewards.
 
