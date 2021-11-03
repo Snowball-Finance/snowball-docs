@@ -3,7 +3,7 @@
 Snowball's compounding products allow you to auto-compound the rewards you receive from other DeFi projects. Essentially, you earn more rewards than you would otherwise because you’re constantly reinvesting your rewards.
 
 {% hint style="info" %}
-Looking for a quick answer to a simple question? Check out our [**Compounding FAQ**](../resources/frequently-asked-questions/compounding-faq.md).&#x20;
+Looking for a quick answer to a simple question? Check out our [**Compounding FAQ**](../resources/frequently-asked-questions/compounding-faq.md).
 {% endhint %}
 
 ## Why compound with Snowball?
@@ -18,12 +18,12 @@ After all, isn't this something you could do manually? The benefits of [_**compo
 
 Snowball supports many [_**DEXs**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#decentralized-exchange-dex), lending platforms and other types of decentralized apps:
 
-* [**Pangolin**](https://app.pangolin.exchange)****
-* [**Trader Joe**](https://traderjoexyz.com)****
-* [**Banker Joe**](https://traderjoexyz.com/#/lending)****
-* [**BenQi**](https://app.benqi.fi)****
-* [**Aave**](https://app.aave.com)****
-* [**Teddy Cash**](https://app.teddy.cash)****
+* [**Pangolin**](https://app.pangolin.exchange)
+* [**Trader Joe**](https://traderjoexyz.com)
+* [**Banker Joe**](https://traderjoexyz.com/#/lending)
+* [**BenQi**](https://app.benqi.fi)
+* [**Aave**](https://app.aave.com)
+* [**Teddy Cash**](https://app.teddy.cash)
 
 All our compounding strategies can be found in the [**Compound & Earn**](https://app.snowball.network/compound-and-earn) page of our site.
 
