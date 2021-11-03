@@ -8,7 +8,7 @@ The xSNOB token has four main applications:
 
 * Voting on community proposals.
 * Voting on gauge allocations.
-* Earning a share of protocol revenues.
+* Earning a share of protocol revenue.
 * Earning boosted SNOB rewards.
 
 See the links below for more info on each of these applications:
