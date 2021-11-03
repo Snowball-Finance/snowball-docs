@@ -1,6 +1,6 @@
 # Voting on Gauges with xSNOB
 
-This guide covers voting on gauges with xSNOB to determine the allocation of weekly SNOB rewards. Once you have voted, your vote will remain in place every week, unless you change your vote. To learn more about the functionality of gauges, check out our documentation [**here**](../../governance/xsnob/gauges.md).
+This guide covers voting on gauges with xSNOB to determine the allocation of SNOB rewards. Once you have voted, your vote will remain in place, unless you change your vote. To learn more about the functionality of gauges, check out our documentation [**here**](../../governance/xsnob/gauges.md).
 
 1\) Head to the staking page of our website [**here**](https://app.snowball.network/staking).
 
