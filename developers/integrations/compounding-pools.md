@@ -2,7 +2,7 @@
 
 The data regarding the many compounding pools on Snowball can be reached through the GaugeProxyV2 contract as a starting point.
 
-**GaugeProxyV2 Contract:** [0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27](https://cchain.explorer.avax.network/address/0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27/read-contract)
+**GaugeProxyV2 Contract:** [0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27](https://snowtrace.io/address/0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27)
 
 {% hint style="info" %}
 If you're looking instead for a simple list of all our compounding contracts, see our [**Compounding Contracts**](../../resources/smart-contracts/compounding-contracts/) page.

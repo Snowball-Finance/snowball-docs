@@ -1,6 +1,6 @@
 # StableVault Pool
 
-The StableVault deposit contract is included in our registry over at the GaugeProxyV2 [**contract**](https://cchain.explorer.avax.network/address/0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27/read-contract), together with all other compounding deposit contracts.
+The StableVault deposit contract is included in our registry over at the GaugeProxyV2 [**contract**](https://snowtrace.io/address/0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27), together with all other compounding deposit contracts.
 
 {% hint style="info" %}
 If you are looking to query wallet balances off the StableVault pool, info from the [**Compounding Pools**](compounding-pools.md) integration page is still relevant. Ratios and underlying tokens are non-applicable, however.
@@ -8,7 +8,7 @@ If you are looking to query wallet balances off the StableVault pool, info from 
 
 ### s4D Token Contract
 
-**Contract Address:** [0xB91124eCEF333f17354ADD2A8b944C76979fE3EC](https://cchain.explorer.avax.network/address/0xB91124eCEF333f17354ADD2A8b944C76979fE3EC/read-contract)
+**Contract Address:** [0xB91124eCEF333f17354ADD2A8b944C76979fE3EC](https://snowtrace.io/address/0xB91124eCEF333f17354ADD2A8b944C76979fE3EC)
 
 The s4D swap contract can be found through the **owner** method (#5).
 
@@ -16,7 +16,7 @@ The s4D swap contract can be found through the **owner** method (#5).
 
 ### s4D Swap Contract
 
-**Contract Address:** [0xA0bE4f05E37617138Ec212D4fB0cD2A8778a535F](https://cchain.explorer.avax.network/address/0xA0bE4f05E37617138Ec212D4fB0cD2A8778a535F/read-contract)
+**Contract Address:** [0xA0bE4f05E37617138Ec212D4fB0cD2A8778a535F](https://snowtrace.io/address/0xA0bE4f05E37617138Ec212D4fB0cD2A8778a535F)
 
 To estimate the output of a swap, use the **calculateSwap** method (#4).
 

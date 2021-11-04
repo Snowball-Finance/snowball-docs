@@ -26,7 +26,7 @@ Enter the following settings into their respective fields:
 * **New RPC URL**: https://api.avax.network/ext/bc/C/rpc
 * **ChainID**: 0xa86a
 * **Symbol**: AVAX
-* **Explorer**: https://cchain.explorer.avax.network/
+* **Explorer**: https://snowtrace.io/
 
 #### Add the SNOB  Token (Optional)
 

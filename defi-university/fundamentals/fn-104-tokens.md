@@ -33,7 +33,7 @@ In DeFi, these tokens follow the same logic. BTC, for example, has been often de
 
 ![](<../../.gitbook/assets/image (6).png>)
 
-As can be seen above, the token has an address (click [**here**](https://cchain.explorer.avax.network/token/0xC38f41A296A4493Ff429F1238e030924A1542e50/token-transfers) to see it on a block explorer). Its name is 'Snowball', is being held by almost 5 thousand wallets and has been transferred a lot of times. Elsewhere on the page you can also see that its symbol is 'SNOB'. There is a lot more information that can be found from the contract itself, but these are the more important aspects.
+As can be seen above, the token has an address (click [**here**](https://snowtrace.io/token/0xC38f41A296A4493Ff429F1238e030924A1542e50) to see it on a block explorer). Its name is 'Snowball', is being held by almost 5 thousand wallets and has been transferred a lot of times. Elsewhere on the page you can also see that its symbol is 'SNOB'. There is a lot more information that can be found from the contract itself, but these are the more important aspects.
 
 The economic mechanisms of a token that govern its supply are coded into the contract upon its creation, and are called the token's tokenomics. In the case of Snowball, it has a maximum supply of 18 million tokens. This maximum supply is interesting for those looking for a token's utility as a store of value. Since no more tokens can be created after that number, its supply will be static, and any increase in demand should increase price.
 

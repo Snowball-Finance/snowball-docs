@@ -10,7 +10,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 1\) If depositing LP tokens, first supply liquidity to a pool on [**Pangolin**](https://app.pangolin.exchange/#/png/1) or [**Trader Joe**](https://www.traderjoexyz.com/#/pool) that receives rewards.
 
-2\) Find the contract address for the pool you deposited into and open it on a [**C-Chain block explorer**](https://cchain.explorer.avax.network). On Pangolin, this can be found on their [**analytics page**](https://info.pangolin.exchange/#/home). On Trader Joe, this can be found through their [**pools page**](https://www.traderjoexyz.com/#/pool).
+2\) Find the contract address for the pool you deposited into and open it on a [**C-Chain block explorer**](https://snowtrace.io/). On Pangolin, this can be found on their [**analytics page**](https://info.pangolin.exchange/#/home). On Trader Joe, this can be found through their [**pools page**](https://www.traderjoexyz.com/#/pool).
 
 3\) Once you have found it, click on **Write Contract**.
 
@@ -58,7 +58,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 ## Claiming SNOB Rewards
 
-1\) Find the **compounding** **gauge contract address** for the pool you want to claim rewards from and open it on a [**C-Chain block explorer**](https://cchain.explorer.avax.network). This can be found on our [**Compounding Contracts page**](../smart-contracts/compounding-contracts/).
+1\) Find the **compounding** **gauge contract address** for the pool you want to claim rewards from and open it on a [**C-Chain block explorer**](https://snowtrace.io/). This can be found on our [**Compounding Contracts page**](../smart-contracts/compounding-contracts/).
 
 2\) Once you have found it, click on **Write Contract**.
 
@@ -78,7 +78,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 ## Withdrawing from Compounding Strategies
 
-1\) Find the **compounding gauge contract address** for the pool you want to withdraw from and open it on a [**C-Chain block explorer**](https://cchain.explorer.avax.network). This can be found on our [**Compounding Contracts page**](../smart-contracts/compounding-contracts/).
+1\) Find the **compounding gauge contract address** for the pool you want to withdraw from and open it on a [**C-Chain block explorer**](https://snowtrace.io/). This can be found on our [**Compounding Contracts page**](../smart-contracts/compounding-contracts/).
 
 2\) Once you have found it, click on **Write Contract**.
 

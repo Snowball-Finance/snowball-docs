@@ -6,7 +6,7 @@ Ticker: SNOB
 
 Max Supply: 18,000,000
 
-Token Address: [0xC38f41A296A4493Ff429F1238e030924A1542e50](https://cchain.explorer.avax.network/address/0xC38f41A296A4493Ff429F1238e030924A1542e50/transactions)
+Token Address: [0xC38f41A296A4493Ff429F1238e030924A1542e50](https://snowtrace.io/token/0xC38f41A296A4493Ff429F1238e030924A1542e50)
 
 Chain: Avalanche c-chain 
 

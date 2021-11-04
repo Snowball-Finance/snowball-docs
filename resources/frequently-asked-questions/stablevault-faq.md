@@ -26,10 +26,10 @@ For example, if there are 300 DAI.e, 500 FRAX, 400 TUSD and 700 USDT.e in the s4
 
 DAI.e, FRAX, TUSD and USDT.e can be found on most Avalanche exchanges. In case they are not listed by default, their addresses are the following:
 
-* DAI.e - [0xd586E7F844cEa2F87f50152665BCbc2C279D8d70](https://cchain.explorer.avax.network/tokens/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/token-transfers)
-* FRAX - [0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98](https://cchain.explorer.avax.network/tokens/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/token-transfers)
-* TUSD - [0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB](https://cchain.explorer.avax.network/tokens/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/token-transfers)
-* USDT.e - [0xc7198437980c041c805A1EDcbA50c1Ce5db95118](https://cchain.explorer.avax.network/tokens/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/token-transfers)
+* DAI.e - [0xd586E7F844cEa2F87f50152665BCbc2C279D8d70](https://snowtrace.io/token/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70)
+* FRAX - [0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98](https://snowtrace.io/token/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98)
+* TUSD - [0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB](https://snowtrace.io/token/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB)
+* USDT.e - [0xc7198437980c041c805A1EDcbA50c1Ce5db95118](https://snowtrace.io/token/0xc7198437980c041c805A1EDcbA50c1Ce5db95118)
 
 Always double-check the token's contract address before making a swap.
 

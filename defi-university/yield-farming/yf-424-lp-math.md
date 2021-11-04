@@ -32,7 +32,7 @@ Simple enough. In this equation, `x` refers to the amount of the first token in 
 
 ![Pangolin's AVAX-SNOB Liquidity Pool Contract](../../.gitbook/assets/Math0.png)
 
-As can be seen on the pool's [**contract**](https://cchain.explorer.avax.network/address/0xa1C2c3B6b120cBd4Cec7D2371FFd4a931A134A32/tokens), there are approximately 2255 AVAX tokens and 125,016 SNOB tokens in it. This means we can calculate the pool's current `k` value:
+As can be seen on the pool's [**contract**](https://snowtrace.io/address/0xa1C2c3B6b120cBd4Cec7D2371FFd4a931A134A32), there are approximately 2255 AVAX tokens and 125,016 SNOB tokens in it. This means we can calculate the pool's current `k` value:
 
 $$
 \text{2,255} * \text{125,016} = \text{281,911,080}
