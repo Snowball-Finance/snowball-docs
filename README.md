@@ -6,7 +6,7 @@ Since March, Snowball has grown to be one of the leading DeFi projects on Avalan
 
 ## **Core Products**
 
-****[**Compounding**](https://app.snowball.network/compound-and-earn) - Rewards from other protocols are auto-compounded and fees are reduced through community pooling.
+[**Compounding**](https://app.snowball.network/compound-and-earn) - Rewards from other protocols are auto-compounded and fees are reduced through community pooling.
 
 [**StableVault**](https://app.snowball.network/s4d-vault) - Swap stablecoins or provide liquidity to earn risk-averse returns.
 
