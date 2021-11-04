@@ -22,16 +22,17 @@ Block explorers provide a way to view information on the blockchain in a simple 
 
 ## Block Explorers
 
-The Avalanche C-Chain has two main block explorers:
+The Avalanche C-Chain has three main block explorers:
 
 * **Native Avax Explorer** - [**https://cchain.explorer.avax.network/**](https://cchain.explorer.avax.network)
 * **AvaScan** - [**https://avascan.info/blockchain/c/txs**](https://avascan.info/blockchain/c/txs)
+* **SnowTrace** - [**https://snowtrace.io/**](https://snowtrace.io)****
 
 {% hint style="info" %}
-All smart contract / DeFi-related transactions take place on Avalanche's C-Chain (Contract Chain). The links above are for this chain. The X-Chain and P-Chain have their own URLs.
+All smart contract / DeFi-related transactions take place on Avalanche's C-Chain (Contract Chain). The links above are for this chain. The X-Chain and P-Chain have their own explorers.
 {% endhint %}
 
-Both explorers provide the same type of information, but have differing visuals and sometimes have more or less information regarding any specific smart contract. In practice, the native block explorer seems to have more accurate smart contract information and more verified contracts since it is used by developers more often. However, AvaScan does look significantly better (author's opinion), and displays logos for the most popular tokens.
+All explorers provide the same type of information, but have differing visuals and sometimes have more or less information regarding any specific smart contract. SnowTrace is the newest addition to the Avalanche ecosystem, made by the same creators of EtherScan and it's other chain alternatives (BscScan, PolygonScan and FtmScan).
 
 ![Avalanche C-Chain Native Block Explorer](<../../.gitbook/assets/image (5).png>)
 
