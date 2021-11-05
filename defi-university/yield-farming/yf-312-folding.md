@@ -18,7 +18,7 @@ To understand the concept of folding, let's take a look at one of Avalanche's le
 
 ![Trader Joe Lending Market - Screenshot taken on 20/10/2021](<../../.gitbook/assets/image (8) (1).png>)
 
-The above is the lending market from Trader Joe, sometimes referred to as 'Banker Joe'. Other lending markets such as Aave, BenQi or Cream will have a similar layout. The important data to keep an eye on is the market size (how much is being lent and/or borrowed) alongside the rates being offered. For the purposes of exploring folding strategies, we will focus on the rates available.
+The above is the lending market of Trader Joe, sometimes referred to as 'Banker Joe'. Other lending markets such as Aave, BenQi or Cream have a similar layout. The important data to keep an eye on is the market size (how much is being lent and/or borrowed) alongside the rates being offered. For the purposes of exploring folding strategies, we will focus on the rates available.
 
 A quick summary of each rate being displayed is as follows:
 
@@ -43,13 +43,13 @@ In order for folding to be profitable, the equation above must result in a posit
 
 ![](<../../.gitbook/assets/image (12).png>)
 
-For the AVAX token, we can grab the current interest rates and incentives and check if it would be profitable to perform a folding strategy on such asset at this time:
+For the AVAX token, we can grab the current interest rates and incentives and check if it would be profitable to perform a folding strategy on such an asset at this time:
 
 $$
 10.57 + 5.94 - 18.18 + 8.17 = 6.5
 $$
 
-Since the resulting value is positive in this example, folding can be a profitable strategy. You must also take transaction fees into account, however. Every time you fold, you will be transacting twice, once for borrowing, and once lending the borrowed assets. The more funds invested, the shorter the time it will take to recoup the losses of such transactions.
+Since the resulting value is positive in this example, folding can be a profitable strategy. However, you must also take transaction fees into account. Every time you fold, you will be transacting twice, once for borrowing, and once for lending the borrowed assets. The more funds invested, the shorter the time it will take to recoup the losses of these transactions.
 
 In practice, a 3x folding strategy using an 80% borrowing threshold would look like so:
 
@@ -68,13 +68,13 @@ Of course you can continue folding many more times, but with diminishing returns
 * 2 Folds = 25.87% APY
 * 3 Folds = 29.2% APY
 
-A more aggressive folding strategy using more folds and a 90% borrowing threshold, for example, can get even better rates, but will require more transactions and carry some more risks.
+A more aggressive folding strategy using more folds and a 90% borrowing threshold, for example, can get even better rates, but will require more transactions and carry more risk.
 
 ## The Risks
 
 As with any leveraged or margin trading strategy, the most important risk to keep in mind when folding is liquidations. **In contrast to most leveraged strategies, however, folding carries no liquidation risk on price movements.** This is because you are borrowing the same asset you are lending, meaning the price ratio of your borrowed assets to your collateral will always remain the same.
 
-There is still risk of liquidation, but one entirely under your control. This is because the benefits of folding are to dramatically increase the amount of incentive rewards you are accumulating, but you are still losing funds due to the borrowing interest rate you are exposed to. In practice, this means you are losing token A while gaining even more of token B. Your collateral is token A, and the platform incentives you are receiving is token B.
+There is still risk of liquidation, but one entirely under your control. This is because while the benefits of folding dramatically increase the amount of incentive rewards you are accumulating, you are still losing funds due to the borrowing interest rate you are exposed to. In practice, this means you are losing token A while gaining even more of token B. Your collateral is token A, and the platform incentives you are receiving is token B.
 
 If you borrow at a threshold of 90% against your collateral, for example, because of the borrowing interest rate, as time goes on that number will rise to 91%, 92% and so on. If your collateral is no longer enough to cover the amount you have borrowed (exceeded 100%), a portion of your funds may be liquidated. This is completely avoidable if you increase your collateral or pay back your loan using the rewards in token B you've gained throughout this time period.
 
