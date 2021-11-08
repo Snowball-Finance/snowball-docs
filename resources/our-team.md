@@ -109,3 +109,7 @@ Sergio2098, from Turkey, has stepped up to provide moderation and support to the
 #### ![](../.gitbook/assets/whaleclub.webp) Whale Club
 
 #### ![](../.gitbook/assets/cryptofish.webp) Cryptofish
+
+****![](../.gitbook/assets/elroy.webp)** Elroy**
+
+****![](../.gitbook/assets/jediballs.webp)** Jediballs**
