@@ -42,7 +42,7 @@ We have a guide on how to setup MetaMask for use on the Avalanche Chain [**here*
 
 When making a transaction, your private key is required in order to sign it. This is facilitated through the wallet provider of your choice - they will simply ask you to confirm the transaction.
 
-When using a new DeFi project for the first time, you will likely need to give permission for the smart contract to spend the assets in your wallet. For example, if you want to deposit some AVAX (Avalanche's native token) into Snowball, we will ask you for permission to spend your wallet's AVAX. This can be granted by confirming the transaction when it pops up through your wallet of choice.
+When using a new DeFi project for the first time, you will likely need to give permission for the smart contract to spend the assets in your wallet. For example, if you want to deposit some USDC into Snowball, we will ask you for permission to spend your wallet's USDC. This can be granted by confirming the transaction when it pops up through your wallet of choice.
 
 {% hint style="info" %}
 We have many guides on how to make any transaction on Snowball [**here**](https://snowballs.gitbook.io/snowball-docs/resources/guides).

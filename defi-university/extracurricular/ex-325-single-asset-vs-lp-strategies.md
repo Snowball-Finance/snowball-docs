@@ -88,7 +88,7 @@ When it comes to TVL, there is an obvious winner - and while putting your funds 
 
 #### Single-Asset SNOB Strategies
 
-In terms of single-asset strategies, the best way to allocate your SNOB would be to lock it for xSNOB on Snowball's staking page. As of writing, this results in an approximate 30-40% APY per xSNOB. To learn more about xSNOB, check out our documentation [**here**](../../governance/xsnob/).
+In terms of single-asset strategies, the best way to allocate your SNOB would be to lock it for xSNOB on Snowball's staking page. As of writing, this results in an approximate 30-40% APY per xSNOB. To learn more about xSNOB, check out our documentation [here](../../governance/xsnob/).
 
 #### AVAX-SNOB LP Strategies
 
