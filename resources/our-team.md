@@ -113,3 +113,5 @@ Sergio2098, from Turkey, has stepped up to provide moderation and support to the
 ****![](../.gitbook/assets/elroy.webp)** Elroy**
 
 ****![](../.gitbook/assets/jediballs.webp)** Jediballs**
+
+****![](../.gitbook/assets/pedrohccq.webp)** Pedrohccq**
