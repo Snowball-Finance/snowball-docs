@@ -65,9 +65,9 @@
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `AVAX - PNG`      | [0x07309850E6d0a925dA0B1a57Cfa1Ed8CA68aAC36](https://snowtrace.io/address/0x07309850E6d0a925dA0B1a57Cfa1Ed8CA68aAC36) |
 | `AVAX - JOE`      | [0x34aae98720d90C095Ac1137AB88766946b7c1c50](https://snowtrace.io/address/0x34aae98720d90C095Ac1137AB88766946b7c1c50) |
-| `AVAX - SNOB`     | [0x868d0F1985e7e5585747bd6E9B111D031B71F960](https://snowtrace.io/address/0x868d0F1985e7e5585747bd6E9B111D031B71F960) |
+| `AVAX - SNOB`     | [0xCCB8aDAFfF911be27E51c6CCB03fae041d391454](https://snowtrace.io/address/0xCCB8aDAFfF911be27E51c6CCB03fae041d391454) |
 | `AVAX - XAVA`     | [0x2C6F37C4e80aE6A553A639f706E62fE5b3d9bB81](https://snowtrace.io/address/0x2C6F37C4e80aE6A553A639f706E62fE5b3d9bB81) |
-| `AVAX - PEFI`     | [0x307524eEa94780884150583AB0332C94F6B1feb8](https://snowtrace.io/address/0x307524eEa94780884150583AB0332C94F6B1feb8) |
+| `AVAX - PEFI`     | [0xA5EDe9DA8B5BdB042562aA07Ec01a33AE3F4d52D](https://snowtrace.io/address/0xA5EDe9DA8B5BdB042562aA07Ec01a33AE3F4d52D) |
 | `AVAX - ELK`      | [0x0Fd5eeef2261597369B51471eD5B9ebeEF7A4C6a](https://snowtrace.io/address/0x0Fd5eeef2261597369B51471eD5B9ebeEF7A4C6a) |
 | `AVAX - VSO`      | [0x7F24Dd7073A83C3dE1Fb4aff10f72835b239c897](https://snowtrace.io/address/0x7F24Dd7073A83C3dE1Fb4aff10f72835b239c897) |
 | `AVAX - SHERPA`   | [0x35Fe62800440595A77A11Ff5474b91be00Ea1705](https://snowtrace.io/address/0x35Fe62800440595A77A11Ff5474b91be00Ea1705) |
