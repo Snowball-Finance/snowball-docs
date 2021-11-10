@@ -64,7 +64,7 @@
 | Pair              | Address                                                                                                                                            |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `AVAX - PNG`      | [0x07309850E6d0a925dA0B1a57Cfa1Ed8CA68aAC36](https://snowtrace.io/address/0x07309850E6d0a925dA0B1a57Cfa1Ed8CA68aAC36) |
-| `AVAX - JOE`      | [0x34aae98720d90C095Ac1137AB88766946b7c1c50](https://snowtrace.io/address/0x34aae98720d90C095Ac1137AB88766946b7c1c50) |
+| `AVAX - JOE`      | [0x22b79F4859daEE9E1C1CA83862f4161585E488de](https://snowtrace.io/address/0x22b79F4859daEE9E1C1CA83862f4161585E488de) |
 | `AVAX - SNOB`     | [0xCCB8aDAFfF911be27E51c6CCB03fae041d391454](https://snowtrace.io/address/0xCCB8aDAFfF911be27E51c6CCB03fae041d391454) |
 | `AVAX - XAVA`     | [0x2C6F37C4e80aE6A553A639f706E62fE5b3d9bB81](https://snowtrace.io/address/0x2C6F37C4e80aE6A553A639f706E62fE5b3d9bB81) |
 | `AVAX - PEFI`     | [0xA5EDe9DA8B5BdB042562aA07Ec01a33AE3F4d52D](https://snowtrace.io/address/0xA5EDe9DA8B5BdB042562aA07Ec01a33AE3F4d52D) |
@@ -100,11 +100,11 @@
 | `AVAX - TEDDY`    | [0xAAFaf2271F58B88cDe048Af40c49Ae0b5b59cafE](https://snowtrace.io/address/0xAAFaf2271F58B88cDe048Af40c49Ae0b5b59cafE) |
 | `AVAX - TSD`      | [0x00d75d30dEf04Df020462DaCb0ed2b5F653aD0A3](https://snowtrace.io/address/0x00d75d30dEf04Df020462DaCb0ed2b5F653aD0A3) |
 | `AVAX - ROCO`     | [0x3892a97d9736617dd44C96fB236a46fFEA677864](https://snowtrace.io/address/0x3892a97d9736617dd44C96fB236a46fFEA677864) |
-| `AVAX - ICE`      | [0xDA59ABC89c7be9D7fb3E049EBCC42B1dE84A6272](https://snowtrace.io/address/0xDA59ABC89c7be9D7fb3E049EBCC42B1dE84A6272) |
+| `AVAX - ICE`      | [0x74c8f08485a7e9236829553B9f14ed8Eb878C8d3](https://snowtrace.io/address/0x74c8f08485a7e9236829553B9f14ed8Eb878C8d3) |
 | `AVAX - OH`       | [0x4550E794F3BA870032854B4c35Ad4E469FA7b989](https://snowtrace.io/address/0x4550E794F3BA870032854B4c35Ad4E469FA7b989) |
-| `AVAX - AMPL`     | [0x759EED71e5086bBE903036F5D289e20Fc263ab69](https://snowtrace.io/address/0x759EED71e5086bBE903036F5D289e20Fc263ab69) |
+| `AVAX - AMPL`     | [0xC95cA1b7C329A0208E6FA8C071FF62176876Fe6d](https://snowtrace.io/address/0xC95cA1b7C329A0208E6FA8C071FF62176876Fe6d) |
 | `AVAX - TRACTOR`  | [0x1C242Ae2350f7C6a6124215cBdd9a55e6C124369](https://snowtrace.io/address/0x1C242Ae2350f7C6a6124215cBdd9a55e6C124369) |
-| `AVAX - APEX`     | [0x2EE78B4d4F15ae2489617aE82df83BffA5cfbB0D](https://snowtrace.io/address/0x2EE78B4d4F15ae2489617aE82df83BffA5cfbB0D) |
+| `AVAX - APEX`     | [0x7259368223CD321Cd92e34a06225A8F3212f36CB](https://snowtrace.io/address/0x7259368223CD321Cd92e34a06225A8F3212f36CB) |
 | `USDC.e - JOE`    | [0x043a2eCE3C99fcBCB879A469c35BF267Bf842D4C](https://snowtrace.io/address/0x043a2eCE3C99fcBCB879A469c35BF267Bf842D4C) |
 | `USDC.e - ETH.e`  | [0xA9204E10fB899bBe8005ba4aA799091c1601AD29](https://snowtrace.io/address/0xA9204E10fB899bBe8005ba4aA799091c1601AD29) |
 | `USDC.e - wBTC.e` | [0x51Ed80385Ec034cb6D2eb064009fD902c45cEA3e](https://snowtrace.io/address/0x51Ed80385Ec034cb6D2eb064009fD902c45cEA3e) |
