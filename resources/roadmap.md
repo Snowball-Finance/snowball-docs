@@ -28,11 +28,10 @@
 
 ![](../.gitbook/assets/Q4\_2021.png)
 
+* [x] **Axial Launch** - We plan on launching a DEX for swapping value-pegged assets called [**Axial**](https://axial.exchange), as an upgrade to our existing StableVaults.
 * [ ] **Website Improvements** - We plan on making further QoL improvements to our site and consistently improve user experience among our various products.
 * [ ] **One-Click-Deposits** - We plan on making it possible for users to use our products without swapping tokens at all beforehand; utilizing simply AVAX for all deposits.
 * [ ] **New Auto-Compounding Strategies** - As always, we will continue to expand our offerings when it comes to our main flagship product.
-* [ ] **New StableVaults** - We plan on introducing new vaults for assets other than stablecoins.
-* [ ] **Metapools** - These new pools will allow us to pair new stablecoins to our existing StableVaults, without having to create new vaults.
 * [ ] **Liquid Staking** - We plan on implementing liquid AVAX staking, providing LAVAX in exchange.
 * [ ] **New & Improved NFTs** - We plan on adding new NFTs with more functionality than traditional NFTs.
 * [ ] **xSNOB Statistics** - We will provide xSNOB holders more stats and information regarding their holdings.
