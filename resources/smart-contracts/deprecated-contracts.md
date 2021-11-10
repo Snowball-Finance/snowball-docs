@@ -42,6 +42,7 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `AVAX - LINK`  | `Trader Joe` | [0x4bD6D4fE5E3bBaa0FfB075EE9F0980FbcC6c0192](https://snowtrace.io/address/0x4bD6D4fE5E3bBaa0FfB075EE9F0980FbcC6c0192) |
 | `AVAX - wBTC`  | `Trader Joe` | [0x86b109380aB2c34B740848b06Bee62C882F01df5](https://snowtrace.io/address/0x86b109380aB2c34B740848b06Bee62C882F01df5) |
 | `AVAX - SPORE` | `Trader Joe` | [0x2f17BAC3E0339C1BFB6E0DD380d65bd2Fc665C75](https://snowtrace.io/address/0x2f17BAC3E0339C1BFB6E0DD380d65bd2Fc665C75) |
+| `AVAX - MAI`   | `Trader Joe` | [0x29BF8c19e044732b110faA1Ff0Cc59CA35c13f17](https://snowtrace.io/address/0x29BF8c19e044732b110faA1Ff0Cc59CA35c13f17) |
 | `JOE - PNG`    | `Trader Joe` | [0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47](https://snowtrace.io/address/0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47) |
 | `JOE - DAI`    | `Trader Joe` | [0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2](https://snowtrace.io/address/0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2) |
 | `WAVAX`        | `BenQi`      | [0x7b74324f523831687fC8FCE946F15a3AA632dC06](https://snowtrace.io/address/0x7b74324f523831687fC8FCE946F15a3AA632dC06) |
@@ -89,6 +90,7 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `AVAX - LINK`   | `Trader Joe` | [0xb1755d58c6519a7ccb52206b4dfe64fe591574e6](https://snowtrace.io/address/0xb1755D58c6519a7CCB52206B4DFE64fe591574e6) |
 | `AVAX - wBTC`   | `Trader Joe` | [0x67160690c546925e03fe4191bc28cd70b459cc82](https://snowtrace.io/address/0x67160690c546925e03fE4191BC28Cd70B459cC82) |
 | `AVAX - SPORE`  | `Trader Joe` | [0x76ac2c3d79ee189487b3eaf7cb4299e413af3e66](https://snowtrace.io/address/0x76aC2c3D79eE189487b3Eaf7Cb4299E413aF3e66) |
+| `AVAX - MAI`    | `Trader Joe` | [0x298127A0F46A0538bFf45d0be1b6030c8662C4DB](https://snowtrace.io/address/0x298127A0F46A0538bFf45d0be1b6030c8662C4DB) |
 | `JOE - PNG`     | `Trader Joe` | [0xcacf38d95bc613cb3f5f2306b6fbed2472fd5ae6](https://snowtrace.io/address/0xcAcF38D95Bc613cb3F5f2306b6fBed2472FD5ae6) |
 | `JOE - DAI`     | `Trader Joe` | [0xff49e162e6bc10cdf12a8c35f162b79ab3d34bea](https://snowtrace.io/address/0xfF49E162E6bc10CDF12A8c35f162B79ab3d34BEA) |
 | `WAVAX`         | `BenQi`      | [0xaBe28c3B53E8200C87aDb2b790d3594C3fcEf16d](https://snowtrace.io/address/0xaBe28c3B53E8200C87aDb2b790d3594C3fcEf16d) |
