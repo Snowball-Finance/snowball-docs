@@ -14,7 +14,7 @@ Snowball’s compounding strategies use code that has been forked from [**Pickle
 
 ### How does auto-compounding work with Snowball?
 
-To learn about how auto-compounding works with Snowball, visit the [**Compounding**](../../products/compounding.md) page of our documentation. For a step by step guide on how to use Snowball’s compound feature, view our [**compounding guides**](../guides/).
+To learn about how auto-compounding works with Snowball, visit the [**Compounding**](../../products/compounding.md) page of our documentation. For a step by step guide on how to use Snowball’s auto-compounding page, view our [**compounding guides**](../guides/).
 
 ### How do I earn SNOB rewards while compounding?
 
@@ -43,3 +43,15 @@ There is no liquidation risk for any of Snowball's strategies. This is because o
 ### My single-asset strategy balance is slowly decreasing over time. What is going on?
 
 If the single-asset strategy you are deposited into involves folding, your balance will slowly decrease due to borrowing costs until a harvest occurs. When this takes place, Snowball is selling the rewards you've accumulated for your original underlying asset, and your balance will increase by a value much higher than what it decreased by previously. At the moment, these harvests take place 2-3 times a day and can be tracked through the #harvests channel on our Discord server.
+
+### When are strategy APRs updated?
+
+The APRs displayed on each strategy on our site are updated every 10 minutes.
+
+### How is Snowball getting such high rates from lending platforms?
+
+When possible, Snowball's strategies employ folding strategies. These allow us to achieve much higher rates on single-asset strategies that just lending your assets normally. To learn more about folding, check out our explanation [**here**](../../products/compounding#lending-+-folding-strategies) or head to our [**DeFi University**](../../defi-university/introduction.md).
+
+### What happens when SNOB emissions end?
+
+Once SNOB emissions end, rewards will continue to be rolled out through buyback functionalities similar to proposal 14’s. Of course, there can be any change to the systems behind SNOB rewards if the community deems it necessary, in which case a proposal will be put in place for us all to vote on together.
