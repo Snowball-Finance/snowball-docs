@@ -13,6 +13,7 @@
 | `Aave Controller V4`       | [0x425A863762BBf24A986d8EaE2A367cb514591C6F](https://snowtrace.io/address/0x425A863762BBf24A986d8EaE2A367cb514591C6F) |
 | `Banker Joe Controller V4` | [0xFb7102506B4815a24e3cE3eAA6B834BE7a5f2807](https://snowtrace.io/address/0xFb7102506B4815a24e3cE3eAA6B834BE7a5f2807) |
 | `BenQi Controller V4`      | [0x8Ffa3c1547479B77D9524316D5192777bedA40a1](https://snowtrace.io/address/0x8Ffa3c1547479B77D9524316D5192777bedA40a1) |
+| `Axial Controller V4`      | [0xc7D536a04ECC43269B6B95aC1ce0a06E0000D095](https://snowtrace.io/address/0xc7D536a04ECC43269B6B95aC1ce0a06E0000D095) |
 | `Staked SNOB (xSNOB)`      | [0x83952E7ab4aca74ca96217D6F8f7591BEaD6D64E](https://snowtrace.io/address/0x83952E7ab4aca74ca96217D6F8f7591BEaD6D64E) |
 | `Gauge Proxy V2`           | [0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27](https://snowtrace.io/address/0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27) |
 | `SNOB Fee Distributor`     | [0xad86ef5fd2ebc25bb9db41a1fe8d0f2a322c7839](https://snowtrace.io/address/0xad86ef5fd2ebc25bb9db41a1fe8d0f2a322c7839) |
