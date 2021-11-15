@@ -45,6 +45,7 @@
     * [Benqi Contracts](resources/smart-contracts/compounding-contracts/benqi-contracts.md)
     * [Aave Contracts](resources/smart-contracts/compounding-contracts/aave-contracts.md)
     * [Teddy Cash Contracts](resources/smart-contracts/compounding-contracts/teddy-cash-contracts.md)
+    * [Axial Contracts](resources/smart-contracts/compounding-contracts/axial-contracts.md)
   * [StableVault Contracts](resources/smart-contracts/stablevault-contracts.md)
   * [Deprecated Contracts](resources/smart-contracts/deprecated-contracts.md)
 * [Security](resources/security.md)
