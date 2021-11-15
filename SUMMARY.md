@@ -52,6 +52,7 @@
 * [Roadmap](resources/roadmap.md)
 * [DeFi Glossary](resources/defi-glossary.md)
 * [Harvest Stats](resources/harvest-stats.md)
+* [Brand Assets](resources/brand-assets.md)
 
 ## DeFi University
 
