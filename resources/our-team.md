@@ -110,8 +110,8 @@ Sergio2098, from Turkey, has stepped up to provide moderation and support to the
 
 #### ![](../.gitbook/assets/cryptofish.webp) Cryptofish
 
-****![](../.gitbook/assets/elroy.webp)** Elroy**
+#### ****![](../.gitbook/assets/elroy.webp)** Elroy**
 
-****![](../.gitbook/assets/jediballs.webp)** Jediballs**
+#### ****![](../.gitbook/assets/jediballs.webp)** Jediballs**
 
-****![](../.gitbook/assets/pedrohccq.webp)** Pedrohccq**
+#### ****![](../.gitbook/assets/pedrohccq.webp)** Pedrohccq**
