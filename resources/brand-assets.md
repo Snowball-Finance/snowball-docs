@@ -16,9 +16,9 @@ Want to include some of Snowball's graphics in your application and/or DeFi proj
 
 {% file src="../.gitbook/assets/Snowball_LogoInverted.png" %}
 
-![](../.gitbook/assets/SDU\_Logo.png)
+![](<../.gitbook/assets/SDU\_Logo (1).png>)
 
-{% file src="../.gitbook/assets/SDU_Logo.png" %}
+{% file src="../.gitbook/assets/SDU_Logo (1).png" %}
 
 ## SNOB Token Logo
 

@@ -1,5 +1,7 @@
 # Introduction
 
+![](<../.gitbook/assets/SDU Banner + Logo.png>)
+
 ## Welcome!
 
 At Snowball's DeFi University we explore the world of decentralized finance, and learn all about the many innovations it is bringing to the financial industry, as well as everything we need to know in order to make the best decisions possible when it comes to money. And who knows, maybe you'll come out knowing something you didn't before.
