@@ -1,13 +1,13 @@
 # Roadmap
 
-![](../.gitbook/assets/Q1\_2021.png)
+![](<../.gitbook/assets/New Q1\_2021.png>)
 
 * [x] **Snowball Launch** - We had a fair launch on March 7th with three [**auto-compounding strategies**](https://app.snowball.network/compound-and-earn).
 * [x] **Timelocks & Multisig** - These [**safety measures**](security.md) were introduced to further secure the protocol and help build the community's trust in Snowball.
 * [x] **New Auto-Compounding Strategies** - We added two new strategies: AVAX-LINK and AVAX-USDT.
 * [x] **s3D StableVault** - We launched the first [**stable asset AMM**](https://app.snowball.network/s3d-vault) on Avalanche with DAI, BUSD and USDT.
 
-![](../.gitbook/assets/Q2\_2021.png)
+![](<../.gitbook/assets/New Q2\_2021.png>)
 
 * [x] **On-Chain Governance** - We introduced voting on [**proposals**](https://app.snowball.network/governance) even with SNOB staked in the AVAX-SNOB liquidity pool.
 * [x] **Promotional NFTs** - We launched an [**NFT marketplace**](https://app.snowball.network/nft-marketplace) with some limited edition NFTs in order to recognize and rewards our users and community members.
@@ -17,7 +17,7 @@
 * [x] **SNOB Staking** - We introduced [**xSNOB**](../governance/xsnob/), the staked version of the SNOB token.
 * [x] **Partnerships** - We've announced an official partnership with Avalanche and Penguin Finance; while continuing to support the Avalanche ecosystem as a whole.
 
-![](../.gitbook/assets/Q3\_2021.png)
+![](<../.gitbook/assets/New Q3\_2021.png>)
 
 * [x] **Governance V2** - We revamped our [**governance mechanisms**](https://app.snowball.network/governance) for better functionality and increased security.
 * [x] **Website Redesign** - We redesigned our [**website**](https://app.snowball.network) in order to greatly improve user experience.
@@ -26,7 +26,7 @@
 * [x] **Partnerships** - We partnered with [**Sherpa Cash**](https://sherpa.cash) in order to launch their new token through an IDO.
 * [x] **Team Expansion** - We have brought on new developers, designers and other team members and nearly tripled the size of [**our team**](our-team.md)!
 
-![](../.gitbook/assets/Q4\_2021.png)
+![](<../.gitbook/assets/New Q4\_2021.png>)
 
 * [x] **Axial Launch** - We plan on launching a DEX for swapping value-pegged assets called [**Axial**](https://axial.exchange), as an upgrade to our existing StableVaults.
 * [ ] **Website Improvements** - We plan on making further QoL improvements to our site and consistently improve user experience among our various products.
