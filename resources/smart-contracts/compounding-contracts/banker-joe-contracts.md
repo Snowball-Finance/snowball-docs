@@ -11,6 +11,7 @@
 | `DAI.e`           | [0x7b5FfCf45193986B757986379628432d90F20AAb](https://snowtrace.io/address/0x7b5FfCf45193986B757986379628432d90F20AAb) |
 | `USDT.e`          | [0xc7Ca863275b2D0F7a07cA6e2550504362705aA1A](https://snowtrace.io/address/0xc7Ca863275b2D0F7a07cA6e2550504362705aA1A) |
 | `MIM`             | [0x3aAF997FdDA51eBb0918e3E59021f5FDE52444d8](https://snowtrace.io/address/0x3aAF997FdDA51eBb0918e3E59021f5FDE52444d8) |
+| `xJOE`            | [0x6a52e6b23700A63eA4a0Db313eBD386Fb510eE3C](https://snowtrace.io/address/0x6a52e6b23700A63eA4a0Db313eBD386Fb510eE3C) |
 
 ## Compounding Strategy Contracts
 
@@ -23,6 +24,7 @@
 | `DAI.e`           | [0xcD9AA4D1a0cEE1D0Ed3798DEd6fB925cBfE598A0](https://snowtrace.io/address/0xcD9AA4D1a0cEE1D0Ed3798DEd6fB925cBfE598A0) |
 | `USDT.e`          | [0x3Ef4dC17b344cd234fa264d8D0bE424207f07532](https://snowtrace.io/address/0x3Ef4dC17b344cd234fa264d8D0bE424207f07532) |
 | `MIM`             | [0xA96030a8527966c0e23033f1248906866a99D9D7](https://snowtrace.io/address/0xA96030a8527966c0e23033f1248906866a99D9D7) |
+| `xJOE`            | [0x7f716a918503611b7949F8C76324A8422d5567ab](https://snowtrace.io/address/0x7f716a918503611b7949F8C76324A8422d5567ab) |
 
 ## Compounding Gauge Contracts
 
@@ -35,3 +37,4 @@
 | `DAI.e`           | [0xd06ef2189d719aF3b860Bd4B120329425159bFdE](https://snowtrace.io/address/0xd06ef2189d719aF3b860Bd4B120329425159bFdE) |
 | `USDT.e`          | [0x1F5D44E5aB4804183B523B337DD289075e2616Dd](https://snowtrace.io/address/0x1F5D44E5aB4804183B523B337DD289075e2616Dd) |
 | `MIM`             | [0x55839d98536348825aB31c0c1263fbE814Bf649a](https://snowtrace.io/address/0x55839d98536348825aB31c0c1263fbE814Bf649a) |
+| `xJOE`            | [0xB347a857F20857c954b7aF52D9A306dF2F9EC89f](https://snowtrace.io/address/0xB347a857F20857c954b7aF52D9A306dF2F9EC89f) |
