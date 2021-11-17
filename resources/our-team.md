@@ -52,8 +52,6 @@ Auroter hails from the US, and has a background as a value engineer, systems eng
 
 #### ![](../.gitbook/assets/sanjeev1308.webp) Sanjeev1308 (Front-End Engineer)
 
-#### ![](../.gitbook/assets/tian.webp) Tian (Front-End Engineer)
-
 #### ![](../.gitbook/assets/david-defi-web.webp) David-Defi-Web (Front-End Engineer)
 
 #### ![](../.gitbook/assets/feds.webp) Feds (UI/UX Design)
