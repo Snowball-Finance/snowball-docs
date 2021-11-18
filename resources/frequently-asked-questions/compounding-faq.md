@@ -55,3 +55,7 @@ When possible, Snowball's strategies employ folding strategies. These allow us t
 ### What happens when SNOB emissions end?
 
 Once SNOB emissions end, rewards will continue to be rolled out through buyback functionalities similar to proposal 14’s. Of course, there can be any change to the systems behind SNOB rewards if the community deems it necessary, in which case a proposal will be put in place for us all to vote on together.
+
+### I haven't seen any harvests taking place in a little while, is everything OK?
+
+Harvest may not occur in certain circumstances, such as during rapid spikes in gas price. Since we compound so often though, any changes to strategy profitability should be negligible.
