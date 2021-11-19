@@ -74,6 +74,7 @@
   * [YF 424 - LP Math](defi-university/yield-farming/yf-424-lp-math.md)
 * [Governance](defi-university/governance/README.md)
   * [GV 141 - DAOs](defi-university/governance/gv-141-daos.md)
+  * [GV 242 - Voting Mechanisms](defi-university/governance/gv-242-voting-mechanisms.md)
 * [Extracurricular](defi-university/extracurricular/README.md)
   * [EX 151 - Spotting Scams](defi-university/extracurricular/ex-151-spotting-scams.md)
   * [EX 271 - NFTs](defi-university/extracurricular/ex-271-nfts.md)
