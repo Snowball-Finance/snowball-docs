@@ -10,7 +10,9 @@ Courses in the **Governance** category explore the different aspects of decentra
 
 ## 2nd Year Courses
 
-None.
+{% content-ref url="gv-242-voting-mechanisms.md" %}
+[gv-242-voting-mechanisms.md](gv-242-voting-mechanisms.md)
+{% endcontent-ref %}
 
 ## 3rd Year Courses
 
