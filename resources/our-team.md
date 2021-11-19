@@ -82,10 +82,6 @@ Ncookie is a Brazilian software engineer with a bachelors degree in computer sci
 
 Sergio2098, from Turkey, has stepped up to provide moderation and support to the Snowball community over at our Telegram group, and has allowed the huge number of Turkish DeFi users to use Snowball through translations of our documentation and guides.
 
-#### ![](../.gitbook/assets/shung.webp) Shung (Support Staff)
-
-#### ![](../.gitbook/assets/warcha.webp) Warcha (Support Staff)
-
 #### ![](../.gitbook/assets/erkan.webp) Erkan (Support Staff)
 
 ## Contributors
@@ -113,3 +109,5 @@ Sergio2098, from Turkey, has stepped up to provide moderation and support to the
 #### ****![](../.gitbook/assets/jediballs.webp)** Jediballs**
 
 #### ****![](../.gitbook/assets/pedrohccq.webp)** Pedrohccq**
+
+#### ![](../.gitbook/assets/shung.webp) Shung
