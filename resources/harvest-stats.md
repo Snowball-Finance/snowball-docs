@@ -52,4 +52,8 @@ Weekly snapshots are taken every Sunday, and this page is updated every Monday.
 {% tab title="WAVAX" %}
 ![](<../.gitbook/assets/WAVAX Harvested.png>)
 {% endtab %}
+
+{% tab title="AXIAL" %}
+_Will be added next week!_
+{% endtab %}
 {% endtabs %}
