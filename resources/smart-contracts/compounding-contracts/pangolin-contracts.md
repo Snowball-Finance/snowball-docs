@@ -4,8 +4,7 @@
 
 | Pair             | Address                                                                                                                                            |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `SNOB - AVAX`    | [0xF4072358C1E3d7841BD7AfDE31F61E17E8d99BE7](https://snowtrace.io/address/0xF4072358C1E3d7841BD7AfDE31F61E17E8d99BE7) |
-| `SNOB - PNG`     | [0xB4db531076494432eaAA4C6fCD59fcc876af2734](https://snowtrace.io/address/0xB4db531076494432eaAA4C6fCD59fcc876af2734) |
+| `AVAX - SNOB`    | [0xF4072358C1E3d7841BD7AfDE31F61E17E8d99BE7](https://snowtrace.io/address/0xF4072358C1E3d7841BD7AfDE31F61E17E8d99BE7) |
 | `AVAX - PNG`     | [0x621207093D2e65Bf3aC55dD8Bf0351B980A63815](https://snowtrace.io/address/0x621207093D2e65Bf3aC55dD8Bf0351B980A63815) |
 | `AVAX - VSO`     | [0x888Ab4CB2279bDB1A81c49451581d7c243AffbEf](https://snowtrace.io/address/0x888Ab4CB2279bDB1A81c49451581d7c243AffbEf) |
 | `AVAX - SPORE`   | [0x27f8FE86a513bAAF18B59D3dD15218Cc629640Fc](https://snowtrace.io/address/0x27f8FE86a513bAAF18B59D3dD15218Cc629640Fc) |
@@ -61,6 +60,14 @@
 | `AVAX - OLIVE`   | [0xd686aD524e3324F20eafBAf0e80f4553f749431d](https://snowtrace.io/address/0xd686aD524e3324F20eafBAf0e80f4553f749431d) |
 | `AVAX - FRAX`    | [0x8a9d06976073715461D66d595523a06C7B5c5313](https://snowtrace.io/address/0x8a9d06976073715461D66d595523a06C7B5c5313) |
 | `AVAX - ROCO`    | [0x026402B96A3EBDeaE03B70E4C197D70a8f33B295](https://snowtrace.io/address/0x026402B96A3EBDeaE03B70E4C197D70a8f33B295) |
+| `AVAX - JOE`     | [0x98C64DE8118eF067Fe8e3756d77FF134270A94Ad](https://snowtrace.io/address/0x98C64DE8118eF067Fe8e3756d77FF134270A94Ad) |
+| `AVAX - HCT`     | [0xe720fca4cfF42F03eC01A12F23592b731A43EDCf](https://snowtrace.io/address/0xe720fca4cfF42F03eC01A12F23592b731A43EDCf) |
+| `AVAX - AMP`     | [0xeEc0b6B6Af1a5Ec3571Ca5E219511bbd630F0477](https://snowtrace.io/address/0xeEc0b6B6Af1a5Ec3571Ca5E219511bbd630F0477) |
+| `AVAX - IMX`     | [0x28a5e50d0841d7AC5d858A76a1C54f27baB6Eda9](https://snowtrace.io/address/0x28a5e50d0841d7AC5d858A76a1C54f27baB6Eda9) |
+| `AVAX - KLO`     | [0x17FD2418bcae447Ab383a437e4991F5536646681](https://snowtrace.io/address/0x17FD2418bcae447Ab383a437e4991F5536646681) |
+| `AVAX - ORBS`    | [0xD4ADAD0cA62bC5B504DcF302c85E649E6175424f](https://snowtrace.io/address/0xD4ADAD0cA62bC5B504DcF302c85E649E6175424f) |
+| `AVAX - SPELL`   | [0xe90A5cEdABe829B5dCf596b326ef03e74ae60faB](https://snowtrace.io/address/0xe90A5cEdABe829B5dCf596b326ef03e74ae60faB) |
+| `PNG - SNOB`     | [0xB4db531076494432eaAA4C6fCD59fcc876af2734](https://snowtrace.io/address/0xB4db531076494432eaAA4C6fCD59fcc876af2734) |
 | `PNG - VSO`      | [0x8309C64390F376fD778BDd701d54d1F8DFfe1F39](https://snowtrace.io/address/0x8309C64390F376fD778BDd701d54d1F8DFfe1F39) |
 | `PNG - SPORE`    | [0xa39785a4E4CdDa7509751ed152a00f3D37FbFa9F](https://snowtrace.io/address/0xa39785a4E4CdDa7509751ed152a00f3D37FbFa9F) |
 | `PNG - BNB`      | [0x585DE92A24057400a7c445c89338c7d6c61dd080](https://snowtrace.io/address/0x585DE92A24057400a7c445c89338c7d6c61dd080) |
@@ -92,8 +99,7 @@
 
 | Pair             | Address                                                                                                                                            |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `SNOB - AVAX`    | [0x10286816b50821dC7c1575aDf5AeFD97f256e165](https://snowtrace.io/address/0x10286816b50821dC7c1575aDf5AeFD97f256e165) |
-| `SNOB - PNG`     | [0x4Bcfb10465a8D22F0A047Df3AfA8eE06CBCc8E13](https://snowtrace.io/address/0x4Bcfb10465a8D22F0A047Df3AfA8eE06CBCc8E13) |
+| `AVAX - SNOB`    | [0x10286816b50821dC7c1575aDf5AeFD97f256e165](https://snowtrace.io/address/0x10286816b50821dC7c1575aDf5AeFD97f256e165) |
 | `AVAX - PNG`     | [0xDc9163203b5bdA65eA6d97c1869788b528E7A283](https://snowtrace.io/address/0xDc9163203b5bdA65eA6d97c1869788b528E7A283) |
 | `AVAX - VSO`     | [0x4304db2D76A55754Ae8b0d71d6ECBe10e545Bf40](https://snowtrace.io/address/0x4304db2D76A55754Ae8b0d71d6ECBe10e545Bf40) |
 | `AVAX - SPORE`   | [0xeC96cbe0D178cB18eCf0D7bf6c2B599DAd28dA47](https://snowtrace.io/address/0xeC96cbe0D178cB18eCf0D7bf6c2B599DAd28dA47) |
@@ -142,13 +148,21 @@
 | `AVAX - AVXT`    | [0x7508De4f00a397a107E9C8e9C0f6fa848A328e07](https://snowtrace.io/address/0x7508De4f00a397a107E9C8e9C0f6fa848A328e07) |
 | `AVAX - aAVAXb`  | [0xd06E4a8A7AEF46B488BD4c558a3513F9782647B8](https://snowtrace.io/address/0xd06E4a8A7AEF46B488BD4c558a3513F9782647B8) |
 | `AVAX - SHIBX`   | [0x7e4196Fe4A9C661B1BbD27B54214E669351Bdf23](https://snowtrace.io/address/0x7e4196Fe4A9C661B1BbD27B54214E669351Bdf23) |
-| `AVAX - INSUR`   | [0xc49942399D8BAF835e6806a5bd93d4315f292e9C](https://snowtrace.io/address/0xc49942399D8BAF835e6806a5bd93d4315f292e9C) |
-| `AVAX - OOE`     | [0xf58B2320817c2aff5a70349907a18986A2F13469](https://snowtrace.io/address/0xf58B2320817c2aff5a70349907a18986A2F13469) |
-| `AVAX - VEE`     | [0xd5B368f41F48b6f629DD76c00E565beA030Bb04E](https://snowtrace.io/address/0xd5B368f41F48b6f629DD76c00E565beA030Bb04E) |
+| `AVAX - INSUR`   | [0xE09b040D09EE2d4d1F2c976b3CCd3DB52f9b49BF](https://snowtrace.io/address/0xE09b040D09EE2d4d1F2c976b3CCd3DB52f9b49BF) |
+| `AVAX - OOE`     | [0xC38f6f1bE006B7d7DE9f08Aa5e6F82F93c7B5220](https://snowtrace.io/address/0xC38f6f1bE006B7d7DE9f08Aa5e6F82F93c7B5220) |
+| `AVAX - VEE`     | [0xc915e9fefFCEacFD037089be47E1C94c43bDD329](https://snowtrace.io/address/0xc915e9fefFCEacFD037089be47E1C94c43bDD329) |
 | `AVAX - xUSD`    | [0xfB9dad0D71EA4D61bc4efbd43A5B7A2F6bE2CC66](https://snowtrace.io/address/0xfB9dad0D71EA4D61bc4efbd43A5B7A2F6bE2CC66) |
 | `AVAX - OLIVE`   | [0x2736a1D575c115b0899f8B9699898B9A2ba04238](https://snowtrace.io/address/0x2736a1D575c115b0899f8B9699898B9A2ba04238) |
 | `AVAX - FRAX`    | [0xFA021F25B2D53BCCacaf98C6894f910DC512a0F1](https://snowtrace.io/address/0xFA021F25B2D53BCCacaf98C6894f910DC512a0F1) |
 | `AVAX - ROCO`    | [0xB485080F8adaAEbD62A34f9A8Ab5d63891B4a059](https://snowtrace.io/address/0xB485080F8adaAEbD62A34f9A8Ab5d63891B4a059) |
+| `AVAX - JOE`     | [0x4951D821F933c179823444621a230e9212D541fd](https://snowtrace.io/address/0x4951D821F933c179823444621a230e9212D541fd) |
+| `AVAX - HCT`     | [0x4512029E332d184089A5Ba00FFCCFbe1f04870c2](https://snowtrace.io/address/0x4512029E332d184089A5Ba00FFCCFbe1f04870c2) |
+| `AVAX - AMP`     | [0x2F1B13ADe16019b50585DF6289e46da988e07D61](https://snowtrace.io/address/0x2F1B13ADe16019b50585DF6289e46da988e07D61) |
+| `AVAX - IMX`     | [0x30298513aa731BEE0f4C3ef3A339857ECC99B8a0](https://snowtrace.io/address/0x30298513aa731BEE0f4C3ef3A339857ECC99B8a0) |
+| `AVAX - KLO`     | [0x1fa6CcE8C303FD826E761d789799115fF68Ad8c3](https://snowtrace.io/address/0x1fa6CcE8C303FD826E761d789799115fF68Ad8c3) |
+| `AVAX - ORBS`    | [0x7a0030387EA0607dC54293785Af3ad7B43207150](https://snowtrace.io/address/0x7a0030387EA0607dC54293785Af3ad7B43207150) |
+| `AVAX - SPELL`   | [0x798bB45e61b6c3c273B2852a1D648eE449d9c4B8](https://snowtrace.io/address/0x798bB45e61b6c3c273B2852a1D648eE449d9c4B8) |
+| `PNG - SNOB`     | [0x4Bcfb10465a8D22F0A047Df3AfA8eE06CBCc8E13](https://snowtrace.io/address/0x4Bcfb10465a8D22F0A047Df3AfA8eE06CBCc8E13) |
 | `PNG - VSO`      | [0xa7F6898d26637023aB386AA38ce3D19dff6618cA](https://snowtrace.io/address/0xa7F6898d26637023aB386AA38ce3D19dff6618cA) |
 | `PNG - SPORE`    | [0x9004b64e5d793B70394a96f57b0dA869faD328c0](https://snowtrace.io/address/0x9004b64e5d793B70394a96f57b0dA869faD328c0) |
 | `PNG - BNB`      | [0x8924Cecf2083341B13597e1175d7A318E0547C5e](https://snowtrace.io/address/0x8924Cecf2083341B13597e1175d7A318E0547C5e) |
@@ -180,8 +194,7 @@
 
 | Pair             | Address                                                                                                                                            |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `SNOB - AVAX`    | [0x57d37bce66597459dfe2a69a02cddf41d8e71842](https://snowtrace.io/address/0x57D37BCe66597459dfe2A69a02cDdf41D8e71842) |
-| `SNOB - PNG`     | [0x2a83cf1cc8727d281c1afa9385d5e7f75b2fafb5](https://snowtrace.io/address/0x2a83Cf1Cc8727D281C1afa9385d5E7f75B2FafB5) |
+| `AVAX - SNOB`    | [0x57d37bce66597459dfe2a69a02cddf41d8e71842](https://snowtrace.io/address/0x57D37BCe66597459dfe2A69a02cDdf41D8e71842) |
 | `AVAX - PNG`     | [0xb99459c049aee1adb8b8e4e422bfdbc7081b2fac](https://snowtrace.io/address/0xB99459c049aeE1AdB8b8E4E422bFDBc7081B2FAc) |
 | `AVAX - VSO`     | [0x531d455181b952b467e3e9228bfa2cc45ba2366e](https://snowtrace.io/address/0x531d455181B952B467E3E9228bfa2CC45bA2366E) |
 | `AVAX - SPORE`   | [0x7325e1597d48dc43ad9eaa5dfd64ecc14caaf976](https://snowtrace.io/address/0x7325E1597D48dc43aD9eaA5Dfd64Ecc14cAAF976) |
@@ -237,6 +250,14 @@
 | `AVAX - OLIVE`   | [0x22b19fD5aC461573a41e738B05FEd4bcA681A3da](https://snowtrace.io/address/0x22b19fD5aC461573a41e738B05FEd4bcA681A3da) |
 | `AVAX - FRAX`    | [0x8670E82e0A38046Eb89202CDeC5f1F099efab9d0](https://snowtrace.io/address/0x8670E82e0A38046Eb89202CDeC5f1F099efab9d0) |
 | `AVAX - ROCO`    | [0x193c769F13EBC953C0e70823F1e15d47B56019a3](https://snowtrace.io/address/0x193c769F13EBC953C0e70823F1e15d47B56019a3) |
+| `AVAX - JOE`     | [0x1c15aA0537E356929169Bd7bAE84C5d82d076d58](https://snowtrace.io/address/0x1c15aA0537E356929169Bd7bAE84C5d82d076d58) |
+| `AVAX - HCT`     | [0x90c7adcfd0c6dfeb19ca7a5fc1d8c76dee55d4ee](https://snowtrace.io/address/0x90c7adcfd0c6dfeb19ca7a5fc1d8c76dee55d4ee) |
+| `AVAX - AMP`     | [0xFecac8049f15F731a069654B7b84d74D5CB50308](https://snowtrace.io/address/0xFecac8049f15F731a069654B7b84d74D5CB50308) |
+| `AVAX - IMX`     | [0x3F94Af99e61524FCE83bb7F99AA041B917592a9a](https://snowtrace.io/address/0x3F94Af99e61524FCE83bb7F99AA041B917592a9a) |
+| `AVAX - KLO`     | [0x5970Fc50E3cBe5ffbe544c2C91bd94475fCC2409](https://snowtrace.io/address/0x5970Fc50E3cBe5ffbe544c2C91bd94475fCC2409) |
+| `AVAX - ORBS`    | [0x0202Bc153066c9524e5cD13f5d828356391941D0](https://snowtrace.io/address/0x0202Bc153066c9524e5cD13f5d828356391941D0) |
+| `AVAX - SPELL`   | [0x1809C74Ad83b5931BBb0362c1A8179c728843a58](https://snowtrace.io/address/0x1809C74Ad83b5931BBb0362c1A8179c728843a58) |
+| `PNG - SNOB`     | [0x2a83cf1cc8727d281c1afa9385d5e7f75b2fafb5](https://snowtrace.io/address/0x2a83Cf1Cc8727D281C1afa9385d5E7f75B2FafB5) |
 | `PNG - VSO`      | [0x97150ce64e4f569b0ad63a85e564391bbddc2a22](https://snowtrace.io/address/0x97150Ce64E4F569B0aD63A85e564391bbddC2a22) |
 | `PNG - SPORE`    | [0x53f7445190f2010f8d22ea6e220813d4254b153f](https://snowtrace.io/address/0x53F7445190F2010F8d22eA6E220813D4254B153f) |
 | `PNG - BNB`      | [0xb9e680e2af5f132d8ad6187d8a1ed1d99dea2772](https://snowtrace.io/address/0xb9e680e2AF5F132D8Ad6187D8a1ed1D99DeA2772) |
