@@ -236,7 +236,7 @@
 | `AVAX - xUSD`    | [0x10bf69786b9962bF6fb569827a42639894AED37A](https://snowtrace.io/address/0x10bf69786b9962bF6fb569827a42639894AED37A) |
 | `AVAX - OLIVE`   | [0x22b19fD5aC461573a41e738B05FEd4bcA681A3da](https://snowtrace.io/address/0x22b19fD5aC461573a41e738B05FEd4bcA681A3da) |
 | `AVAX - FRAX`    | [0x8670E82e0A38046Eb89202CDeC5f1F099efab9d0](https://snowtrace.io/address/0x8670E82e0A38046Eb89202CDeC5f1F099efab9d0) |
-| `AVAX - ROCO`    | [0x8Fa6d42eDfdaBe9af2A7c85771242a67dE11eb75](https://snowtrace.io/address/0x8Fa6d42eDfdaBe9af2A7c85771242a67dE11eb75) |
+| `AVAX - ROCO`    | [0x193c769F13EBC953C0e70823F1e15d47B56019a3](https://snowtrace.io/address/0x193c769F13EBC953C0e70823F1e15d47B56019a3) |
 | `PNG - VSO`      | [0x97150ce64e4f569b0ad63a85e564391bbddc2a22](https://snowtrace.io/address/0x97150Ce64E4F569B0aD63A85e564391bbddC2a22) |
 | `PNG - SPORE`    | [0x53f7445190f2010f8d22ea6e220813d4254b153f](https://snowtrace.io/address/0x53F7445190F2010F8d22eA6E220813D4254B153f) |
 | `PNG - BNB`      | [0xb9e680e2af5f132d8ad6187d8a1ed1d99dea2772](https://snowtrace.io/address/0xb9e680e2AF5F132D8Ad6187D8a1ed1D99DeA2772) |
