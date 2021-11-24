@@ -84,6 +84,8 @@ Sergio2098, from Turkey, has stepped up to provide moderation and support to the
 
 #### ![](../.gitbook/assets/erkan.webp) Erkan (Support Staff)
 
+#### ![](../.gitbook/assets/zacknistelrooy.webp) Zacknistelrooy (Support Staff)
+
 ## Contributors
 
 #### ![](../.gitbook/assets/mintle.webp) Mintle
