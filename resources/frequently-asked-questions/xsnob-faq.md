@@ -31,3 +31,11 @@ xSNOB gives you access to voting on community proposals, gauges voting, revenue 
 ### What is the APY for staking SNOB?
 
 The rewards gained for staking SNOB come directly from a percentage of the protocol's revenue. The more profitable the protocol becomes, the more SNOB you will gain over time by staking SNOB. An accurate APY is not available at this time.
+
+### When do xSNOB revenue sharing distributions take place?
+
+Every Thursday mornings at 0 UTC.
+
+### What happens if I forget to claim my SNOB rewards?
+
+Nothing. You can claim it next week or whenever convenient for you - or claim all your rewards at once when your locked staking is over. Up to you!
