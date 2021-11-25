@@ -99,7 +99,7 @@
 
 | Pair             | Address                                                                                                                                            |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `AVAX - SNOB`    | [0x10286816b50821dC7c1575aDf5AeFD97f256e165](https://snowtrace.io/address/0x10286816b50821dC7c1575aDf5AeFD97f256e165) |
+| `AVAX - SNOB`    | [0x0BCF9DCa633DCE9A519BF809535beb60900d3b24](https://snowtrace.io/address/0x0BCF9DCa633DCE9A519BF809535beb60900d3b24) |
 | `AVAX - PNG`     | [0xDc9163203b5bdA65eA6d97c1869788b528E7A283](https://snowtrace.io/address/0xDc9163203b5bdA65eA6d97c1869788b528E7A283) |
 | `AVAX - VSO`     | [0x4304db2D76A55754Ae8b0d71d6ECBe10e545Bf40](https://snowtrace.io/address/0x4304db2D76A55754Ae8b0d71d6ECBe10e545Bf40) |
 | `AVAX - SPORE`   | [0xeC96cbe0D178cB18eCf0D7bf6c2B599DAd28dA47](https://snowtrace.io/address/0xeC96cbe0D178cB18eCf0D7bf6c2B599DAd28dA47) |
