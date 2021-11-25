@@ -22,7 +22,15 @@ These rewards can be claimed every week until your xSNOB balance reaches 0 (at t
 
 ## Historical Distributions
 
+{% tabs %}
+{% tab title="SNOB" %}
 ![](<../../.gitbook/assets/SNOB Distributions.png>)
+{% endtab %}
+
+{% tab title="AXIAL" %}
+![](<../../.gitbook/assets/AXIAL Distributions.png>)
+{% endtab %}
+{% endtabs %}
 
 ## Revenue Sharing Resources
 
