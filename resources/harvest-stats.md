@@ -54,6 +54,6 @@ Weekly snapshots are taken every Sunday, and this page is updated every Monday.
 {% endtab %}
 
 {% tab title="AXIAL" %}
-_Will be added next week!_
+![](<../.gitbook/assets/AXIAL Harvested.png>)
 {% endtab %}
 {% endtabs %}
