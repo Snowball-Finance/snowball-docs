@@ -50,7 +50,7 @@ The APRs displayed on each strategy on our site are updated every 10 minutes.
 
 ### How is Snowball getting such high rates from lending platforms?
 
-When possible, Snowball's strategies employ folding strategies. These allow us to achieve much higher rates on single-asset strategies that just lending your assets normally. To learn more about folding, check out our explanation [**here**](../../products/compounding#lending-+-folding-strategies) or head to our [**DeFi University**](../../defi-university/introduction.md).
+When possible, Snowball's strategies employ folding strategies. These allow us to achieve much higher rates on single-asset strategies that just lending your assets normally. To learn more about folding, check out our explanation [**here**](../../products/compounding/#lending-+-folding-strategies) or head to our [**DeFi University**](../../defi-university/introduction.md).
 
 ### What happens when SNOB emissions end?
 
@@ -58,4 +58,10 @@ Once SNOB emissions end, rewards will continue to be rolled out through buyback 
 
 ### I haven't seen any harvests taking place in a little while, is everything OK?
 
-Harvest may not occur in certain circumstances, such as during rapid spikes in gas price. Since we compound so often though, any changes to strategy profitability should be negligible.
+Harvest may not occur in certain circumstances, such as during rapid spikes in gas prices. Since we compound so often though, any changes to strategy profitability should be negligible.
+
+### How can I calculate how much I've earned through compounding?
+
+While these stats are currently not displayed on Snowball's dashboard - they will be in the near future. Until then, keeping track of how much you've deposited initially is the easiest way to calculate this. Simply subtract that amount from what you currently have on Snowball, regardless of what type of token it is.
+
+If you haven't kept track, you can check your transaction history through a [**block explorer**](https://snowtrace.io) by inputting your wallet address. Some tools are available to help in that regard, so don't hesitate to reach out to us on [**Discord**](https://discord.gg/BPnBYDSqcb) if you need help.
