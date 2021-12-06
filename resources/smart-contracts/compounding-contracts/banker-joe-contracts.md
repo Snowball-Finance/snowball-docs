@@ -17,14 +17,14 @@
 
 | Pair              | Address                                                                                                                                            |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `ETH.e`           | [0x09e26431E600F22D111a6F3c8F88D9BAe2a64AD5](https://snowtrace.io/address/0x09e26431E600F22D111a6F3c8F88D9BAe2a64AD5) |
-| `wBTC.e`          | [0xA0a72F0b5056fba03158fc2D75CF6B4e364c6520](https://snowtrace.io/address/0xA0a72F0b5056fba03158fc2D75CF6B4e364c6520) |
-| `LINK.e`          | [0xcE1A073F8df6796bd3B969f8CE1A04f569965a2B](https://snowtrace.io/address/0xcE1A073F8df6796bd3B969f8CE1A04f569965a2B) |
-| `USDC.e`          | [0xcD4a6733D1E497672290b0C4b891dFc10E03E973](https://snowtrace.io/address/0xcD4a6733D1E497672290b0C4b891dFc10E03E973) |
+| `ETH.e`           | [0x7322fd7b3B4F213F003355cdFef62fdac1d0D58a](https://snowtrace.io/address/0x7322fd7b3B4F213F003355cdFef62fdac1d0D58a) |
+| `wBTC.e`          | [0x794792E97c23cd95524A955C79292bdD14245EA3](https://snowtrace.io/address/0x794792E97c23cd95524A955C79292bdD14245EA3) |
+| `LINK.e`          | [0x997FbBbb0957Ace0512f38a23f5cfFafFc2172f9](https://snowtrace.io/address/0x997FbBbb0957Ace0512f38a23f5cfFafFc2172f9) |
+| `USDC.e`          | [0xbACa6772f7313f5852eAeF64119b606629329186](https://snowtrace.io/address/0xbACa6772f7313f5852eAeF64119b606629329186) |
 | `DAI.e`           | [0x2D5E1D3B8CddF9527467C523c485985cFf2004aA](https://snowtrace.io/address/0x2D5E1D3B8CddF9527467C523c485985cFf2004aA) |
-| `USDT.e`          | [0x3Ef4dC17b344cd234fa264d8D0bE424207f07532](https://snowtrace.io/address/0x3Ef4dC17b344cd234fa264d8D0bE424207f07532) |
-| `MIM`             | [0xA96030a8527966c0e23033f1248906866a99D9D7](https://snowtrace.io/address/0xA96030a8527966c0e23033f1248906866a99D9D7) |
-| `xJOE`            | [0x7f716a918503611b7949F8C76324A8422d5567ab](https://snowtrace.io/address/0x7f716a918503611b7949F8C76324A8422d5567ab) |
+| `USDT.e`          | [0x9f8eeAe99578882fF045D65441B75a85bA11c8c2](https://snowtrace.io/address/0x9f8eeAe99578882fF045D65441B75a85bA11c8c2) |
+| `MIM`             | [0xd3829B16a2A7338a15078c541BA331E49D635E29](https://snowtrace.io/address/0xd3829B16a2A7338a15078c541BA331E49D635E29) |
+| `xJOE`            | [0x4078b1F0192d9b8b14299F8047CE6526F63BfbCa](https://snowtrace.io/address/0x4078b1F0192d9b8b14299F8047CE6526F63BfbCa) |
 
 ## Compounding Gauge Contracts
 

@@ -11,7 +11,7 @@
 | `Controller V4`            | [0xf7B8D9f8a82a7a6dd448398aFC5c77744Bd6cb85](https://snowtrace.io/address/0xf7B8D9f8a82a7a6dd448398aFC5c77744Bd6cb85) |
 | `Backup Controller V4`     | [0xacc69deef119ab5bbf14e6aaf0536eafb3d6e046](https://snowtrace.io/address/0xACc69DEeF119AB5bBf14e6Aaf0536eAFB3D6e046) |
 | `Aave Controller V4`       | [0x425A863762BBf24A986d8EaE2A367cb514591C6F](https://snowtrace.io/address/0x425A863762BBf24A986d8EaE2A367cb514591C6F) |
-| `Banker Joe Controller V4` | [0xFb7102506B4815a24e3cE3eAA6B834BE7a5f2807](https://snowtrace.io/address/0xFb7102506B4815a24e3cE3eAA6B834BE7a5f2807) |
+| `Banker Joe Controller V4` | [0xF2FA11Fc9247C23b3B622C41992d8555f6D01D8f](https://snowtrace.io/address/0xF2FA11Fc9247C23b3B622C41992d8555f6D01D8f) |
 | `BenQi Controller V4`      | [0x8Ffa3c1547479B77D9524316D5192777bedA40a1](https://snowtrace.io/address/0x8Ffa3c1547479B77D9524316D5192777bedA40a1) |
 | `Axial Controller V4`      | [0xc7D536a04ECC43269B6B95aC1ce0a06E0000D095](https://snowtrace.io/address/0xc7D536a04ECC43269B6B95aC1ce0a06E0000D095) |
 | `Staked SNOB (xSNOB)`      | [0x83952E7ab4aca74ca96217D6F8f7591BEaD6D64E](https://snowtrace.io/address/0x83952E7ab4aca74ca96217D6F8f7591BEaD6D64E) |

@@ -2,10 +2,11 @@
 
 ## Snowball Contracts
 
-| Role          | Address                                                                                                                                            |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `Gauge Proxy` | [0xFc371bA1E7874Ad893408D7B581F3c8471F03D2C](https://snowtrace.io/address/0xFc371bA1E7874Ad893408D7B581F3c8471F03D2C) |
-| `IceQueen`    | [0xB12531a2d758c7a8BF09f44FC88E646E1BF9D375](https://snowtrace.io/address/0xB12531a2d758c7a8BF09f44FC88E646E1BF9D375) |
+| Role                       | Address                                                                                                                                            |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Gauge Proxy`              | [0xFc371bA1E7874Ad893408D7B581F3c8471F03D2C](https://snowtrace.io/address/0xFc371bA1E7874Ad893408D7B581F3c8471F03D2C) |
+| `IceQueen`                 | [0xB12531a2d758c7a8BF09f44FC88E646E1BF9D375](https://snowtrace.io/address/0xB12531a2d758c7a8BF09f44FC88E646E1BF9D375) |
+| `Banker Joe Controller V4` | [0xFb7102506B4815a24e3cE3eAA6B834BE7a5f2807](https://snowtrace.io/address/0xFb7102506B4815a24e3cE3eAA6B834BE7a5f2807) |
 
 ## Compounding Deposit Contracts
 
