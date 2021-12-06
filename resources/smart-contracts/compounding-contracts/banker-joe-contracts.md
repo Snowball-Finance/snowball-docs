@@ -21,7 +21,7 @@
 | `wBTC.e`          | [0xA0a72F0b5056fba03158fc2D75CF6B4e364c6520](https://snowtrace.io/address/0xA0a72F0b5056fba03158fc2D75CF6B4e364c6520) |
 | `LINK.e`          | [0xcE1A073F8df6796bd3B969f8CE1A04f569965a2B](https://snowtrace.io/address/0xcE1A073F8df6796bd3B969f8CE1A04f569965a2B) |
 | `USDC.e`          | [0xcD4a6733D1E497672290b0C4b891dFc10E03E973](https://snowtrace.io/address/0xcD4a6733D1E497672290b0C4b891dFc10E03E973) |
-| `DAI.e`           | [0xcD9AA4D1a0cEE1D0Ed3798DEd6fB925cBfE598A0](https://snowtrace.io/address/0xcD9AA4D1a0cEE1D0Ed3798DEd6fB925cBfE598A0) |
+| `DAI.e`           | [0x2D5E1D3B8CddF9527467C523c485985cFf2004aA](https://snowtrace.io/address/0x2D5E1D3B8CddF9527467C523c485985cFf2004aA) |
 | `USDT.e`          | [0x3Ef4dC17b344cd234fa264d8D0bE424207f07532](https://snowtrace.io/address/0x3Ef4dC17b344cd234fa264d8D0bE424207f07532) |
 | `MIM`             | [0xA96030a8527966c0e23033f1248906866a99D9D7](https://snowtrace.io/address/0xA96030a8527966c0e23033f1248906866a99D9D7) |
 | `xJOE`            | [0x7f716a918503611b7949F8C76324A8422d5567ab](https://snowtrace.io/address/0x7f716a918503611b7949F8C76324A8422d5567ab) |
