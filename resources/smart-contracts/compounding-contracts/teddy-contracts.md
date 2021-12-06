@@ -1,4 +1,4 @@
-# Teddy Cash Contracts
+# Teddy Contracts
 
 ## Compounding Deposit Contracts
 

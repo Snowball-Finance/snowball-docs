@@ -23,7 +23,8 @@ Snowball supports many [_**DEXs**_](https://snowballs.gitbook.io/snowball-docs/r
 * [**Banker Joe**](https://traderjoexyz.com/#/lending)
 * [**BenQi**](https://app.benqi.fi)
 * [**Aave**](https://app.aave.com)
-* [**Teddy Cash**](https://app.teddy.cash)
+* [**Teddy**](https://app.teddy.cash)
+* [**Axial**](https://app.axial.exchange)
 
 All our compounding strategies can be found in the [**Compound & Earn**](https://app.snowball.network/compound-and-earn) page of our site.
 
@@ -53,7 +54,7 @@ Looking for a more in-depth explanation of folding strategies? Check out the [**
 
 ### Staking Strategies
 
-Staking strategies are simple, yet very effective. Examples of these are PNG staking through Pangolin, xJOE staking through Trader Joe, or TEDDY staking through Teddy Cash. Depositing these tokens through Snowball instead of directly through their respective platforms will have all the benefits of auto-compounding, and therefore get you more returns with even less effort required on your part.
+Staking strategies are simple, yet very effective. Examples of these are PNG staking through Pangolin, xJOE staking through Trader Joe, or TEDDY staking through Teddy. Depositing these tokens through Snowball instead of directly through their respective platforms will have all the benefits of auto-compounding, and therefore get you more returns with even less effort required on your part.
 
 ## Compounding Resources
 

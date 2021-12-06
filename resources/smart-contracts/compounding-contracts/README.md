@@ -22,8 +22,8 @@ Our compounding deposit, strategy and gauge contracts are split into their respe
 [aave-contracts.md](aave-contracts.md)
 {% endcontent-ref %}
 
-{% content-ref url="teddy-cash-contracts.md" %}
-[teddy-cash-contracts.md](teddy-cash-contracts.md)
+{% content-ref url="teddy-contracts.md" %}
+[teddy-contracts.md](teddy-contracts.md)
 {% endcontent-ref %}
 
 {% content-ref url="axial-contracts.md" %}
