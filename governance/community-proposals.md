@@ -2,7 +2,7 @@
 
 Snowball is democratically governed by the community through its governance protocol. To vote, you must lock SNOB tokens for xSNOB. One xSNOB is equal to one vote, but fractional votes are allowed.
 
-![](../.gitbook/assets/voting.jpeg)
+![](../.gitbook/assets/xSNOB\_4.png)
 
 ## Proposals
 

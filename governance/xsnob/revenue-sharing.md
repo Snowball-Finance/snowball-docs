@@ -1,6 +1,8 @@
 # Revenue Sharing
 
-xSNOB revenue sharing allows users to claim 30% of Snowball's weekly revenue. This revenue is distributed weekly in the form of market-bought SNOB.
+xSNOB revenue sharing allows users to claim their share of Snowball's weekly revenue. This revenue is distributed weekly in the form of market-bought SNOB.
+
+![](../../.gitbook/assets/xSNOB\_2.png)
 
 Anyone who stakes SNOB for xSNOB is eligible to claim revenue sharing rewards. Rewards are distributed based on your proportion of the total xSNOB supply:
 
