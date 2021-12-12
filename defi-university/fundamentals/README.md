@@ -22,6 +22,10 @@ Courses in the **Fundamentals** category explore the underlying concepts of dece
 
 ## 2nd Year Courses
 
+{% content-ref url="fn-205-bridges.md" %}
+[fn-205-bridges.md](fn-205-bridges.md)
+{% endcontent-ref %}
+
 {% content-ref url="fn-221-dexs.md" %}
 [fn-221-dexs.md](fn-221-dexs.md)
 {% endcontent-ref %}
