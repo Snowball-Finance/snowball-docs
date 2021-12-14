@@ -15,7 +15,7 @@
 | Pair            | Address                                                                                                                                            |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `AS4D`          | [0xf3e9Fe6760145c1F43347BB540D77a4A4518266a](https://snowtrace.io/address/0xf3e9Fe6760145c1F43347BB540D77a4A4518266a) |
-| `AC4D`          | [0x982925D85d3173045C08d90D6F465F78b44D50B8](https://snowtrace.io/address/0x982925D85d3173045C08d90D6F465F78b44D50B8) |
+| `AC4D`          | [0x92794b4789173dc06304238B1c4A2572a95EaE5d](https://snowtrace.io/address/0x92794b4789173dc06304238B1c4A2572a95EaE5d) |
 | `AM3D`          | [0xC4C6B32567d79b69BB100251D8e3Ec767ad21685](https://snowtrace.io/address/0xC4C6B32567d79b69BB100251D8e3Ec767ad21685) |
 | `AA3D`          | [0x351Af4FDd0BdB0Cf6AD31119FEC3465977AB87c2](https://snowtrace.io/address/0x351Af4FDd0BdB0Cf6AD31119FEC3465977AB87c2) |
 | `AVAX - AXIAL`  | [0x0Ab2EA5c4172928D988CFe3E1969C864E15BFdeE](https://snowtrace.io/address/0x0Ab2EA5c4172928D988CFe3E1969C864E15BFdeE) |
