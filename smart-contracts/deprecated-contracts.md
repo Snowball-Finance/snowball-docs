@@ -8,6 +8,7 @@
 | `IceQueen`                 | [0xB12531a2d758c7a8BF09f44FC88E646E1BF9D375](https://snowtrace.io/address/0xB12531a2d758c7a8BF09f44FC88E646E1BF9D375) |
 | `Banker Joe Controller V4` | [0xFb7102506B4815a24e3cE3eAA6B834BE7a5f2807](https://snowtrace.io/address/0xFb7102506B4815a24e3cE3eAA6B834BE7a5f2807) |
 | `BenQi Controller V4`      | [0x8Ffa3c1547479B77D9524316D5192777bedA40a1](https://snowtrace.io/address/0x8Ffa3c1547479B77D9524316D5192777bedA40a1) |
+| `BenQi Controller V4.2`    | [0x8bfBA506B442f0D93Da2aDFd1ab70b7cB6a77B76](https://snowtrace.io/address/0x8bfBA506B442f0D93Da2aDFd1ab70b7cB6a77B76) |
 
 ## Compounding Deposit Contracts
 
@@ -104,6 +105,7 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `JOE - PNG`      | `Trader Joe` | [0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47](https://snowtrace.io/address/0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47) |
 | `JOE - DAI`      | `Trader Joe` | [0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2](https://snowtrace.io/address/0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2) |
 | `WAVAX`          | `BenQi`      | [0x7b74324f523831687fC8FCE946F15a3AA632dC06](https://snowtrace.io/address/0x7b74324f523831687fC8FCE946F15a3AA632dC06) |
+| `QI`             | `BenQi`      | [0x68b8037876385BBd6bBe80bAbB2511b95DA372C4](https://snowtrace.io/address/0x68b8037876385BBd6bBe80bAbB2511b95DA372C4) |
 
 ## Compounding Gauge Contracts
 

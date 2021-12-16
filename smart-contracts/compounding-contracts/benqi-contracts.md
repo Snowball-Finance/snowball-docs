@@ -9,7 +9,7 @@
 | `wBTC.e` | [0x8FA104f65BDfddEcA211867b77e83949Fc9d8b44](https://snowtrace.io/address/0x8FA104f65BDfddEcA211867b77e83949Fc9d8b44) |
 | `LINK.e` | [0x32d9D114A2F5aC4ce777463e661BFA28C8fE9Eb7](https://snowtrace.io/address/0x32d9D114A2F5aC4ce777463e661BFA28C8fE9Eb7) |
 | `USDC.e` | [0xa8981Eab82d0a471b37F7d87A221C92aE60c0E00](https://snowtrace.io/address/0xa8981Eab82d0a471b37F7d87A221C92aE60c0E00) |
-| `QI`     | [0x68b8037876385BBd6bBe80bAbB2511b95DA372C4](https://snowtrace.io/address/0x68b8037876385BBd6bBe80bAbB2511b95DA372C4) |
+| `QI`     | [0x124F5991e1EAD696D3082139154dB787E52f4C87](https://snowtrace.io/address/0x124F5991e1EAD696D3082139154dB787E52f4C87) |
 | `WAVAX`  | [0xaCF2814cF22fCB08b3dDA331221A52ad7B05639B](https://snowtrace.io/address/0xaCF2814cF22fCB08b3dDA331221A52ad7B05639B) |
 
 ## Compounding Strategy Contracts
@@ -21,7 +21,7 @@
 | `wBTC.e` | [0x3DD8c4BB2e3fC4dC42e5D2765093aE9325E49ed6](https://snowtrace.io/address/0x3DD8c4BB2e3fC4dC42e5D2765093aE9325E49ed6) |
 | `LINK.e` | [0xbd86DdDf32923763F26A0eB051c35b6442c323fe](https://snowtrace.io/address/0xbd86DdDf32923763F26A0eB051c35b6442c323fe) |
 | `USDC.e` | [0xb9B9800d18287dDB04296Bd47192daba159d8128](https://snowtrace.io/address/0xb9B9800d18287dDB04296Bd47192daba159d8128) |
-| `QI`     | [0xEC09CbA71eA33C8f3559889b8191Ec889f3f0f8A](https://snowtrace.io/address/0xEC09CbA71eA33C8f3559889b8191Ec889f3f0f8A) |
+| `QI`     | [0xA7282B214E437F79E124d0B4fD58a4421d964f01](https://snowtrace.io/address/0xA7282B214E437F79E124d0B4fD58a4421d964f01) |
 | `WAVAX`  | [0x2098e8Ce5e24BB6f4984f9667ABd7aDC3d362a33](https://snowtrace.io/address/0x2098e8Ce5e24BB6f4984f9667ABd7aDC3d362a33) |
 
 ## Compounding Gauge Contracts
