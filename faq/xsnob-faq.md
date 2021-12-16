@@ -6,7 +6,7 @@ xSNOB is received once you lock SNOB tokens. It gives you access to voting on co
 
 ### How can I get xSNOB?
 
-xSNOB is obtained by locking your SNOB for a period of time on the [**xSNOB**](https://app.snowball.network/staking) page of our website. Lock times can be as little as one week and as long as two years. Your xSNOB balance is based on how much SNOB you lock and for how long it is locked for.
+xSNOB is obtained by locking your SNOB for a period of time on the [**Staking**](https://app.snowball.network/staking) page of our website. Lock times can be as little as one week and as long as two years. Your xSNOB balance is based on how much SNOB you lock and for how long it is locked for.
 
 ### Can I transfer my xSNOB to another wallet?
 

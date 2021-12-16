@@ -1,9 +1,9 @@
 # Compounding
 
-Snowball's compounding products allow you to auto-compound the rewards you receive from other DeFi projects. Essentially, you earn more rewards than you would otherwise because you’re constantly reinvesting your rewards.
+Snowball's compounding products allow you to automatically compound the rewards you receive from other DeFi projects. Essentially, you earn more rewards than you would otherwise because you’re constantly reinvesting your rewards.
 
 {% hint style="info" %}
-Looking for a quick answer to a simple question? Check out our [**Compounding FAQ**](../resources/frequently-asked-questions/compounding-faq.md).
+Looking for a quick answer to a simple question? Check out our [**Compounding FAQ**](../faq/compounding-faq.md).
 {% endhint %}
 
 ## Why compound with Snowball?
@@ -58,18 +58,22 @@ Staking strategies are simple, yet very effective. Examples of these are PNG sta
 
 ## Compounding Resources
 
+{% content-ref url="../faq/compounding-faq.md" %}
+[compounding-faq.md](../faq/compounding-faq.md)
+{% endcontent-ref %}
+
+{% content-ref url="../smart-contracts/compounding-contracts/" %}
+[compounding-contracts](../smart-contracts/compounding-contracts/)
+{% endcontent-ref %}
+
+{% content-ref url="../resources/harvest-stats.md" %}
+[harvest-stats.md](../resources/harvest-stats.md)
+{% endcontent-ref %}
+
 {% content-ref url="../resources/guides/compounding-guide-trader-joe.md" %}
 [compounding-guide-trader-joe.md](../resources/guides/compounding-guide-trader-joe.md)
 {% endcontent-ref %}
 
 {% content-ref url="../resources/guides/compounding-guide-pangolin.md" %}
 [compounding-guide-pangolin.md](../resources/guides/compounding-guide-pangolin.md)
-{% endcontent-ref %}
-
-{% content-ref url="../resources/smart-contracts/compounding-contracts/" %}
-[compounding-contracts](../resources/smart-contracts/compounding-contracts/)
-{% endcontent-ref %}
-
-{% content-ref url="../resources/harvest-stats.md" %}
-[harvest-stats.md](../resources/harvest-stats.md)
 {% endcontent-ref %}

@@ -8,7 +8,7 @@ If you are looking to query wallet balances off the StableVault pool, info from 
 
 ### s4D Token Contract
 
-**Contract Address:** [0xB91124eCEF333f17354ADD2A8b944C76979fE3EC](https://snowtrace.io/address/0xB91124eCEF333f17354ADD2A8b944C76979fE3EC)
+**Contract Address:** [**0xB91124eCEF333f17354ADD2A8b944C76979fE3EC**](https://snowtrace.io/address/0xB91124eCEF333f17354ADD2A8b944C76979fE3EC)****
 
 The s4D swap contract can be found through the **owner** method (#5).
 
@@ -16,7 +16,7 @@ The s4D swap contract can be found through the **owner** method (#5).
 
 ### s4D Swap Contract
 
-**Contract Address:** [0xA0bE4f05E37617138Ec212D4fB0cD2A8778a535F](https://snowtrace.io/address/0xA0bE4f05E37617138Ec212D4fB0cD2A8778a535F)
+**Contract Address:** [**0xA0bE4f05E37617138Ec212D4fB0cD2A8778a535F**](https://snowtrace.io/address/0xA0bE4f05E37617138Ec212D4fB0cD2A8778a535F)****
 
 To estimate the output of a swap, use the **calculateSwap** method (#4).
 

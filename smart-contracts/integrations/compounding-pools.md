@@ -2,10 +2,10 @@
 
 The data regarding the many compounding pools on Snowball can be reached through the GaugeProxyV2 contract as a starting point.
 
-**GaugeProxyV2 Contract:** [0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27](https://snowtrace.io/address/0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27)
+**GaugeProxyV2 Contract:** [**0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27**](https://snowtrace.io/address/0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27)****
 
 {% hint style="info" %}
-If you're looking instead for a simple list of all our compounding contracts, see our [**Compounding Contracts**](../../resources/smart-contracts/compounding-contracts/) page.
+If you're looking instead for a simple list of all our compounding contracts, see our [**Compounding Contracts**](../compounding-contracts/) page.
 {% endhint %}
 
 {% hint style="info" %}
@@ -47,4 +47,3 @@ Balances can be found with the **balanceOf** method (#7). This will return the b
 To find the SNOB token rewards that have have accumulated over time for a specific wallet, use the **rewards** method (#21).
 
 ![](../../.gitbook/assets/Integrations5.png)
-

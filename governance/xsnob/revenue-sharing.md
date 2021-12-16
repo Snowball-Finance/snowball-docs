@@ -40,6 +40,6 @@ These rewards can be claimed every week until your xSNOB balance reaches 0 (at t
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="../../resources/frequently-asked-questions/xsnob-faq.md" %}
-[xsnob-faq.md](../../resources/frequently-asked-questions/xsnob-faq.md)
+{% content-ref url="../../faq/xsnob-faq.md" %}
+[xsnob-faq.md](../../faq/xsnob-faq.md)
 {% endcontent-ref %}

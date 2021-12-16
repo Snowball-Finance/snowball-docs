@@ -6,7 +6,7 @@ Ticker: SNOB
 
 Max Supply: 18,000,000
 
-Token Address: [0xC38f41A296A4493Ff429F1238e030924A1542e50](https://snowtrace.io/token/0xC38f41A296A4493Ff429F1238e030924A1542e50)
+Token Address: [**0xC38f41A296A4493Ff429F1238e030924A1542e50**](https://snowtrace.io/token/0xC38f41A296A4493Ff429F1238e030924A1542e50)****
 
 Chain: Avalanche C-Chain
 
@@ -51,20 +51,16 @@ There is a total max supply of 18 million SNOB tokens. These tokens are currentl
 
 SNOB is earned by using Snowball’s products. When you deposit into a product on Snowball, you receive a receipt token that can be deposited again to earn SNOB.
 
-The amount of SNOB you get for depositing in each product varies weekly and is determined by Snowball’s gauges. View this week’s SNOB distribution on the [**xSNOB**](https://app.snowball.network/staking) page of our website.
+The amount of SNOB you get for depositing in each product varies weekly and is determined by Snowball’s gauges. View this week’s SNOB distribution on the [**xSNOB**](https://app.snowball.network/staking) page of our website, or a history of distributions [**here**](xsnob/revenue-sharing.md#historical-distributions).
 
 SNOB can also be purchased on exchanges. [**Pangolin**](https://info.pangolin.exchange/#/token/0xc38f41a296a4493ff429f1238e030924a1542e50) and [**Trader Joe**](https://analytics.traderjoexyz.com/tokens/0xc38f41a296a4493ff429f1238e030924a1542e50) both support the SNOB token.
 
 ## **SNOB Resources**
 
-{% content-ref url="../governance/xsnob/" %}
-[xsnob](../governance/xsnob/)
+{% content-ref url="../faq/general-faq.md" %}
+[general-faq.md](../faq/general-faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="../resources/frequently-asked-questions/general-faq.md" %}
-[general-faq.md](../resources/frequently-asked-questions/general-faq.md)
-{% endcontent-ref %}
-
-{% content-ref url="../resources/smart-contracts/snowball-contracts.md" %}
-[snowball-contracts.md](../resources/smart-contracts/snowball-contracts.md)
+{% content-ref url="../smart-contracts/snowball-contracts.md" %}
+[snowball-contracts.md](../smart-contracts/snowball-contracts.md)
 {% endcontent-ref %}

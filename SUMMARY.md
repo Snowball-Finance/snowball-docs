@@ -1,61 +1,31 @@
 # Table of contents
 
-* [Welcome to Snowball](README.md)
+## 👋 Welcome
 
-## Products
+* [Introduction](README.md)
 
-* [Compounding](products/compounding.md)
-* [StableVault](products/stablevault.md)
+## 📈 Our Products
 
-## Tokenomics
+* [Compounding](our-products/compounding.md)
+* [StableVault](our-products/stablevault.md)
 
-* [SNOB](tokenomics/snob.md)
+## 🗳 Governance
 
-## Governance
-
+* [SNOB](governance/snob.md)
 * [xSNOB](governance/xsnob/README.md)
   * [Gauges](governance/xsnob/gauges.md)
   * [Reward Boosting](governance/xsnob/reward-boosting.md)
   * [Revenue Sharing](governance/xsnob/revenue-sharing.md)
 * [Community Proposals](governance/community-proposals.md)
 
-## Resources
+## ❓ FAQ
 
-* [Frequently Asked Questions](resources/frequently-asked-questions/README.md)
-  * [General FAQ](resources/frequently-asked-questions/general-faq.md)
-  * [Compounding FAQ](resources/frequently-asked-questions/compounding-faq.md)
-  * [StableVault FAQ](resources/frequently-asked-questions/stablevault-faq.md)
-  * [xSNOB FAQ](resources/frequently-asked-questions/xsnob-faq.md)
-* [Guides](resources/guides/README.md)
-  * [Funding Your Wallet](resources/guides/funding-your-wallet.md)
-  * [Depositing into Compounding Strategies from Trader Joe](resources/guides/compounding-guide-trader-joe.md)
-  * [Depositing into Compounding Strategies from Pangolin](resources/guides/compounding-guide-pangolin.md)
-  * [Depositing into StableVault](resources/guides/depositing-into-stablevault.md)
-  * [Staking SNOB for xSNOB](resources/guides/staking-snob-for-xsnob.md)
-  * [Unstaking SNOB](resources/guides/unstaking-snob.md)
-  * [Voting on Gauges with xSNOB](resources/guides/voting-on-gauges-with-xsnob.md)
-  * [Manual Smart-Contract Interaction](resources/guides/manual-contract-interaction.md)
-  * [Bridge FRAX to Avalanche](https://fraxfinancecommunity.medium.com/guide-how-to-bridge-frax-to-avalanche-network-and-add-liquidity-to-snowball-ff32d66ae6cb)
-* [Smart Contracts](resources/smart-contracts/README.md)
-  * [Snowball Contracts](resources/smart-contracts/snowball-contracts.md)
-  * [Compounding Contracts](resources/smart-contracts/compounding-contracts/README.md)
-    * [Pangolin Contracts](resources/smart-contracts/compounding-contracts/pangolin-contracts.md)
-    * [Trader Joe Contracts](resources/smart-contracts/compounding-contracts/trader-joe-contracts.md)
-    * [Banker Joe Contracts](resources/smart-contracts/compounding-contracts/banker-joe-contracts.md)
-    * [Benqi Contracts](resources/smart-contracts/compounding-contracts/benqi-contracts.md)
-    * [Aave Contracts](resources/smart-contracts/compounding-contracts/aave-contracts.md)
-    * [Teddy Contracts](resources/smart-contracts/compounding-contracts/teddy-contracts.md)
-    * [Axial Contracts](resources/smart-contracts/compounding-contracts/axial-contracts.md)
-  * [StableVault Contracts](resources/smart-contracts/stablevault-contracts.md)
-  * [Deprecated Contracts](resources/smart-contracts/deprecated-contracts.md)
-* [Security](resources/security.md)
-* [Our Team](resources/our-team.md)
-* [Roadmap](resources/roadmap.md)
-* [DeFi Glossary](resources/defi-glossary.md)
-* [Harvest Stats](resources/harvest-stats.md)
-* [Brand Assets](resources/brand-assets.md)
+* [General FAQ](faq/general-faq.md)
+* [Compounding FAQ](faq/compounding-faq.md)
+* [StableVault FAQ](faq/stablevault-faq.md)
+* [xSNOB FAQ](faq/xsnob-faq.md)
 
-## DeFi University
+## 🎓 DeFi University
 
 * [Introduction](defi-university/introduction.md)
 * [Fundamentals](defi-university/fundamentals/README.md)
@@ -67,6 +37,7 @@
   * [FN 221 - DEXs](defi-university/fundamentals/fn-221-dexs.md)
   * [FN 231 - Stablecoins](defi-university/fundamentals/fn-231-stablecoins.md)
 * [Yield Farming](defi-university/yield-farming/README.md)
+  * [Bridge FRAX to Avalanche](https://fraxfinancecommunity.medium.com/guide-how-to-bridge-frax-to-avalanche-network-and-add-liquidity-to-snowball-ff32d66ae6cb)
   * [YF 111 - Lending Markets](defi-university/yield-farming/yf-111-lending-markets.md)
   * [YF 122 - Liquidity Pools](defi-university/yield-farming/yf-122-liquidity-pools.md)
   * [YF 261 - Auto-Compounding](defi-university/yield-farming/yf-261-auto-compounding.md)
@@ -81,13 +52,43 @@
   * [EX 271 - NFTs](defi-university/extracurricular/ex-271-nfts.md)
   * [EX 325 - Single-Asset vs LP Strategies](defi-university/extracurricular/ex-325-single-asset-vs-lp-strategies.md)
 
-## Developers
+## 🗃 Resources
 
-* [Integrations](developers/integrations/README.md)
-  * [Compounding Pools](developers/integrations/compounding-pools.md)
-  * [StableVault Pool](developers/integrations/stablevault-pool.md)
+* [Our Team](resources/our-team.md)
+* [Roadmap](resources/roadmap.md)
+* [Harvest Stats](resources/harvest-stats.md)
+* [Brand Assets](resources/brand-assets.md)
+* [Guides](resources/guides/README.md)
+  * [Funding Your Wallet](resources/guides/funding-your-wallet.md)
+  * [Depositing into Compounding Strategies from Trader Joe](resources/guides/compounding-guide-trader-joe.md)
+  * [Depositing into Compounding Strategies from Pangolin](resources/guides/compounding-guide-pangolin.md)
+  * [Depositing into StableVault](resources/guides/depositing-into-stablevault.md)
+  * [Staking SNOB for xSNOB](resources/guides/staking-snob-for-xsnob.md)
+  * [Unstaking SNOB](resources/guides/unstaking-snob.md)
+  * [Voting on Gauges with xSNOB](resources/guides/voting-on-gauges-with-xsnob.md)
+  * [Manual Smart-Contract Interaction](resources/guides/manual-contract-interaction.md)
+* [DeFi Glossary](resources/defi-glossary.md)
 
-## Links
+## 💻 Smart Contracts
+
+* [Snowball Contracts](smart-contracts/snowball-contracts.md)
+* [Compounding Contracts](smart-contracts/compounding-contracts/README.md)
+  * [Pangolin Contracts](smart-contracts/compounding-contracts/pangolin-contracts.md)
+  * [Trader Joe Contracts](smart-contracts/compounding-contracts/trader-joe-contracts.md)
+  * [Banker Joe Contracts](smart-contracts/compounding-contracts/banker-joe-contracts.md)
+  * [Benqi Contracts](smart-contracts/compounding-contracts/benqi-contracts.md)
+  * [Aave Contracts](smart-contracts/compounding-contracts/aave-contracts.md)
+  * [Teddy Contracts](smart-contracts/compounding-contracts/teddy-contracts.md)
+  * [Axial Contracts](smart-contracts/compounding-contracts/axial-contracts.md)
+* [StableVault Contracts](smart-contracts/stablevault-contracts.md)
+* [Deprecated Contracts](smart-contracts/deprecated-contracts.md)
+* [Audits & Timelocks](smart-contracts/audits.md)
+* [Multisigs](smart-contracts/multisigs.md)
+* [Integrations](smart-contracts/integrations/README.md)
+  * [Compounding Pools](smart-contracts/integrations/compounding-pools.md)
+  * [StableVault Pool](smart-contracts/integrations/stablevault-pool.md)
+
+## 🔗 Links
 
 * [Website](https://snowball.network)
 * [GitHub](https://github.com/Snowball-Finance)

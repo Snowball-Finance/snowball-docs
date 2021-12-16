@@ -1,15 +1,15 @@
 # xSNOB
 
-xSNOB is the staked version of SNOB. It is acquired by locking your SNOB for a predetermined amount of time on the [**xSNOB**](https://app.snowball.network/staking) page of our website.
+xSNOB is the staked version of SNOB. It is acquired by locking your SNOB for a predetermined amount of time on the [**Staking**](https://app.snowball.network/staking) page of our website.
 
 ## How is xSNOB used?
 
 The xSNOB token has four main applications:
 
-* Voting on community proposals.
 * Voting on gauge allocations.
-* Earning a share of protocol revenue.
 * Earning boosted SNOB rewards.
+* Earning a share of protocol revenue.
+* Voting on community proposals.
 
 See the links below for more info on each of these applications:
 
@@ -55,8 +55,12 @@ Each wallet can only stake their SNOB for a single period of time. To stake diff
 
 ## xSNOB Resources
 
-{% content-ref url="../../resources/frequently-asked-questions/xsnob-faq.md" %}
-[xsnob-faq.md](../../resources/frequently-asked-questions/xsnob-faq.md)
+{% content-ref url="../../faq/xsnob-faq.md" %}
+[xsnob-faq.md](../../faq/xsnob-faq.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../smart-contracts/snowball-contracts.md" %}
+[snowball-contracts.md](../../smart-contracts/snowball-contracts.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../resources/guides/staking-snob-for-xsnob.md" %}
@@ -65,28 +69,4 @@ Each wallet can only stake their SNOB for a single period of time. To stake diff
 
 {% content-ref url="../../resources/guides/unstaking-snob.md" %}
 [unstaking-snob.md](../../resources/guides/unstaking-snob.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../resources/guides/voting-on-gauges-with-xsnob.md" %}
-[voting-on-gauges-with-xsnob.md](../../resources/guides/voting-on-gauges-with-xsnob.md)
-{% endcontent-ref %}
-
-{% content-ref url="gauges.md" %}
-[gauges.md](gauges.md)
-{% endcontent-ref %}
-
-{% content-ref url="reward-boosting.md" %}
-[reward-boosting.md](reward-boosting.md)
-{% endcontent-ref %}
-
-{% content-ref url="revenue-sharing.md" %}
-[revenue-sharing.md](revenue-sharing.md)
-{% endcontent-ref %}
-
-{% content-ref url="../community-proposals.md" %}
-[community-proposals.md](../community-proposals.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../resources/smart-contracts/snowball-contracts.md" %}
-[snowball-contracts.md](../../resources/smart-contracts/snowball-contracts.md)
 {% endcontent-ref %}

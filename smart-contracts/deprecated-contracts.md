@@ -2,8 +2,8 @@
 
 ## Snowball Contracts
 
-| Role                       | Address                                                                                                                                            |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Role                       | Address                                                                                                               |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | `Gauge Proxy`              | [0xFc371bA1E7874Ad893408D7B581F3c8471F03D2C](https://snowtrace.io/address/0xFc371bA1E7874Ad893408D7B581F3c8471F03D2C) |
 | `IceQueen`                 | [0xB12531a2d758c7a8BF09f44FC88E646E1BF9D375](https://snowtrace.io/address/0xB12531a2d758c7a8BF09f44FC88E646E1BF9D375) |
 | `Banker Joe Controller V4` | [0xFb7102506B4815a24e3cE3eAA6B834BE7a5f2807](https://snowtrace.io/address/0xFb7102506B4815a24e3cE3eAA6B834BE7a5f2807) |
@@ -11,11 +11,11 @@
 ## Compounding Deposit Contracts
 
 {% hint style="info" %}
-If you are look for instructions on how to withdraw from a deprecated pool, check out our guides available [**here**](../guides/). Keep this page open to find the addresses you'll need.
+If you are look for instructions on how to withdraw from a deprecated pool, check out our guides available [**here**](../resources/guides/). Keep this page open to find the addresses you'll need.
 {% endhint %}
 
-| Pair             | Platform     | Address                                                                                                                                            |
-| ---------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pair             | Platform     | Address                                                                                                               |
+| ---------------- | ------------ | --------------------------------------------------------------------------------------------------------------------- |
 | `AVAX - ETH`     | `Pangolin`   | [0x586554828eE99811A8ef75029351179949762c26](https://snowtrace.io/address/0x586554828eE99811A8ef75029351179949762c26) |
 | `AVAX - LINK`    | `Pangolin`   | [0x00933c16e06b1d15958317C2793BC54394Ae356C](https://snowtrace.io/address/0x00933c16e06b1d15958317C2793BC54394Ae356C) |
 | `AVAX - SUSHI`   | `Pangolin`   | [0x751089F1bf31B13Fa0F0537ae78108088a2253BF](https://snowtrace.io/address/0x751089F1bf31B13Fa0F0537ae78108088a2253BF) |
@@ -106,8 +106,8 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 
 ## Compounding Gauge Contracts
 
-| Pair             | Platform     | Address                                                                                                                                            |
-| ---------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pair             | Platform     | Address                                                                                                               |
+| ---------------- | ------------ | --------------------------------------------------------------------------------------------------------------------- |
 | `AVAX - ETH`     | `Pangolin`   | [0x6bb9d2420217e0c3f272f47c58942e89e23806c9](https://snowtrace.io/address/0x6bb9D2420217e0C3f272f47C58942e89e23806c9) |
 | `AVAX - LINK`    | `Pangolin`   | [0x7e68717f6228764bc1fc7a970dd5a041837c370c](https://snowtrace.io/address/0x7E68717f6228764Bc1fC7a970dD5A041837C370c) |
 | `AVAX - SUSHI`   | `Pangolin`   | [0x38a9635c0a1b62a7d8bc608a3ad5d84b300831ae](https://snowtrace.io/address/0x38a9635C0a1b62A7D8bc608a3Ad5D84b300831aE) |
@@ -210,12 +210,11 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 
 ## StableVault Contracts
 
-| Role        | Address                                                                                                                                            |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Role        | Address                                                                                                               |
+| ----------- | --------------------------------------------------------------------------------------------------------------------- |
 | `s3D Token` | [0xdE1A11C331a0E45B9BA8FeE04D4B51A745f1e4A4](https://snowtrace.io/address/0xdE1A11C331a0E45B9BA8FeE04D4B51A745f1e4A4) |
 | `s3D Swap`  | [0x6B41E5c07F2d382B921DE5C34ce8E2057d84C042](https://snowtrace.io/address/0x6B41E5c07F2d382B921DE5C34ce8E2057d84C042) |
 | `s3D Gauge` | [0x5994612ffffC31D6c05C4FBec4a17116676D5B22](https://snowtrace.io/address/0x5994612ffffC31D6c05C4FBec4a17116676D5B22) |
 | `s3F Token` | [0xA42BE3dB9aff3aee48167b240bFEE5e1697e1281](https://snowtrace.io/address/0xA42BE3dB9aff3aee48167b240bFEE5e1697e1281) |
 | `s3F Swap`  | [0x05c5DB43dB72b6E73702EEB1e5b62A03a343732a](https://snowtrace.io/address/0x05c5DB43dB72b6E73702EEB1e5b62A03a343732a) |
 | `s3F Gauge` | [0x472075680E16D34ABa24Ce9a6DDB59f27995906A](https://snowtrace.io/address/0x472075680E16D34ABa24Ce9a6DDB59f27995906A) |
-

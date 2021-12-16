@@ -1,6 +1,6 @@
 # Depositing into Compounding Strategies from Pangolin
 
-This guide covers how to deposit into our compounding strategies on Snowball for Pangolin liquidity pools. To understand more about how our compounding strategies work, check out our [**Compounding**](../../products/compounding.md) docs.
+This guide covers how to deposit into our compounding strategies on Snowball for Pangolin liquidity pools. To understand more about how our compounding strategies work, check out our [**Compounding**](../../our-products/compounding.md) docs.
 
 1\) Go to the Snowball [**website**](https://app.snowball.network) and click on the **Compound & Earn** page on the sidebar:
 

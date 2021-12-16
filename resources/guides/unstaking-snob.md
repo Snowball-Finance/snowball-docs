@@ -1,6 +1,6 @@
 # Unstaking SNOB
 
-This guide covers how to unstake your SNOB tokens. Keep in mind you cannot unstake before the lock period you selected has expired. To learn more about how SNOB staking works, check out our docs [**here**](../../governance/xsnob/) or our FAQ [**here**](../frequently-asked-questions/xsnob-faq.md).
+This guide covers how to unstake your SNOB tokens. Keep in mind you cannot unstake before the lock period you selected has expired. To learn more about how SNOB staking works, check out our docs [**here**](../../governance/xsnob/) or our FAQ [**here**](../../faq/xsnob-faq.md).
 
 1\) Head to the staking page of our website [**here**](https://app.snowball.network/staking). Make sure you connect your wallet and that you are currently on the Avalanche Chain.
 

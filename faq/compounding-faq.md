@@ -14,11 +14,11 @@ Snowball’s compounding strategies use code that has been forked from [**Pickle
 
 ### How does auto-compounding work with Snowball?
 
-To learn about how auto-compounding works with Snowball, visit the [**Compounding**](../../products/compounding.md) page of our documentation. For a step by step guide on how to use Snowball’s auto-compounding page, view our [**compounding guides**](../guides/).
+To learn about how auto-compounding works with Snowball, visit the [**Compounding**](../our-products/compounding.md) page of our documentation. For a step by step guide on how to use Snowball’s auto-compounding page, view our [**compounding guides**](../resources/guides/).
 
 ### How do I earn SNOB rewards while compounding?
 
-Once you’ve deposited tokens into a compounding strategy on Snowball, you will automatically start to earn SNOB rewards if the pool you deposited into has been voted on to receive rewards. SNOB rewards are determined by each pool's [**gauges**](../../governance/xsnob/gauges.md).
+Once you’ve deposited tokens into a compounding strategy on Snowball, you will automatically start to earn SNOB rewards if the pool you deposited into has been voted on to receive rewards. SNOB rewards are determined by each pool's [**gauges**](../governance/xsnob/gauges.md).
 
 ### How often are rewards compounded?
 
@@ -26,7 +26,7 @@ Rewards from our compounding strategies are compounded / re-invested 2-3 times a
 
 ### Where can I see total harvested amounts?
 
-We take snapshots of our weekly harvests. These are available on our [**Harvest Stats**](../harvest-stats.md) page.
+We take snapshots of our weekly harvests. These are available on our [**Harvest Stats**](../resources/harvest-stats.md) page.
 
 ### Does the APY on pools take fees into account?
 
@@ -34,7 +34,7 @@ All APR and APY values displayed on Snowball have already taken into account our
 
 ### I don't see my pool on Snowball anymore. Are my funds safe?
 
-If a pool you've deposited into is deprecated (no longer in use) it will not be displayed on our website. But do not worry, your funds are safe. Check out our guides [**here**](../guides/) on how to withdraw them.
+If a pool you've deposited into is deprecated (no longer in use) it will not be displayed on our website. But do not worry, your funds are safe. Check out our guides [**here**](../resources/guides/) on how to withdraw them.
 
 ### Can I get liquidated when depositing in any of Snowball's single-asset auto-compounding strategies?
 
@@ -50,7 +50,7 @@ The APRs displayed on each strategy on our site are updated every 10 minutes.
 
 ### How is Snowball getting such high rates from lending platforms?
 
-When possible, Snowball's strategies employ folding strategies. These allow us to achieve much higher rates on single-asset strategies that just lending your assets normally. To learn more about folding, check out our explanation [**here**](../../products/compounding/#lending-+-folding-strategies) or head to our [**DeFi University**](../../defi-university/introduction.md).
+When possible, Snowball's strategies employ folding strategies. These allow us to achieve much higher rates on single-asset strategies that just lending your assets normally. To learn more about folding, check out our explanation [**here**](../products/compounding/#lending-+-folding-strategies) or head to our [**DeFi University**](../defi-university/introduction.md).
 
 ### What happens when SNOB emissions end?
 
