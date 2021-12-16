@@ -52,7 +52,7 @@ An example of the first type would be a token with the symbol USDC, that isn't a
 
 The other kind is more common, however, and is especially prevalent in blockchains such as the Binance Smart Chain. This is where a scammer sends a scam token, usually with the name of a website, to thousands of wallets. Visiting the site will likely start some form of social engineering scam, or attempting to sell the token will instead trigger a malicious transaction that will try and steal your other funds in your wallet.
 
-An example of such tokens can be found [here](https://bscscan.com/address/0x0df62d2cd80591798721ddc93001afe868c367ff). Very often block explorers are smart about these types of scams and have warnings on their pages:
+An example of such tokens can be found [**here**](https://bscscan.com/address/0x0df62d2cd80591798721ddc93001afe868c367ff). Very often block explorers are smart about these types of scams and have warnings on their pages:
 
 ![Warning on bscscan.com (BSC's block explorer)](<../../.gitbook/assets/image (14).png>)
 

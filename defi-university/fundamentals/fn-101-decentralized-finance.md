@@ -58,7 +58,7 @@ Cryptocurrencies are volatile. While you can minimize this risk by utilizing sta
 
 ### Scams
 
-The scamming industry is a multi-billion dollar industry ([source](https://www.iii.org/fact-statistic/facts-statistics-identity-theft-and-cybercrime)) in the world of traditional finance. Naturally, some of this would extend to the world of decentralized finance. The anonymity provided by blockchains is somewhat helpful in that sense, but the fact that every transaction is easily traceable has made it very difficult for scammers to cash out their returns. Regardless of the context or technology involved, scammers will always find a way to scam, and it is important to watch out for them.
+The scamming industry is a multi-billion dollar industry ([**source**](https://www.iii.org/fact-statistic/facts-statistics-identity-theft-and-cybercrime)) in the world of traditional finance. Naturally, some of this would extend to the world of decentralized finance. The anonymity provided by blockchains is somewhat helpful in that sense, but the fact that every transaction is easily traceable has made it very difficult for scammers to cash out their returns. Regardless of the context or technology involved, scammers will always find a way to scam, and it is important to watch out for them.
 
 {% hint style="info" %}
 To learn more about how to avoid common scams in DeFi, check out the EX 151 course on 'Spotting Scams'.

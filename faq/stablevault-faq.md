@@ -14,7 +14,7 @@ None. There are however incentives and disincentives to deposit or withdraw toke
 
 ### Do I need to deposit all the tokens listed in the vault?
 
-No, you can deposit any combination of tokens into StableVault. This is possible because the tokens in the pool are all [_**stablecoins**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#stablecoin) pegged to the U.S. dollar. To keep the balance of the pool stable, we give incentives to anyone who deposits a token that has a lower supply in the pool.
+No, you can deposit any combination of tokens into StableVault. This is possible because the tokens in the pool are all [_**stablecoins**_](../resources/defi-glossary.md#stablecoin) pegged to the U.S. dollar. To keep the balance of the pool stable, we give incentives to anyone who deposits a token that has a lower supply in the pool.
 
 ### Why did I receive less tokens than I put into the pool?
 
@@ -39,6 +39,6 @@ All swaps through the StableVault have a 0.04% fee. 75% of these fees (0.03%) ar
 
 ### Why use StableVault instead of an exchange like Pangolin?
 
-Most [_**decentralized exchanges**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#decentralized-exchange-dex) are modeled after Uniswap V2. They are excellent models for swapping most cryptocurrencies; however, they are not great for swapping [_**stablecoins**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#stablecoin) or other [_**value-pegged assets**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#pegged-tokens). This is because the model allows for lots of [_**slippage**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#slippage) on the tokens being swapped.
+Most [_**decentralized exchanges**_](../resources/defi-glossary.md#decentralized-exchange-dex) are modeled after Uniswap V2. They are excellent models for swapping most cryptocurrencies; however, they are not great for swapping [_**stablecoins**_](../resources/defi-glossary.md#stablecoin) or other [_**value-pegged assets**_](../resources/defi-glossary.md#pegged-tokens). This is because the model allows for lots of [_**slippage**_](../resources/defi-glossary.md#slippage) on the tokens being swapped.
 
 If a stablecoin pool undergoes a large transaction in this traditional model, then the two coins may be taken off peg. For example, one may trade slightly lower than $1, around $0.95, while the other may trade slightly higher, around $1.05. With StableVault, this risk is mostly mitigated. In this scenario, the coins would still be relatively close to their $1 peg, closer to $0.99 and $1.01.

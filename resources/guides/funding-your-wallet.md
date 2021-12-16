@@ -6,9 +6,13 @@ In this guide, we are going to directly send AVAX tokens to the Avalanche X-Chai
 
 _Note that this guide will require purchasing AVAX on a centralized exchange. For those who do not want to do this, the usage of a bridge from Ethereum or another chain is necessary._
 
-## 1) MetaMask Setup
+## MetaMask Setup
 
 If you don't have MetaMask, install it [**here**](https://metamask.io/download).
+
+{% hint style="danger" %}
+Always verify the URL you are downloading wallet software from. Downloading it from a third-party website may mean downloading compromised and unsafe software.
+{% endhint %}
 
 #### Create a Wallet or Import an Existing Wallet
 
@@ -28,17 +32,17 @@ Enter the following settings into their respective fields:
 * **Symbol**: AVAX
 * **Explorer**: https://snowtrace.io/
 
-#### Add the SNOB  Token (Optional)
+#### Add the SNOB Token (Optional)
 
-1\)  Select "Add Token":
+1\) Select "Add Token":
 
 ![](https://pangolin.exchange/tutorials/getting-started/002.png)
 
-2\)  Select "Custom Token":
+2\) Select "Custom Token":
 
 ![](https://pangolin.exchange/tutorials/getting-started/003.png)
 
-3\)  Enter the following information:
+3\) Enter the following information:
 
 **Token Contract Address:** 0xc38f41a296a4493ff429f1238e030924a1542e50
 
@@ -46,13 +50,13 @@ Enter the following settings into their respective fields:
 The rest of the fields should auto-complete. If not, enter SNOB and 18 for the remaining fields.
 {% endhint %}
 
-4\)  Select "Next"
+4\) Select "Next"
 
 You should now have the AVAX (the native token of Avalanche) and SNOB tokens setup for being displayed on your MetaMask wallet. Now we can proceed to buy some AVAX and transfer it to your wallet.
 
-## 2) Avalanche Wallet Setup
+## Avalanche Wallet Setup
 
-AVAX tokens exist on the Avalanche X-Chain, where they can be traded; on the P-Chain, where they can be staked; and on the C-Chain, where they can be used in smart contracts or to pay for [_**gas**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#gas) fees.
+AVAX tokens exist on the Avalanche X-Chain, where they can be traded; on the P-Chain, where they can be staked; and on the C-Chain, where they can be used in smart contracts or to pay for [_**gas**_](../defi-glossary.md#gas) fees.
 
 To find your Avalanche X-Chain address, we are going to access it through Avalanche's native tool; Avalanche Wallet.
 
@@ -82,7 +86,7 @@ Some relevant articles on how to withdraw from some of the most popular exchange
 * [**https://academy.binance.com/en/articles/how-to-withdraw**](https://academy.binance.com/en/articles/how-to-withdraw)
 * [**https://support.kraken.com/hc/en-us/articles/360000672763-How-to-withdraw-cryptocurrencies-from-your-Kraken-account**](https://support.kraken.com/hc/en-us/articles/360000672763-How-to-withdraw-cryptocurrencies-from-your-Kraken-account)
 
-_For U.S. residents, you can use the _[_**OKcoin**_](https://www.okcoin.com)_ exchange to buy AVAX._
+_For U.S. residents, you can use the_ [_**OKcoin**_](https://www.okcoin.com) _exchange to buy AVAX._
 
 #### Transferring from X-Chain to C-Chain
 

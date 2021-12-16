@@ -42,7 +42,7 @@ Other than solid tokenomics, a token also needs to have some utility if it is to
 The prices of tokens can be seen through any decentralized exchange, or an external website that provides such services. CoinGecko, for example, is one of those sites. You can see the price history of the SNOB token [**here**](https://www.coingecko.com/en/coins/snowball).
 
 {% hint style="info" %}
-You can learn more about the tokenomics and utility of the SNOB token [**here**](https://snowballs.gitbook.io/snowball-docs/tokenomics/snob) and [**here**](https://snowballs.gitbook.io/snowball-docs/governance/xsnob).
+You can learn more about the tokenomics and utility of the SNOB token [**here**](../../governance/snob.md) and [**here**](../../governance/xsnob/).
 {% endhint %}
 
 ## Avoiding Scams

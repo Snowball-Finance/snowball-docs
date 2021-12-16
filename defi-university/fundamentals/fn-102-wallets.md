@@ -35,7 +35,7 @@ Digital wallets are the easiest to access for those that plan on making many tra
 ![Snowball's Supported Wallets](<../../.gitbook/assets/image (16).png>)
 
 {% hint style="info" %}
-We have a guide on how to setup MetaMask for use on the Avalanche Chain [**here**](https://snowballs.gitbook.io/snowball-docs/resources/guides/funding-your-wallet#1-metamask-setup).
+We have a guide on how to setup MetaMask for use on the Avalanche Chain [**here**](../../resources/guides/funding-your-wallet.md#1-metamask-setup).
 {% endhint %}
 
 ## Transactions
@@ -45,7 +45,7 @@ When making a transaction, your private key is required in order to sign it. Thi
 When using a new DeFi project for the first time, you will likely need to give permission for the smart contract to spend the assets in your wallet. For example, if you want to deposit some USDC into Snowball, we will ask you for permission to spend your wallet's USDC. This can be granted by confirming the transaction when it pops up through your wallet of choice.
 
 {% hint style="info" %}
-We have many guides on how to make any transaction on Snowball [**here**](https://snowballs.gitbook.io/snowball-docs/resources/guides).
+We have many guides on how to make any transaction on Snowball [**here**](../../resources/guides/).
 {% endhint %}
 
 It is important to note that with every transaction, you will need to pay a fee to execute it on the blockchain. Depending on what chain you are transacting in, there may be different mechanisms at play when a transaction fee is paid. On Ethereum, for example, a portion of transaction fees are burned (destroyed forever) and another portion is paid to users validating the network (keeping it running). The important thing to note is that by definition, there is never a centralized party collecting these fees. On Avalanche, all transaction fees are burned.

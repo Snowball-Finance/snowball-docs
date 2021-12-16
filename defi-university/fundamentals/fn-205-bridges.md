@@ -58,7 +58,7 @@ It is a simple bridge that functions extremely well, and also awards any transac
 
 AnySwap V3 is a trustless bridge that functions as a router. It has fees of only $0.9, unless you are bridging to Ethereum, in which case a 0.1% fee is charged. Transactions can take over 10+ minutes, and even larger amounts of time on large transactions. This bridge covers 8 different chains, but only a handful of stablecoins and WETH can be bridged.
 
-This version is a big improvement in terms of usability when it comes to [AnySwap V2](https://anyswap.exchange), but if you'd like to bridge other tokens not supported by V3, V2 is your best bet. It comes with similar fee structures, a lot more chain and token support, but much less pleasant of a user experience. When using their router, you would have to ensure a token has enough liquidity on destination chain, lest your tokens won't be fully routed (you'll have to wait for someone to add liquidity before being able to withdraw).
+This version is a big improvement in terms of usability when it comes to [**AnySwap V2**](https://anyswap.exchange), but if you'd like to bridge other tokens not supported by V3, V2 is your best bet. It comes with similar fee structures, a lot more chain and token support, but much less pleasant of a user experience. When using their router, you would have to ensure a token has enough liquidity on destination chain, lest your tokens won't be fully routed (you'll have to wait for someone to add liquidity before being able to withdraw).
 
 ### cBridge
 

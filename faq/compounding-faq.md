@@ -22,7 +22,7 @@ Once you’ve deposited tokens into a compounding strategy on Snowball, you will
 
 ### How often are rewards compounded?
 
-Rewards from our compounding strategies are compounded / re-invested 2-3 times a day. Feel free to check the #harvests channel on our [**Discord server**](https://discord.gg/BPnBYDSqcb) to see updates each time this takes place.
+Rewards from our compounding strategies are compounded / re-invested 2-3 times a day. Feel free to check the #harvests channel on our [**Discord Server**](https://discord.gg/BPnBYDSqcb) to see updates each time this takes place.
 
 ### Where can I see total harvested amounts?
 
@@ -50,7 +50,7 @@ The APRs displayed on each strategy on our site are updated every 10 minutes.
 
 ### How is Snowball getting such high rates from lending platforms?
 
-When possible, Snowball's strategies employ folding strategies. These allow us to achieve much higher rates on single-asset strategies that just lending your assets normally. To learn more about folding, check out our explanation [**here**](../products/compounding/#lending-+-folding-strategies) or head to our [**DeFi University**](../defi-university/introduction.md).
+When possible, Snowball's strategies employ folding strategies. These allow us to achieve much higher rates on single-asset strategies that just lending your assets normally. To learn more about folding, check out our explanation [**here**](../our-products/compounding.md#lending-+-folding-strategies) or head to our [**DeFi University**](../defi-university/introduction.md).
 
 ### What happens when SNOB emissions end?
 

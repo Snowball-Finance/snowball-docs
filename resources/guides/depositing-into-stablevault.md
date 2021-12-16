@@ -4,7 +4,7 @@ This guide covers how to deposit into StableVault. This example uses the s4D Sta
 
 You need at least one of the pool's coins to deposit.
 
-1\) First, you will need to acquire one of the four [_**stablecoin**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#stablecoin) tokens; **DAI.e**, **FRAX**, **TUSD**, or **USDT.e**. You can have **any combination** and **any amount** of these tokens to deposit.
+1\) First, you will need to acquire one of the four [_**stablecoin**_](../defi-glossary.md#stablecoin) tokens; **DAI.e**, **FRAX**, **TUSD**, or **USDT.e**. You can have **any combination** and **any amount** of these tokens to deposit.
 
 2\) Head to the [**s4D StableVault**](https://app.snowball.network/s4d-vault) page on the Snowball website.
 

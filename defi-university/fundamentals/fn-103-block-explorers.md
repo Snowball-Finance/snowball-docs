@@ -65,7 +65,7 @@ Through a block explorer you can also read, and most importantly write, to any v
 When writing to a smart contract you can connect your wallet to the page much like any decentralized application, and interact with the smart contract directly. This is important since websites may have unforeseen downtime. If this happens you will always have access to your funds through the contract itself, on the blockchain.
 
 {% hint style="info" %}
-Guides for how to interact with Snowball's smart contracts through a block explorer can be found [**here**](https://snowballs.gitbook.io/snowball-docs/resources/guides/manual-contract-interaction).
+Guides for how to interact with Snowball's smart contracts through a block explorer can be found [**here**](../../resources/guides/manual-contract-interaction.md).
 {% endhint %}
 
 ## Closing Thoughts

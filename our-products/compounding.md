@@ -8,15 +8,15 @@ Looking for a quick answer to a simple question? Check out our [**Compounding FA
 
 ## Why compound with Snowball?
 
-After all, isn't this something you could do manually? The benefits of [_**compounding**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#compounding) with Snowball are the following:
+After all, isn't this something you could do manually? The benefits of [_**compounding**_](../resources/defi-glossary.md#compounding) with Snowball are the following:
 
-* **Gas Fees** - Each transaction costs [_**gas**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#gas) fees. These fees add up over time, and can sometimes even outweigh the benefits of compounding. Snowball pays those gas fees for you.
+* **Gas Fees** - Each transaction costs [_**gas**_](../resources/defi-glossary.md#gas) fees. These fees add up over time, and can sometimes even outweigh the benefits of compounding. Snowball pays those gas fees for you.
 * **Time** - Compounding is time-consuming. To get the most out of compounding, you generally need to compound rewards multiple times a day. Snowball automates the compounding process for you and saves you a lot of time you could be using elsewhere.
 * **Extra Rewards** - By compounding with Snowball you also gain additional SNOB token rewards. This means that your total returns would be even higher than if you would compound manually yourself.
 
 ## What DeFi projects are supported?
 
-Snowball supports many [_**DEXs**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#decentralized-exchange-dex), lending platforms and other types of decentralized apps:
+Snowball supports many [_**DEXs**_](../resources/defi-glossary.md#decentralized-exchange-dex), lending platforms and other types of decentralized apps:
 
 * [**Pangolin**](https://app.pangolin.exchange)
 * [**Trader Joe**](https://traderjoexyz.com)
@@ -34,7 +34,7 @@ The basics of auto-compounding involve reinvesting rewards accrued from other De
 
 ### Liquidity Pool Strategies
 
-Liquidity pool (LP) strategies are the most common type of strategy you'll find at Snowball. These involve depositing two or more assets into a [_**liquidity pool**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#liquidity-pool) of a supported DeFi project, and depositing the resulting LP token into Snowball's compounding strategy. Snowball then deposits your LP token back into the other project and auto-compounds any rewards you receive over time.
+Liquidity pool (LP) strategies are the most common type of strategy you'll find at Snowball. These involve depositing two or more assets into a [_**liquidity pool**_](../resources/defi-glossary.md#liquidity-pool) of a supported DeFi project, and depositing the resulting LP token into Snowball's compounding strategy. Snowball then deposits your LP token back into the other project and auto-compounds any rewards you receive over time.
 
 These strategies have some of the highest APYs available on Snowball. This is because not only are they heavily incentivized by DEXs that need liquidity, but you also gain value from trading fees as other Avalanche users use the liquidity you provide to trade between tokens.
 
@@ -44,7 +44,7 @@ To learn more about liquidity pools, check out the [**YF 122 - Liquidity Pools**
 
 ### Lending + Folding Strategies
 
-Lending strategies are some of the safest investment strategies you can find, and involve lending a token of your choice on Snowball, which then deposits your token on a lending platform such as Banker Joe, BenQi or Aave. Other than the usual automatic reinvesting of rewards however, Snowball also implements [_**folding**_](https://snowballs.gitbook.io/snowball-docs/resources/defi-glossary#folding) - a strategy to dramatically increase returns with no extra risk if certain market conditions are met.
+Lending strategies are some of the safest investment strategies you can find, and involve lending a token of your choice on Snowball, which then deposits your token on a lending platform such as Banker Joe, BenQi or Aave. Other than the usual automatic reinvesting of rewards however, Snowball also implements [_**folding**_](../resources/defi-glossary.md#folding) - a strategy to dramatically increase returns with no extra risk if certain market conditions are met.
 
 Folding strategies involve borrowing and lending the same token multiple times in order to multiply the incentive rewards received by the underlying DeFi project. If market conditions no longer make this strategy profitable, Snowball's strategies automatically unfold your investments to avoid any losses.
 
