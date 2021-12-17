@@ -210,6 +210,7 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `JOE - PNG`      | `Trader Joe` | [0xcacf38d95bc613cb3f5f2306b6fbed2472fd5ae6](https://snowtrace.io/address/0xcAcF38D95Bc613cb3F5f2306b6fBed2472FD5ae6) |
 | `JOE - DAI`      | `Trader Joe` | [0xff49e162e6bc10cdf12a8c35f162b79ab3d34bea](https://snowtrace.io/address/0xfF49E162E6bc10CDF12A8c35f162B79ab3d34BEA) |
 | `WAVAX`          | `BenQi`      | [0xaBe28c3B53E8200C87aDb2b790d3594C3fcEf16d](https://snowtrace.io/address/0xaBe28c3B53E8200C87aDb2b790d3594C3fcEf16d) |
+| `QI`             | `BenQi`      | [0x0Ec726BF3FF6CBf58c9f300d86F5fAd149a52039](https://snowtrace.io/address/0x0Ec726BF3FF6CBf58c9f300d86F5fAd149a52039) |
 
 ## StableVault Contracts
 
