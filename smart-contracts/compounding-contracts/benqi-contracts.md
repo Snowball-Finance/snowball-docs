@@ -21,7 +21,7 @@
 | `wBTC.e` | [0x3DD8c4BB2e3fC4dC42e5D2765093aE9325E49ed6](https://snowtrace.io/address/0x3DD8c4BB2e3fC4dC42e5D2765093aE9325E49ed6) |
 | `LINK.e` | [0xbd86DdDf32923763F26A0eB051c35b6442c323fe](https://snowtrace.io/address/0xbd86DdDf32923763F26A0eB051c35b6442c323fe) |
 | `USDC.e` | [0xb9B9800d18287dDB04296Bd47192daba159d8128](https://snowtrace.io/address/0xb9B9800d18287dDB04296Bd47192daba159d8128) |
-| `QI`     | [0xA7282B214E437F79E124d0B4fD58a4421d964f01](https://snowtrace.io/address/0xA7282B214E437F79E124d0B4fD58a4421d964f01) |
+| `QI`     | [0x21997Ab6ee3f5B382067171705c1f4Cc75163a9b](https://snowtrace.io/address/0x21997Ab6ee3f5B382067171705c1f4Cc75163a9b) |
 | `WAVAX`  | [0x2098e8Ce5e24BB6f4984f9667ABd7aDC3d362a33](https://snowtrace.io/address/0x2098e8Ce5e24BB6f4984f9667ABd7aDC3d362a33) |
 
 ## Compounding Gauge Contracts
