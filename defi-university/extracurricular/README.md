@@ -1,6 +1,6 @@
 # Extracurricular
 
-Courses in the **Extracurricular** category explore all sorts of topics outside the scope of the other categories, or more opinion-based cou. If it's related to decentralized finance and doesn't fit elsewhere, it's here. Find a course to jump into:
+Courses in the **Extracurricular** category explore all sorts of topics outside the scope of the other categories, or more opinion-based courses. If it's related to decentralized finance and doesn't fit elsewhere, it's here. Find a course to jump into:
 
 ## 1st Year Courses
 
@@ -12,6 +12,10 @@ Courses in the **Extracurricular** category explore all sorts of topics outside 
 
 {% content-ref url="ex-271-nfts.md" %}
 [ex-271-nfts.md](ex-271-nfts.md)
+{% endcontent-ref %}
+
+{% content-ref url="ex-281-defi-composability.md" %}
+[ex-281-defi-composability.md](ex-281-defi-composability.md)
 {% endcontent-ref %}
 
 ## 3rd Year Courses

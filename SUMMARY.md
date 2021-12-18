@@ -37,7 +37,6 @@
   * [FN 221 - DEXs](defi-university/fundamentals/fn-221-dexs.md)
   * [FN 231 - Stablecoins](defi-university/fundamentals/fn-231-stablecoins.md)
 * [Yield Farming](defi-university/yield-farming/README.md)
-  * [Bridge FRAX to Avalanche](https://fraxfinancecommunity.medium.com/guide-how-to-bridge-frax-to-avalanche-network-and-add-liquidity-to-snowball-ff32d66ae6cb)
   * [YF 111 - Lending Markets](defi-university/yield-farming/yf-111-lending-markets.md)
   * [YF 122 - Liquidity Pools](defi-university/yield-farming/yf-122-liquidity-pools.md)
   * [YF 261 - Auto-Compounding](defi-university/yield-farming/yf-261-auto-compounding.md)
@@ -50,6 +49,7 @@
 * [Extracurricular](defi-university/extracurricular/README.md)
   * [EX 151 - Spotting Scams](defi-university/extracurricular/ex-151-spotting-scams.md)
   * [EX 271 - NFTs](defi-university/extracurricular/ex-271-nfts.md)
+  * [EX 281 - DeFi Composability](defi-university/extracurricular/ex-281-defi-composability.md)
   * [EX 325 - Single-Asset vs LP Strategies](defi-university/extracurricular/ex-325-single-asset-vs-lp-strategies.md)
 
 ## 🗃 Resources
@@ -67,6 +67,7 @@
   * [Unstaking SNOB](resources/guides/unstaking-snob.md)
   * [Voting on Gauges with xSNOB](resources/guides/voting-on-gauges-with-xsnob.md)
   * [Manual Smart-Contract Interaction](resources/guides/manual-contract-interaction.md)
+  * [Bridge FRAX to Avalanche](https://fraxfinancecommunity.medium.com/guide-how-to-bridge-frax-to-avalanche-network-and-add-liquidity-to-snowball-ff32d66ae6cb)
 * [DeFi Glossary](resources/defi-glossary.md)
 
 ## 💻 Smart Contracts
