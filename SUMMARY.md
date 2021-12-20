@@ -59,7 +59,7 @@
 * [Harvest Stats](resources/harvest-stats.md)
 * [Brand Assets](resources/brand-assets.md)
 * [Guides](resources/guides/README.md)
-  * [Funding Your Wallet](resources/guides/funding-your-wallet.md)
+  * [Setting Up MetaMask](resources/guides/setting-up-metamask.md)
   * [Depositing into Compounding Strategies from Trader Joe](resources/guides/compounding-guide-trader-joe.md)
   * [Depositing into Compounding Strategies from Pangolin](resources/guides/compounding-guide-pangolin.md)
   * [Depositing into StableVault](resources/guides/depositing-into-stablevault.md)

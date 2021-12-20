@@ -2,8 +2,8 @@
 
 Our guides will provide you step-by-step instructions to interact with our various products. Have any questions or ran into issues while following one of them? Reach out to us on [**Discord**](https://discord.com/invite/BPnBYDSqcb)!
 
-{% content-ref url="funding-your-wallet.md" %}
-[funding-your-wallet.md](funding-your-wallet.md)
+{% content-ref url="setting-up-metamask.md" %}
+[setting-up-metamask.md](setting-up-metamask.md)
 {% endcontent-ref %}
 
 {% content-ref url="compounding-guide-trader-joe.md" %}
