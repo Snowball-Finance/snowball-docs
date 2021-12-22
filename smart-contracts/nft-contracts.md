@@ -2,6 +2,7 @@
 
 | Name                             | Address                                                                                                               |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| `Snowball Holiday Beanie`        | [0x9fF1918d212c435AD1F1734E9C4DC2DB835161Af](https://snowtrace.io/address/0x9fF1918d212c435AD1F1734E9C4DC2DB835161Af) |
 | `Snow Ball Head`                 | [0x6a81866c94eFc097e75ABcbCddD3E8b63EbEBe93](https://snowtrace.io/address/0x6a81866c94eFc097e75ABcbCddD3E8b63EbEBe93) |
 | `Sherpa Cash - Climb to the Top` | [0x89A3e2B87ea5fCa3a68eAD5643F040A0F636A46b](https://snowtrace.io/address/0x89A3e2B87ea5fCa3a68eAD5643F040A0F636A46b) |
 | `Sasquatch Throwing Snowball`    | [0x7B097A18738cA9Fd524384Dab74c57CB12DAC724](https://snowtrace.io/address/0x7B097A18738cA9Fd524384Dab74c57CB12DAC724) |
