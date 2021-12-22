@@ -14,6 +14,10 @@ Each NFT has a limit of how many times it can be minted. If any are sold out, yo
 Some NFTs below were awarded to those that took part in past events, such as the early proposals on Snowball's governance, or the donation rounds for the Covid Relief Fund for India.
 {% endhint %}
 
+#### Snowball Holiday Beanie
+
+![Made By NaotaMax](../.gitbook/assets/christmasBeanie.gif)
+
 #### Snow Ball Head
 
 ![Made By Fennec](../.gitbook/assets/snowballHead.png)
