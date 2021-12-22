@@ -8,6 +8,7 @@
 
 * [Compounding](our-products/compounding.md)
 * [StableVault](our-products/stablevault.md)
+* [NFT Marketplace](our-products/nft-marketplace.md)
 
 ## 🗳 Governance
 
@@ -83,6 +84,7 @@
   * [Axial Contracts](smart-contracts/compounding-contracts/axial-contracts.md)
 * [StableVault Contracts](smart-contracts/stablevault-contracts.md)
 * [Deprecated Contracts](smart-contracts/deprecated-contracts.md)
+* [NFT Contracts](smart-contracts/nft-contracts.md)
 * [Audits & Timelocks](smart-contracts/audits.md)
 * [Multisigs](smart-contracts/multisigs.md)
 * [Integrations](smart-contracts/integrations/README.md)
