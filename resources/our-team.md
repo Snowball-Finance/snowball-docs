@@ -84,6 +84,10 @@ Sergio2098, from Turkey, has stepped up to provide moderation and support to the
 
 #### ![](../.gitbook/assets/tylers.webp) TylerS
 
+#### ![](../.gitbook/assets/naotamax.webp) NaotaMax
+
+#### ![](../.gitbook/assets/thebakedone.webp) The Baked One
+
 ## Past Community Contributors
 
 #### ![](../.gitbook/assets/mintle.webp) Mintle
