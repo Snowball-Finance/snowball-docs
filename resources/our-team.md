@@ -38,17 +38,19 @@ Auroter hails from the US, and has a background as a value engineer, systems eng
 
 #### ![](../.gitbook/assets/mohsen.webp) Mohsen (Front-End Engineer)
 
+#### ![](../.gitbook/assets/cryptogoddess.webp) Cryptogoddess91 (Marketing Coordinator) | [Twitter](https://twitter.com/cryptogoddess91)
+
+Cryptogoddess91 is from the US, and has three associate degrees in business administration, social and behavioral sciences and natural sciences, as well as a nanodegree in UX design. When they aren't dancing, laughing or exploring the world they are using their creative skills to create amazing UX designs for Snowball's community, as well as coordinating our marketing efforts.
+
 #### ![](../.gitbook/assets/guanabanat.webp) GuanabaNat (Illustrator)
 
 #### ![](../.gitbook/assets/dilaanys.webp) Dilaanys (Illustrator)
 
-#### ![](../.gitbook/assets/cryptogoddess.webp) Cryptogoddess91 (Marketing Coordinator) | [Twitter](https://twitter.com/cryptogoddess91)
-
-Cryptogoddess91 is from the US, and has three associate degrees in business administration, social and behavioral sciences and natural sciences, as well as a nanodegree in UX design. When they aren't dancing, laughing or exploring the world they are using their creative skills to create amazing UX designs for Snowball's community.
+Dilaanys has 5 years of freelance experience as a graphic designer and illustrator, developing content for various clients and agencies over the years. Now they've brought their talent over to the blockchain and NFT space, as is creating awesome art for the Snowball community.
 
 #### ![](../.gitbook/assets/ncookie.webp) Ncookie (Technical Writer) | [**Twitter**](https://twitter.com/ncookie\_eth)
 
-Ncookie is a Brazilian software engineer with a bachelors degree in computer science. While developing 'CookieTrack', they've become increasingly excited about the future of DeFi and the Avalanche ecosystem, and now generates the internal and external documentation as well as writing articles and newsletters for the Snowball community.
+Ncookie is a Brazilian software engineer with a bachelors degree in computer science. While developing 'CookieTrack', they've become increasingly excited about the future of DeFi and the Avalanche ecosystem, and now generates the internal and external documentation as well as writing articles, courses and newsletters for the Snowball community.
 
 ## Support Team
 
