@@ -20,6 +20,10 @@ Courses in the **Fundamentals** category explore the underlying concepts of dece
 [fn-104-tokens.md](fn-104-tokens.md)
 {% endcontent-ref %}
 
+{% content-ref url="fn-106-gas-fees.md" %}
+[fn-106-gas-fees.md](fn-106-gas-fees.md)
+{% endcontent-ref %}
+
 ## 2nd Year Courses
 
 {% content-ref url="fn-205-bridges.md" %}

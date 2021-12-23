@@ -52,6 +52,10 @@ It is important to note that with every transaction, you will need to pay a fee 
 
 What also varies between chains is the amount paid per transaction. This is never a fixed amount, and usually correlates with the amount of traffic on the network at any given time. Some [**tools**](https://cointool.app/gasPrice/avax) can help you track transaction fees on each chain at any given time.
 
+{% hint style="info" %}
+To learn why transaction/gas fees exist and how they work in more detail, check out the FN 106 course on 'Gas Fees'.
+{% endhint %}
+
 ## Closing Thoughts
 
 Having your own wallet and choosing how you want to access it is an important step to starting your DeFi journey. Make sure to keep your seed phrase, private key and yourself safe!
