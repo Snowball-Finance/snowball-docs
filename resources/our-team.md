@@ -44,7 +44,7 @@ Cryptogoddess91 is from the US, and has three associate degrees in business admi
 
 #### ![](../.gitbook/assets/guanabanat.webp) GuanabaNat (Illustrator)
 
-#### ![](../.gitbook/assets/dilaanys.webp) Dilaanys (Illustrator)
+#### ![](../.gitbook/assets/dilaanys.webp) Dilaanys (Illustrator) | [Twitter](https://twitter.com/dilaanys)
 
 Dilaanys has 5 years of freelance experience as a graphic designer and illustrator, developing content for various clients and agencies over the years. Now they've brought their talent over to the blockchain and NFT space, as is creating awesome art for the Snowball community.
 
