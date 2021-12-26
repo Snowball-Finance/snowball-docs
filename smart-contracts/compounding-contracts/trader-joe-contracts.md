@@ -128,7 +128,7 @@
 | `AVAX - SHIBX`    | [0x125c9781621cd9948ba6296e4eeaa4b816fb5198](https://snowtrace.io/address/0x125c9781621Cd9948Ba6296e4Eeaa4B816fb5198) |
 | `AVAX - USDC.e`   | [0x6f5a949bd831e6ad921690c29c981fa9b0466095](https://snowtrace.io/address/0x6F5a949Bd831E6Ad921690c29C981FA9B0466095) |
 | `AVAX - QI`       | [0x51e4478e19554b06ad813ffc2ba804cd13f00aa4](https://snowtrace.io/address/0x51E4478e19554b06aD813fFC2ba804cD13f00AA4) |
-| `AVAX - MIM`      | [0x8555681BA3f8a53b2FE3f2BA8F0Bd45D7b0be35B](https://snowtrace.io/address/0x8555681BA3f8a53b2FE3f2BA8F0Bd45D7b0be35B) |
+| `AVAX - MIM`      | [0x6c505f553a07e04b1e059d4aa8fe1c72c0ad7d97](https://snowtrace.io/address/0x6c505f553a07e04b1e059d4aa8fe1c72c0ad7d97) |
 | `AVAX - TIME`     | [0xc99dc5Fc08e77e6b4903fdcF135A6919890476D5](https://snowtrace.io/address/0xc99dc5Fc08e77e6b4903fdcF135A6919890476D5) |
 | `AVAX - FRAX `    | [0xAF72B2f70e2b572094A55566900BC6775b78F018](https://snowtrace.io/address/0xAF72B2f70e2b572094A55566900BC6775b78F018) |
 | `AVAX - SYN`      | [0x83C06140FE1769405CC98f81A75fe6E177B4B333](https://snowtrace.io/address/0x83C06140FE1769405CC98f81A75fe6E177B4B333) |
