@@ -129,11 +129,11 @@
 | `AVAX - USDC.e`   | [0x6f5a949bd831e6ad921690c29c981fa9b0466095](https://snowtrace.io/address/0x6F5a949Bd831E6Ad921690c29C981FA9B0466095) |
 | `AVAX - QI`       | [0x51e4478e19554b06ad813ffc2ba804cd13f00aa4](https://snowtrace.io/address/0x51E4478e19554b06aD813fFC2ba804cD13f00AA4) |
 | `AVAX - MIM`      | [0x6c505f553a07e04b1e059d4aa8fe1c72c0ad7d97](https://snowtrace.io/address/0x6c505f553a07e04b1e059d4aa8fe1c72c0ad7d97) |
-| `AVAX - TIME`     | [0xc99dc5Fc08e77e6b4903fdcF135A6919890476D5](https://snowtrace.io/address/0xc99dc5Fc08e77e6b4903fdcF135A6919890476D5) |
-| `AVAX - FRAX `    | [0xAF72B2f70e2b572094A55566900BC6775b78F018](https://snowtrace.io/address/0xAF72B2f70e2b572094A55566900BC6775b78F018) |
-| `AVAX - SYN`      | [0x83C06140FE1769405CC98f81A75fe6E177B4B333](https://snowtrace.io/address/0x83C06140FE1769405CC98f81A75fe6E177B4B333) |
-| `AVAX - ELE`      | [0x34a7D5c000fC8f668C5e3cfeCb7bCb0Cc74aCD5A](https://snowtrace.io/address/0x34a7D5c000fC8f668C5e3cfeCb7bCb0Cc74aCD5A) |
-| `AVAX - WET`      | [0x063da670647fcE8aF1c2fDe692a414e2f956db88](https://snowtrace.io/address/0x063da670647fcE8aF1c2fDe692a414e2f956db88) |
+| `AVAX - TIME`     | [0x5e1F7B89ECEdaFC7A22CbF7582bd86f3f1724d01](https://snowtrace.io/address/0x5e1F7B89ECEdaFC7A22CbF7582bd86f3f1724d01) |
+| `AVAX - FRAX `    | [0x84bd643acf72d0447917e66e774e6fb5493050d1](https://snowtrace.io/address/0x84bd643acf72d0447917e66e774e6fb5493050d1) |
+| `AVAX - SYN`      | [0x926333ee90c2e6b9d56645866f855b19ff4f258e](https://snowtrace.io/address/0x926333ee90c2e6b9d56645866f855b19ff4f258e) |
+| `AVAX - ELE`      | [0xe31c130ce29d7ad32401c8258e288dc1ec80fd30](https://snowtrace.io/address/0xe31c130ce29d7ad32401c8258e288dc1ec80fd30) |
+| `AVAX - WET`      | [0xF521deC8d287F5d82C453cf91eA5b5E686ba370c](https://snowtrace.io/address/0xF521deC8d287F5d82C453cf91eA5b5E686ba370c) |
 | `AVAX - mYAK`     | [0x3dE0328e26D66163B72f0497a0b65e8A7cD3ea46](https://snowtrace.io/address/0x3dE0328e26D66163B72f0497a0b65e8A7cD3ea46) |
 | `AVAX - GB`       | [0xC0e1FA7993183912c18e1532F3d2279915c3CE20](https://snowtrace.io/address/0xC0e1FA7993183912c18e1532F3d2279915c3CE20) |
 | `AVAX - SPELL`    | [0x52f994801126A573c60F5b0666766742F8a24A4e](https://snowtrace.io/address/0x52f994801126A573c60F5b0666766742F8a24A4e) |
