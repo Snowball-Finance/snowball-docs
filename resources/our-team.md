@@ -64,6 +64,8 @@ Sergio2098, from Turkey, has stepped up to provide moderation and support to the
 
 #### ![](../.gitbook/assets/zacknistelrooy.webp) Zacknistelrooy (Business Development & Support Staff)
 
+Zacknistelrooy is an investment analyst with 5+ years of experience working in traditional finance. They have a passion for analyzing and investing in traditional and cryptocurrency assets, as well as being an avid sports fan - particularly when it comes to soccer, tennis, F1 and golf.
+
 #### ![](../.gitbook/assets/erkan.webp) Erkan (Support Staff)
 
 ## Active Community Contributors
