@@ -32,7 +32,7 @@
 * [x] **Website Improvements** - We made further QoL improvements to our site and have been consistently improving the user experience among our various products.
 * [x] **One-Click-Deposits** - We made it possible for users to use our products without swapping tokens at all beforehand; optionally utilizing zappers for all deposits.
 * [x] **New Auto-Compounding Strategies** - Even more strategies were added to Snowball this quarter, including all-new strategies for platforms such as [**Axial**](https://axial.exchange) and [**Teddy**](https://teddy.cash).
-* [ ] **New & Improved NFTs** - We plan on adding new NFTs with more functionality than traditional NFTs.
+* [x] **New & Improved NFTs** - We launched an exclusive holiday beanie NFT, redeemable for a Snowball beanie from our partners at Husky.
 
 ![](../.gitbook/assets/2022\_Q1.png)
 
