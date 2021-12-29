@@ -34,8 +34,6 @@ Auroter hails from the US, and has a background as a value engineer, systems eng
 
 #### ![](../.gitbook/assets/sanjeev1308.webp) Sanjeev1308 (Front-End Engineer)
 
-#### ![](../.gitbook/assets/david-defi-web.webp) David-Defi-Web (Front-End Engineer)
-
 #### ![](../.gitbook/assets/mohsen.webp) Mohsen (Front-End Engineer)
 
 #### ![](../.gitbook/assets/cryptogoddess.webp) Cryptogoddess91 (Marketing Coordinator) | [Twitter](https://twitter.com/cryptogoddess91)
@@ -93,6 +91,8 @@ Zacknistelrooy is an investment analyst with 5+ years of experience working in t
 #### ![](../.gitbook/assets/naotamax.webp) NaotaMax
 
 #### ![](../.gitbook/assets/thebakedone.webp) The Baked One
+
+#### ![](../.gitbook/assets/david-defi-web.webp) David-Defi-Web
 
 ## Past Community Contributors
 
