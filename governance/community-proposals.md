@@ -13,7 +13,7 @@ Anyone with xSNOB tokens can vote on Snowball proposals. For a proposal to pass,
 
 Your vote can be changed after voting in case you've changed your mind.
 
-In order to create a proposal, you must hold a minimum of 100,000 xSNOB. If you do not have the required minimum number of tokens, someone who does can execute the proposal on your behalf. You may only have one active proposal at any given time.
+In order to create a proposal, you must hold a minimum of 50,000 xSNOB. If you do not have the required minimum number of tokens, someone who does can execute the proposal on your behalf. You may only have one active proposal at any given time.
 
 ## Submission Process
 
@@ -35,7 +35,7 @@ Based on the outcome of the vote, the proposal can be altered and this process c
 
 ### Stage 3: Submission
 
-The proposal submission needs to be done by a wallet with at least 100k xSNOB. It could be submitted by someone on behalf of someone else, but on-chain delegation is not available yet. The easiest way to submit a proposal to Snowball's governance contract is through [**here**](https://snowtrace.io/address/0xfdCcf6D49A29f435E509DFFAAFDecB0ADD93f8C0/write-contract#writeContract).
+The proposal submission needs to be done by a wallet with at least 50k xSNOB. It could be submitted by someone on behalf of someone else, but on-chain delegation is not available yet. The easiest way to submit a proposal to Snowball's governance contract is through [**here**](https://snowtrace.io/address/0xfdCcf6D49A29f435E509DFFAAFDecB0ADD93f8C0/write-contract#writeContract).
 
 A proposal should include the following items:
 
