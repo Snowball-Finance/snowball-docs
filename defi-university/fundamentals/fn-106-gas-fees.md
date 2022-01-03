@@ -44,7 +44,7 @@ On every blockchain, the price of gas varies depending on how congested the netw
 
 Even so, price spikes may happen due to a large number of users trying to make time-sensitive transactions at any given time:
 
-![Gas Prices on Avalanche C-Chain (23/12/2021)](<../../.gitbook/assets/image (9).png>)
+![Gas Prices on Avalanche C-Chain (23/12/2021)](<../../.gitbook/assets/image (9) (1).png>)
 
 Charts like the one seen above can be found for Avalanche [**here**](https://ava-labs-inc.metabaseapp.com/public/dashboard/d7a03dd2-28cf-44e5-bc1d-3c9ef41e69f5#refresh=60). These spikes can happen during exciting new IDOs, token launches, NFT drops, etc. On Avalanche these usually are very short-lived and regular users can simply avoid making transactions for half an hour or so in order to avoid paying high fees for everyday transactions.
 

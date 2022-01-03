@@ -41,7 +41,7 @@ $$
 
 In order for folding to be profitable, the equation above must result in a positive number. Let's take a look at an example from the last screenshot:
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 For the AVAX token, we can grab the current interest rates and incentives and check if it would be profitable to perform a folding strategy on such an asset at this time:
 

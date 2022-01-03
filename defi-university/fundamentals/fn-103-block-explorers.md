@@ -22,19 +22,18 @@ Block explorers provide a way to view information on the blockchain in a simple 
 
 ## Block Explorers
 
-The Avalanche C-Chain has three main block explorers:
+The Avalanche C-Chain has two main block explorers:
 
-* **Native Avax Explorer** - [**https://cchain.explorer.avax.network/**](https://cchain.explorer.avax.network)
-* **AvaScan** - [**https://avascan.info/blockchain/c/txs**](https://avascan.info/blockchain/c/txs)
 * **SnowTrace** - [**https://snowtrace.io/**](https://snowtrace.io)****
+* **AvaScan** - [**https://avascan.info/blockchain/c/txs**](https://avascan.info/blockchain/c/txs)
 
 {% hint style="info" %}
 All smart contract / DeFi-related transactions take place on Avalanche's C-Chain (Contract Chain). The links above are for this chain. The X-Chain and P-Chain have their own explorers.
 {% endhint %}
 
-All explorers provide the same type of information, but have differing visuals and sometimes have more or less information regarding any specific smart contract. SnowTrace is the newest addition to the Avalanche ecosystem, made by the same creators of EtherScan and it's other chain alternatives (BscScan, PolygonScan and FtmScan).
+Both explorers provide the same type of information, but have differing visuals and sometimes have more or less information regarding any specific smart contract. SnowTrace is the newest addition to the Avalanche ecosystem, made by the same creators of EtherScan and it's other chain alternatives (BscScan, PolygonScan, FtmScan, etc.).
 
-![Avalanche C-Chain Native Block Explorer](<../../.gitbook/assets/image (5).png>)
+![Snowtrace - Avalanche C-Chain's Main Block Explorer](<../../.gitbook/assets/image (12).png>)
 
 Other blockchains also have their own block explorers. The most popular ones are linked below:
 
@@ -48,19 +47,19 @@ Other blockchains also have their own block explorers. The most popular ones are
 
 The primary and probably most important utility of a block explorer is the ability to see your transaction history. Let's take a look at a random wallet address on Avalanche for example:
 
-![Random Wallet on Avalanche](<../../.gitbook/assets/image (9) (1).png>)
+![Random Wallet on Avalanche](<../../.gitbook/assets/image (9).png>)
 
-If we search for this wallet address on the block explorer, it gives us a lot of information regarding its balance and transaction history. It seems to have been trading some AVAX for DAI.e lately. If you're wondering how it's possible to access anyone's transaction history through a block explorer, it's because everything on a blockchain is public. This is why blockchains are often referred to as public ledgers.
+If we search for this wallet address on the block explorer, it gives us a lot of information regarding its balance and transaction history. It seems to have been transacting some DAI.e, USDT.e and JOE lately. If you're wondering how it's possible to access anyone's transaction history through a block explorer, it's because everything on a blockchain is public. This is why blockchains are often referred to as public ledgers.
 
-Other than viewing wallet addresses, we can also see even more information regarding smart contracts on a block explorer. Let's take a look at one of Snowball's main contracts used for distributing SNOB (our token) rewards for example:
+Other than viewing wallet addresses, we can also see even more information regarding smart contracts on a block explorer. Let's take a look at Snowball's main governance contract for example:
 
-![Snowball's GaugeProxyV2 Contract on Avalanche](<../../.gitbook/assets/image (7).png>)
+![Snowball's Governance Contract on Avalanche](<../../.gitbook/assets/image (11).png>)
 
 We can see the entire source code for any smart contract on the block explorer unless the contract has not been verified yet. This allows for a lot more transparency and makes it easier for legitimate projects to stand out amongst the crowd of smart contracts by using well-written, safe and robust code.
 
 Through a block explorer you can also read, and most importantly write, to any verified smart contract.
 
-![Writing to Snowball's GaugeProxyV2 Contract on Avalanche](<../../.gitbook/assets/image (13).png>)
+![Writing to Snowball's Governance Contract on Avalanche](<../../.gitbook/assets/image (7).png>)
 
 When writing to a smart contract you can connect your wallet to the page much like any decentralized application, and interact with the smart contract directly. This is important since websites may have unforeseen downtime. If this happens you will always have access to your funds through the contract itself, on the blockchain.
 
