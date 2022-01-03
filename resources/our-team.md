@@ -30,8 +30,6 @@ Saito hails from El Salvador, and has over 9 years of experience in software eng
 
 #### ![](../.gitbook/assets/abbie.webp) Abbie (Smart Contract Engineer)
 
-Auroter hails from the US, and has a background as a value engineer, systems engineer and mathematician. At Snowball, they've worked on developing smart contracts; the foundation of Snowball's products.
-
 #### ![](../.gitbook/assets/sanjeev1308.webp) Sanjeev1308 (Front-End Engineer)
 
 #### ![](../.gitbook/assets/mohsen.webp) Mohsen (Front-End Engineer)
