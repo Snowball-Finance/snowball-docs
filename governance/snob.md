@@ -2,13 +2,13 @@
 
 The SNOB token is Snowball’s governance token. It can be locked for xSNOB to vote on proposals, vote on weekly SNOB allocations, earn a portion of protocol revenue, and earn boosted SNOB rewards.
 
-Ticker: SNOB
+**Ticker:** SNOB
 
-Max Supply: 18,000,000
+**Max Supply:** 18,000,000
 
-Token Address: [**0xC38f41A296A4493Ff429F1238e030924A1542e50**](https://snowtrace.io/token/0xC38f41A296A4493Ff429F1238e030924A1542e50)****
+**Token Address:** [**0xC38f41A296A4493Ff429F1238e030924A1542e50**](https://snowtrace.io/token/0xC38f41A296A4493Ff429F1238e030924A1542e50)****
 
-Chain: Avalanche C-Chain
+**Chain:** Avalanche C-Chain
 
 ## **Token Distribution**
 
