@@ -8,8 +8,8 @@ Folding is a relatively safe investment strategy that can be profitable under ce
 
 #### Suggested Prior Reading:
 
-{% content-ref url="yf-111-lending-markets.md" %}
-[yf-111-lending-markets.md](yf-111-lending-markets.md)
+{% content-ref url="../1st-year-courses/yf-111-lending-markets.md" %}
+[yf-111-lending-markets.md](../1st-year-courses/yf-111-lending-markets.md)
 {% endcontent-ref %}
 
 ## Introduction

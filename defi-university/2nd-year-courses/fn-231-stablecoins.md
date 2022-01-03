@@ -9,12 +9,12 @@ Stablecoins are a specific type of token that have brought a lot of utility to t
 
 #### Suggested Prior Reading:
 
-{% content-ref url="fn-101-decentralized-finance.md" %}
-[fn-101-decentralized-finance.md](fn-101-decentralized-finance.md)
+{% content-ref url="../1st-year-courses/fn-101-decentralized-finance.md" %}
+[fn-101-decentralized-finance.md](../1st-year-courses/fn-101-decentralized-finance.md)
 {% endcontent-ref %}
 
-{% content-ref url="fn-104-tokens.md" %}
-[fn-104-tokens.md](fn-104-tokens.md)
+{% content-ref url="../1st-year-courses/fn-104-tokens.md" %}
+[fn-104-tokens.md](../1st-year-courses/fn-104-tokens.md)
 {% endcontent-ref %}
 
 ## Introduction

@@ -8,8 +8,8 @@ Impermanent loss is a term that is thrown around quite a bit when it comes to pr
 
 #### Suggested Prior Reading:
 
-{% content-ref url="yf-122-liquidity-pools.md" %}
-[yf-122-liquidity-pools.md](yf-122-liquidity-pools.md)
+{% content-ref url="../1st-year-courses/yf-122-liquidity-pools.md" %}
+[yf-122-liquidity-pools.md](../1st-year-courses/yf-122-liquidity-pools.md)
 {% endcontent-ref %}
 
 ## Introduction

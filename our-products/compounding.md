@@ -39,7 +39,7 @@ Liquidity pool (LP) strategies are the most common type of strategy you'll find 
 These strategies have some of the highest APYs available on Snowball. This is because not only are they heavily incentivized by DEXs that need liquidity, but you also gain value from trading fees as other Avalanche users use the liquidity you provide to trade between tokens.
 
 {% hint style="info" %}
-To learn more about liquidity pools, check out the [**YF 122 - Liquidity Pools**](../defi-university/yield-farming/yf-122-liquidity-pools.md) course over at our DeFi University!
+To learn more about liquidity pools, check out the [**YF 122 - Liquidity Pools**](../defi-university/1st-year-courses/yf-122-liquidity-pools.md) course over at our DeFi University!
 {% endhint %}
 
 ### Lending + Folding Strategies
@@ -49,7 +49,7 @@ Lending strategies are some of the safest investment strategies you can find, an
 Folding strategies involve borrowing and lending the same token multiple times in order to multiply the incentive rewards received by the underlying DeFi project. If market conditions no longer make this strategy profitable, Snowball's strategies automatically unfold your investments to avoid any losses.
 
 {% hint style="info" %}
-Looking for a more in-depth explanation of folding strategies? Check out the [**YF 312 - Folding**](../defi-university/yield-farming/yf-312-folding.md) course over at our DeFi University.
+Looking for a more in-depth explanation of folding strategies? Check out the [**YF 312 - Folding**](../defi-university/3rd-year-courses/yf-312-folding.md) course over at our DeFi University.
 {% endhint %}
 
 ### Staking Strategies

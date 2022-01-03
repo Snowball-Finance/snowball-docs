@@ -8,12 +8,12 @@ Auto-Compounding services allow users to maximize the rates on their investments
 
 #### Suggested Prior Reading:
 
-{% content-ref url="yf-111-lending-markets.md" %}
-[yf-111-lending-markets.md](yf-111-lending-markets.md)
+{% content-ref url="../1st-year-courses/yf-111-lending-markets.md" %}
+[yf-111-lending-markets.md](../1st-year-courses/yf-111-lending-markets.md)
 {% endcontent-ref %}
 
-{% content-ref url="yf-122-liquidity-pools.md" %}
-[yf-122-liquidity-pools.md](yf-122-liquidity-pools.md)
+{% content-ref url="../1st-year-courses/yf-122-liquidity-pools.md" %}
+[yf-122-liquidity-pools.md](../1st-year-courses/yf-122-liquidity-pools.md)
 {% endcontent-ref %}
 
 ## Introduction

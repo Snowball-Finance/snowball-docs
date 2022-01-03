@@ -8,8 +8,8 @@ The composability of smart contracts in decentralized finance brings immense pos
 
 #### Suggested Prior Reading:
 
-{% content-ref url="../fundamentals/fn-101-decentralized-finance.md" %}
-[fn-101-decentralized-finance.md](../fundamentals/fn-101-decentralized-finance.md)
+{% content-ref url="../1st-year-courses/fn-101-decentralized-finance.md" %}
+[fn-101-decentralized-finance.md](../1st-year-courses/fn-101-decentralized-finance.md)
 {% endcontent-ref %}
 
 ## Introduction

@@ -8,20 +8,20 @@ Snowball offer many auto-compounding single-asset and LP strategies for you to m
 
 #### Suggested Prior Reading:
 
-{% content-ref url="../yield-farming/yf-111-lending-markets.md" %}
-[yf-111-lending-markets.md](../yield-farming/yf-111-lending-markets.md)
+{% content-ref url="../1st-year-courses/yf-111-lending-markets.md" %}
+[yf-111-lending-markets.md](../1st-year-courses/yf-111-lending-markets.md)
 {% endcontent-ref %}
 
-{% content-ref url="../yield-farming/yf-122-liquidity-pools.md" %}
-[yf-122-liquidity-pools.md](../yield-farming/yf-122-liquidity-pools.md)
+{% content-ref url="../1st-year-courses/yf-122-liquidity-pools.md" %}
+[yf-122-liquidity-pools.md](../1st-year-courses/yf-122-liquidity-pools.md)
 {% endcontent-ref %}
 
-{% content-ref url="../yield-farming/yf-312-folding.md" %}
-[yf-312-folding.md](../yield-farming/yf-312-folding.md)
+{% content-ref url="yf-312-folding.md" %}
+[yf-312-folding.md](yf-312-folding.md)
 {% endcontent-ref %}
 
-{% content-ref url="../yield-farming/yf-323-impermanent-loss.md" %}
-[yf-323-impermanent-loss.md](../yield-farming/yf-323-impermanent-loss.md)
+{% content-ref url="yf-323-impermanent-loss.md" %}
+[yf-323-impermanent-loss.md](yf-323-impermanent-loss.md)
 {% endcontent-ref %}
 
 ## Introduction

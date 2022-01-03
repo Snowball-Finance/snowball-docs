@@ -8,12 +8,12 @@ The math around liquidity pools can be a bit confusing, but nonetheless very ins
 
 #### Suggested Prior Reading:
 
-{% content-ref url="yf-122-liquidity-pools.md" %}
-[yf-122-liquidity-pools.md](yf-122-liquidity-pools.md)
+{% content-ref url="../1st-year-courses/yf-122-liquidity-pools.md" %}
+[yf-122-liquidity-pools.md](../1st-year-courses/yf-122-liquidity-pools.md)
 {% endcontent-ref %}
 
-{% content-ref url="yf-323-impermanent-loss.md" %}
-[yf-323-impermanent-loss.md](yf-323-impermanent-loss.md)
+{% content-ref url="../3rd-year-courses/yf-323-impermanent-loss.md" %}
+[yf-323-impermanent-loss.md](../3rd-year-courses/yf-323-impermanent-loss.md)
 {% endcontent-ref %}
 
 ## Introduction
@@ -101,13 +101,13 @@ $$
 Since we have the pool's token balances at any given time based on it's token ratio, we can also calculate the impermanent loss for any price change. We can convert the token balances to one token for easier calculations. For example, prior to the price change:
 
 $$
-\text{2,255} + \frac{\text{125,016}} {55.44} =  \text{4,510 AVAX}
+\text{2,255} + \frac{\text{125,016}} {55.44} = \text{4,510 AVAX}
 $$
 
 And similarly, after the SNOB token's price change:
 
 $$
-\text{3,189} + \frac{\text{88,400}} {27.72} =  \text{6,378 AVAX}
+\text{3,189} + \frac{\text{88,400}} {27.72} = \text{6,378 AVAX}
 $$
 
 If you owned 0.5% of the pool, you would have gone from having the equivalent of 22.55 AVAX to having the equivalent of 31.89 AVAX. That is a 41.42% increase in value, or a profit of 9.34 AVAX. Since the value of SNOB doubled, wouldn't you expect a 50% increase in value? The value of your original deposit prior to the price change, if you hadn't provided liquidity, would be the following:

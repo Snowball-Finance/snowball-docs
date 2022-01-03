@@ -7,8 +7,8 @@ Decentralized autonomous organizations have had the chance to experiment with va
 
 #### Suggested Prior Reading:
 
-{% content-ref url="gv-141-daos.md" %}
-[gv-141-daos.md](gv-141-daos.md)
+{% content-ref url="../1st-year-courses/gv-141-daos.md" %}
+[gv-141-daos.md](../1st-year-courses/gv-141-daos.md)
 {% endcontent-ref %}
 
 ## Introduction
