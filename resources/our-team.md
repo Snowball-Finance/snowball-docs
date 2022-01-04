@@ -92,6 +92,14 @@ Zacknistelrooy is an investment analyst with 5+ years of experience working in t
 
 #### ![](../.gitbook/assets/david-defi-web.webp) David-Defi-Web
 
+#### ![](../.gitbook/assets/khayeni.webp) Khayeni
+
+#### ![](../.gitbook/assets/alireza.webp) Alireza
+
+#### ![](../.gitbook/assets/0xyeti.webp) 0xYeti
+
+#### ![](../.gitbook/assets/fuzzylemma.webp) Fuzzylemma
+
 ## Past Community Contributors
 
 #### ![](../.gitbook/assets/mintle.webp) Mintle
