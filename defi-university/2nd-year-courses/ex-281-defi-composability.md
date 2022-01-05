@@ -1,5 +1,7 @@
 # EX 281 - DeFi Composability
 
+![](<../../.gitbook/assets/DeFi Composability.png>)
+
 The composability of smart contracts in decentralized finance brings immense possibilities to the space, but also with it brings the possibility of new bugs, exploits and attack vectors. This course will cover the basic concepts of composability in DeFi, such as:
 
 * Defining Composability

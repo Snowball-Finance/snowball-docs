@@ -1,5 +1,7 @@
 # FN 205 - Bridges
 
+![](../../.gitbook/assets/Bridges.png)
+
 Bridges are fundamental services for being able to move tokens between different blockchains and thus keeping our decentralized finance ecosystem as well-connected as possible. This course will cover the following regarding these:
 
 * Defining Bridges

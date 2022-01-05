@@ -1,5 +1,7 @@
 # FN 106 - Gas Fees
 
+![](<../../.gitbook/assets/Gas Fees.png>)
+
 Gas/transaction fees; everyone knows of them, everyone hates them, but not everyone understands them. This course will cover the following regarding these fees:
 
 * Defining Gas Fees
