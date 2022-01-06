@@ -18,6 +18,30 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 
 | Pair              | Platform     | Address                                                                                                               |
 | ----------------- | ------------ | --------------------------------------------------------------------------------------------------------------------- |
+| `AVAX - ETH`      | `Trader Joe` | [0xAbD637a6881a2D4bbf279aE484c2447c070f7C73](https://snowtrace.io/address/0xf41f4B7E40baAc51Ba4507cd471dC092670BB839) |
+| `AVAX - USDT`     | `Trader Joe` | [0xB305856C54efC004955BC51e3D20ceF566C11eEE](https://snowtrace.io/address/0xB305856C54efC004955BC51e3D20ceF566C11eEE) |
+| `AVAX - DAI`      | `Trader Joe` | [0xAD050d11521dd1dD2Cc136A9e979BAA8F6Fab69a](https://snowtrace.io/address/0xAD050d11521dd1dD2Cc136A9e979BAA8F6Fab69a) |
+| `AVAX - LINK`     | `Trader Joe` | [0x4bD6D4fE5E3bBaa0FfB075EE9F0980FbcC6c0192](https://snowtrace.io/address/0x4bD6D4fE5E3bBaa0FfB075EE9F0980FbcC6c0192) |
+| `AVAX - wBTC`     | `Trader Joe` | [0x86b109380aB2c34B740848b06Bee62C882F01df5](https://snowtrace.io/address/0x86b109380aB2c34B740848b06Bee62C882F01df5) |
+| `AVAX - SPORE`    | `Trader Joe` | [0x2f17BAC3E0339C1BFB6E0DD380d65bd2Fc665C75](https://snowtrace.io/address/0x2f17BAC3E0339C1BFB6E0DD380d65bd2Fc665C75) |
+| `AVAX - MAI`      | `Trader Joe` | [0x29BF8c19e044732b110faA1Ff0Cc59CA35c13f17](https://snowtrace.io/address/0x29BF8c19e044732b110faA1Ff0Cc59CA35c13f17) |
+| `AVAX - TSD`      | `Trader Joe` | [0xcEBFFa4C80291e80EA0684E4C8884124d6a81197](https://snowtrace.io/address/0xcEBFFa4C80291e80EA0684E4C8884124d6a81197) |
+| `AVAX - TEDDY`    | `Trader Joe` | [0xb357bA896818ccCd020fb3781a443E3d3f93beFf](https://snowtrace.io/address/0xb357bA896818ccCd020fb3781a443E3d3f93beFf) |
+| `AVAX - PNG`      | `Trader Joe` | [0x962ECf51A169090002CC88B4Bf16e447d2E13100](https://snowtrace.io/address/0x962ECf51A169090002CC88B4Bf16e447d2E13100) |
+| `AVAX - ELK`      | `Trader Joe` | [0x6440365E1c9282F50477b1F00289b3A7218E47Ef](https://snowtrace.io/address/0x6440365E1c9282F50477b1F00289b3A7218E47Ef) |
+| `AVAX - TRACTOR`  | `Trader Joe` | [0xBfB27f6F03312D0828045faC1a8d6F0bF6E5C97c](https://snowtrace.io/address/0xBfB27f6F03312D0828045faC1a8d6F0bF6E5C97c) |
+| `AVAX - OH`       | `Trader Joe` | [0xE6AEd4920517eBd338aCba2fCb15c4FEF2B04032](https://snowtrace.io/address/0xE6AEd4920517eBd338aCba2fCb15c4FEF2B04032) |
+| `AVAX - APEX`     | `Trader Joe` | [0x5c57cDc3FE879411df390AaC56AE853aE0EBe131](https://snowtrace.io/address/0x5c57cDc3FE879411df390AaC56AE853aE0EBe131) |
+| `AVAX - mYAK`     | `Trader Joe` | [0xbBA0f8A3Aa16657D1df2A6E87A73ee74Fec42711](https://snowtrace.io/address/0xbBA0f8A3Aa16657D1df2A6E87A73ee74Fec42711) |
+| `AVAX - mYAK`     | `Trader Joe` | [0xb81159B533F517f0E36978b7b8e9E8409fb9C169](https://snowtrace.io/address/0xb81159B533F517f0E36978b7b8e9E8409fb9C169) |
+| `AVAX - SYN`      | `Trader Joe` | [0x810CF29576E61695BA7Fe1e4D493663185691854](https://snowtrace.io/address/0x810CF29576E61695BA7Fe1e4D493663185691854) |
+| `AVAX - BIFI`     | `Trader Joe` | [0xb58fA0e89b5a32E3bEeCf6B16704cabF8471F0E1](https://snowtrace.io/address/0xb58fA0e89b5a32E3bEeCf6B16704cabF8471F0E1) |
+| `JOE - PNG`       | `Trader Joe` | [0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47](https://snowtrace.io/address/0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47) |
+| `JOE - DAI`       | `Trader Joe` | [0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2](https://snowtrace.io/address/0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2) |
+| `DAI.e - USDC.e`  | `Trader Joe` | [0x6C915564607d62B007D203c04473152bc090EE93](https://snowtrace.io/address/0x6C915564607d62B007D203c04473152bc090EE93) |
+| `USDT.e - DAI.e`  | `Trader Joe` | [0xfe19f34873fC2C7ddcB8e392791b97526B4d22e0](https://snowtrace.io/address/0xfe19f34873fC2C7ddcB8e392791b97526B4d22e0) |
+| `USDT.e - USDC.e` | `Trader Joe` | [0xd596136ee746BaeE7ac159B3c21E71b3aeb81A68](https://snowtrace.io/address/0xd596136ee746BaeE7ac159B3c21E71b3aeb81A68) |
+| `xJOE`            | `Banker Joe` | [0x6a52e6b23700A63eA4a0Db313eBD386Fb510eE3C](https://snowtrace.io/address/0x6a52e6b23700A63eA4a0Db313eBD386Fb510eE3C) |
 | `AVAX - ETH`      | `Pangolin`   | [0x586554828eE99811A8ef75029351179949762c26](https://snowtrace.io/address/0x586554828eE99811A8ef75029351179949762c26) |
 | `AVAX - LINK`     | `Pangolin`   | [0x00933c16e06b1d15958317C2793BC54394Ae356C](https://snowtrace.io/address/0x00933c16e06b1d15958317C2793BC54394Ae356C) |
 | `AVAX - SUSHI`    | `Pangolin`   | [0x751089F1bf31B13Fa0F0537ae78108088a2253BF](https://snowtrace.io/address/0x751089F1bf31B13Fa0F0537ae78108088a2253BF) |
@@ -95,27 +119,6 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `PNG - AAVE.e`    | `Pangolin`   | [0x9397A0257631955DBee5404506B363ab276D2315](https://snowtrace.io/address/0x9397A0257631955DBee5404506B363ab276D2315) |
 | `PNG - SHERPA`    | `Pangolin`   | [0x8406aAF035c2c50239b32D1cb4583916c1F1c094](https://snowtrace.io/address/0x8406aAF035c2c50239b32D1cb4583916c1F1c094) |
 | `PNG - ELE`       | `Pangolin`   | [0x1812f42de15EA7da3901ce34237Ee8CA5F01857a](https://snowtrace.io/address/0x1812f42de15EA7da3901ce34237Ee8CA5F01857a) |
-| `AVAX - ETH`      | `Trader Joe` | [0xAbD637a6881a2D4bbf279aE484c2447c070f7C73](https://snowtrace.io/address/0xf41f4B7E40baAc51Ba4507cd471dC092670BB839) |
-| `AVAX - USDT`     | `Trader Joe` | [0xB305856C54efC004955BC51e3D20ceF566C11eEE](https://snowtrace.io/address/0xB305856C54efC004955BC51e3D20ceF566C11eEE) |
-| `AVAX - DAI`      | `Trader Joe` | [0xAD050d11521dd1dD2Cc136A9e979BAA8F6Fab69a](https://snowtrace.io/address/0xAD050d11521dd1dD2Cc136A9e979BAA8F6Fab69a) |
-| `AVAX - LINK`     | `Trader Joe` | [0x4bD6D4fE5E3bBaa0FfB075EE9F0980FbcC6c0192](https://snowtrace.io/address/0x4bD6D4fE5E3bBaa0FfB075EE9F0980FbcC6c0192) |
-| `AVAX - wBTC`     | `Trader Joe` | [0x86b109380aB2c34B740848b06Bee62C882F01df5](https://snowtrace.io/address/0x86b109380aB2c34B740848b06Bee62C882F01df5) |
-| `AVAX - SPORE`    | `Trader Joe` | [0x2f17BAC3E0339C1BFB6E0DD380d65bd2Fc665C75](https://snowtrace.io/address/0x2f17BAC3E0339C1BFB6E0DD380d65bd2Fc665C75) |
-| `AVAX - MAI`      | `Trader Joe` | [0x29BF8c19e044732b110faA1Ff0Cc59CA35c13f17](https://snowtrace.io/address/0x29BF8c19e044732b110faA1Ff0Cc59CA35c13f17) |
-| `AVAX - TSD`      | `Trader Joe` | [0xcEBFFa4C80291e80EA0684E4C8884124d6a81197](https://snowtrace.io/address/0xcEBFFa4C80291e80EA0684E4C8884124d6a81197) |
-| `AVAX - TEDDY`    | `Trader Joe` | [0xb357bA896818ccCd020fb3781a443E3d3f93beFf](https://snowtrace.io/address/0xb357bA896818ccCd020fb3781a443E3d3f93beFf) |
-| `AVAX - PNG`      | `Trader Joe` | [0x962ECf51A169090002CC88B4Bf16e447d2E13100](https://snowtrace.io/address/0x962ECf51A169090002CC88B4Bf16e447d2E13100) |
-| `AVAX - ELK`      | `Trader Joe` | [0x6440365E1c9282F50477b1F00289b3A7218E47Ef](https://snowtrace.io/address/0x6440365E1c9282F50477b1F00289b3A7218E47Ef) |
-| `AVAX - TRACTOR`  | `Trader Joe` | [0xBfB27f6F03312D0828045faC1a8d6F0bF6E5C97c](https://snowtrace.io/address/0xBfB27f6F03312D0828045faC1a8d6F0bF6E5C97c) |
-| `AVAX - OH`       | `Trader Joe` | [0xE6AEd4920517eBd338aCba2fCb15c4FEF2B04032](https://snowtrace.io/address/0xE6AEd4920517eBd338aCba2fCb15c4FEF2B04032) |
-| `AVAX - APEX`     | `Trader Joe` | [0x5c57cDc3FE879411df390AaC56AE853aE0EBe131](https://snowtrace.io/address/0x5c57cDc3FE879411df390AaC56AE853aE0EBe131) |
-| `AVAX - mYAK`     | `Trader Joe` | [0xbBA0f8A3Aa16657D1df2A6E87A73ee74Fec42711](https://snowtrace.io/address/0xbBA0f8A3Aa16657D1df2A6E87A73ee74Fec42711) |
-| `AVAX - mYAK`     | `Trader Joe` | [0xb81159B533F517f0E36978b7b8e9E8409fb9C169](https://snowtrace.io/address/0xb81159B533F517f0E36978b7b8e9E8409fb9C169) |
-| `JOE - PNG`       | `Trader Joe` | [0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47](https://snowtrace.io/address/0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47) |
-| `JOE - DAI`       | `Trader Joe` | [0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2](https://snowtrace.io/address/0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2) |
-| `DAI.e - USDC.e`  | `Trader Joe` | [0x6C915564607d62B007D203c04473152bc090EE93](https://snowtrace.io/address/0x6C915564607d62B007D203c04473152bc090EE93) |
-| `USDT.e - DAI.e`  | `Trader Joe` | [0xfe19f34873fC2C7ddcB8e392791b97526B4d22e0](https://snowtrace.io/address/0xfe19f34873fC2C7ddcB8e392791b97526B4d22e0) |
-| `USDT.e - USDC.e` | `Trader Joe` | [0xd596136ee746BaeE7ac159B3c21E71b3aeb81A68](https://snowtrace.io/address/0xd596136ee746BaeE7ac159B3c21E71b3aeb81A68) |
 | `WAVAX`           | `BenQi`      | [0x7b74324f523831687fC8FCE946F15a3AA632dC06](https://snowtrace.io/address/0x7b74324f523831687fC8FCE946F15a3AA632dC06) |
 | `QI`              | `BenQi`      | [0x68b8037876385BBd6bBe80bAbB2511b95DA372C4](https://snowtrace.io/address/0x68b8037876385BBd6bBe80bAbB2511b95DA372C4) |
 
@@ -123,6 +126,37 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 
 | Pair              | Platform     | Address                                                                                                               |
 | ----------------- | ------------ | --------------------------------------------------------------------------------------------------------------------- |
+| `AVAX - ETH`      | `Trader Joe` | [0xa634ec1bada2fac4eaa71439b0b18dd3486823e6](https://snowtrace.io/address/0xA634ec1BaDa2faC4eaa71439b0b18Dd3486823e6) |
+| `AVAX - USDT`     | `Trader Joe` | [0x5e8fe0f937c4b842b4c48542fbb33e4830a14048](https://snowtrace.io/address/0x5E8FE0F937C4b842B4C48542fBB33e4830a14048) |
+| `AVAX - DAI`      | `Trader Joe` | [0x72473eb3f0e26c0dcf8332b5af129fa4f62c1046](https://snowtrace.io/address/0x72473EB3F0E26c0dCf8332b5af129fa4F62c1046) |
+| `AVAX - LINK`     | `Trader Joe` | [0xb1755d58c6519a7ccb52206b4dfe64fe591574e6](https://snowtrace.io/address/0xb1755D58c6519a7CCB52206B4DFE64fe591574e6) |
+| `AVAX - wBTC`     | `Trader Joe` | [0x67160690c546925e03fe4191bc28cd70b459cc82](https://snowtrace.io/address/0x67160690c546925e03fE4191BC28Cd70B459cC82) |
+| `AVAX - SPORE`    | `Trader Joe` | [0x76ac2c3d79ee189487b3eaf7cb4299e413af3e66](https://snowtrace.io/address/0x76aC2c3D79eE189487b3Eaf7Cb4299E413aF3e66) |
+| `AVAX - MAI`      | `Trader Joe` | [0x298127A0F46A0538bFf45d0be1b6030c8662C4DB](https://snowtrace.io/address/0x298127A0F46A0538bFf45d0be1b6030c8662C4DB) |
+| `AVAX - TSD`      | `Trader Joe` | [0x0e1c4755c23387D0082427DE902B02DA7Dcb1dC7](https://snowtrace.io/address/0x0e1c4755c23387D0082427DE902B02DA7Dcb1dC7) |
+| `AVAX - TEDDY`    | `Trader Joe` | [0xe820acC10C6208769a78887fa6D5631e67b54057](https://snowtrace.io/address/0xe820acC10C6208769a78887fa6D5631e67b54057) |
+| `AVAX - PNG`      | `Trader Joe` | [0x7ce21da8bdec164610a4e8252ac3cd9d60903474](https://snowtrace.io/address/0x7cE21dA8BdEC164610a4e8252AC3Cd9D60903474) |
+| `AVAX - ELK`      | `Trader Joe` | [0xc1f70c937ea06b862457ab2ce2d0913dffd4ae0a](https://snowtrace.io/address/0xc1f70C937eA06B862457AB2CE2d0913DFFD4aE0A) |
+| `AVAX - TRACTOR`  | `Trader Joe` | [0x0260d6F8B4F1832c0819466e0E672862c583c4Fd](https://snowtrace.io/address/0x0260d6F8B4F1832c0819466e0E672862c583c4Fd) |
+| `AVAX - OH`       | `Trader Joe` | [0x81eFD4f7c7cccDbb50E2DB09c11130804d781DbA](https://snowtrace.io/address/0x81eFD4f7c7cccDbb50E2DB09c11130804d781DbA) |
+| `AVAX - APEX`     | `Trader Joe` | [0x781e84eF95899417CDd2aD6BB8a7ab30cc51BE36](https://snowtrace.io/address/0x781e84eF95899417CDd2aD6BB8a7ab30cc51BE36) |
+| `AVAX - MIM`      | `Trader Joe` | [0x8555681BA3f8a53b2FE3f2BA8F0Bd45D7b0be35B](https://snowtrace.io/address/0x8555681BA3f8a53b2FE3f2BA8F0Bd45D7b0be35B) |
+| `AVAX - TIME`     | `Trader Joe` | [0xc99dc5Fc08e77e6b4903fdcF135A6919890476D5](https://snowtrace.io/address/0xc99dc5Fc08e77e6b4903fdcF135A6919890476D5) |
+| `AVAX - TIME`     | `Trader Joe` | [0x3af37b647a08d443ef08aff8cddeae33bba56779](https://snowtrace.io/address/0x3af37b647a08d443ef08aff8cddeae33bba56779) |
+| `AVAX - FRAX `    | `Trader Joe` | [0xAF72B2f70e2b572094A55566900BC6775b78F018](https://snowtrace.io/address/0xAF72B2f70e2b572094A55566900BC6775b78F018) |
+| `AVAX - SYN`      | `Trader Joe` | [0x83C06140FE1769405CC98f81A75fe6E177B4B333](https://snowtrace.io/address/0x83C06140FE1769405CC98f81A75fe6E177B4B333) |
+| `AVAX - ELE`      | `Trader Joe` | [0x34a7D5c000fC8f668C5e3cfeCb7bCb0Cc74aCD5A](https://snowtrace.io/address/0x34a7D5c000fC8f668C5e3cfeCb7bCb0Cc74aCD5A) |
+| `AVAX - WET`      | `Trader Joe` | [0x063da670647fcE8aF1c2fDe692a414e2f956db88](https://snowtrace.io/address/0x063da670647fcE8aF1c2fDe692a414e2f956db88) |
+| `AVAX - mYAK`     | `Trader Joe` | [0x3dE0328e26D66163B72f0497a0b65e8A7cD3ea46](https://snowtrace.io/address/0x3dE0328e26D66163B72f0497a0b65e8A7cD3ea46) |
+| `AVAX - mYAK`     | `Trader Joe` | [0xBdcAeC02E470C23DCd60F0972Ca8dD238E5382ca](https://snowtrace.io/address/0xBdcAeC02E470C23DCd60F0972Ca8dD238E5382ca) |
+| `AVAX - SYN`      | `Trader Joe` | [0x926333ee90C2E6b9d56645866F855B19ff4f258e](https://snowtrace.io/address/0x926333ee90C2E6b9d56645866F855B19ff4f258e) |
+| `AVAX - BIFI`     | `Trader Joe` | [0x75d429de70Ff78B817dfF6B7Ce8C99Fd766A3782](https://snowtrace.io/address/0x75d429de70Ff78B817dfF6B7Ce8C99Fd766A3782) |
+| `JOE - PNG`       | `Trader Joe` | [0xcacf38d95bc613cb3f5f2306b6fbed2472fd5ae6](https://snowtrace.io/address/0xcAcF38D95Bc613cb3F5f2306b6fBed2472FD5ae6) |
+| `JOE - DAI`       | `Trader Joe` | [0xff49e162e6bc10cdf12a8c35f162b79ab3d34bea](https://snowtrace.io/address/0xfF49E162E6bc10CDF12A8c35f162B79ab3d34BEA) |
+| `DAI.e - USDC.e`  | `Trader Joe` | [0x32553a13b6d3521845861ff1aff6f511b109374b](https://snowtrace.io/address/0x32553a13B6d3521845861Ff1AFF6F511B109374b) |
+| `USDT.e - DAI.e`  | `Trader Joe` | [0x1369e19dbd4825616df7ade73ea92aa7504d851e](https://snowtrace.io/address/0x1369e19DBd4825616Df7ADE73EA92aA7504d851E) |
+| `USDT.e - USDC.e` | `Trader Joe` | [0x29CD11ddC2C42c726F1C1EDD2cF1c15d16412E0f](https://snowtrace.io/address/0x29CD11ddC2C42c726F1C1EDD2cF1c15d16412E0f) |
+| `xJOE`            | `Banker Joe` | [0xB347a857F20857c954b7aF52D9A306dF2F9EC89f](https://snowtrace.io/address/0xB347a857F20857c954b7aF52D9A306dF2F9EC89f) |
 | `AVAX - ETH`      | `Pangolin`   | [0x6bb9d2420217e0c3f272f47c58942e89e23806c9](https://snowtrace.io/address/0x6bb9D2420217e0C3f272f47C58942e89e23806c9) |
 | `AVAX - LINK`     | `Pangolin`   | [0x7e68717f6228764bc1fc7a970dd5a041837c370c](https://snowtrace.io/address/0x7E68717f6228764Bc1fC7a970dD5A041837C370c) |
 | `AVAX - SUSHI`    | `Pangolin`   | [0x38a9635c0a1b62a7d8bc608a3ad5d84b300831ae](https://snowtrace.io/address/0x38a9635C0a1b62A7D8bc608a3Ad5D84b300831aE) |
@@ -212,34 +246,6 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `PNG - AAVE.e`    | `Pangolin`   | [0xfd72d186ba9ac0f5f79f4370ba584b8bda2ae4dd](https://snowtrace.io/address/0xfd72D186ba9ac0f5f79f4370ba584B8Bda2ae4dd) |
 | `PNG - SHERPA`    | `Pangolin`   | [0xe52fd0cbc3e84520c39a383ee6df3c1a1776d5d8](https://snowtrace.io/address/0xe52fd0Cbc3e84520c39A383ee6Df3C1a1776d5D8) |
 | `PNG - ELE`       | `Pangolin`   | [0x15a6d23d2bf3a2aca33aadc2e1f597929d6d61c8](https://snowtrace.io/address/0x15A6D23d2bF3A2AcA33aadc2E1f597929D6d61C8) |
-| `AVAX - ETH`      | `Trader Joe` | [0xa634ec1bada2fac4eaa71439b0b18dd3486823e6](https://snowtrace.io/address/0xA634ec1BaDa2faC4eaa71439b0b18Dd3486823e6) |
-| `AVAX - USDT`     | `Trader Joe` | [0x5e8fe0f937c4b842b4c48542fbb33e4830a14048](https://snowtrace.io/address/0x5E8FE0F937C4b842B4C48542fBB33e4830a14048) |
-| `AVAX - DAI`      | `Trader Joe` | [0x72473eb3f0e26c0dcf8332b5af129fa4f62c1046](https://snowtrace.io/address/0x72473EB3F0E26c0dCf8332b5af129fa4F62c1046) |
-| `AVAX - LINK`     | `Trader Joe` | [0xb1755d58c6519a7ccb52206b4dfe64fe591574e6](https://snowtrace.io/address/0xb1755D58c6519a7CCB52206B4DFE64fe591574e6) |
-| `AVAX - wBTC`     | `Trader Joe` | [0x67160690c546925e03fe4191bc28cd70b459cc82](https://snowtrace.io/address/0x67160690c546925e03fE4191BC28Cd70B459cC82) |
-| `AVAX - SPORE`    | `Trader Joe` | [0x76ac2c3d79ee189487b3eaf7cb4299e413af3e66](https://snowtrace.io/address/0x76aC2c3D79eE189487b3Eaf7Cb4299E413aF3e66) |
-| `AVAX - MAI`      | `Trader Joe` | [0x298127A0F46A0538bFf45d0be1b6030c8662C4DB](https://snowtrace.io/address/0x298127A0F46A0538bFf45d0be1b6030c8662C4DB) |
-| `AVAX - TSD`      | `Trader Joe` | [0x0e1c4755c23387D0082427DE902B02DA7Dcb1dC7](https://snowtrace.io/address/0x0e1c4755c23387D0082427DE902B02DA7Dcb1dC7) |
-| `AVAX - TEDDY`    | `Trader Joe` | [0xe820acC10C6208769a78887fa6D5631e67b54057](https://snowtrace.io/address/0xe820acC10C6208769a78887fa6D5631e67b54057) |
-| `AVAX - PNG`      | `Trader Joe` | [0x7ce21da8bdec164610a4e8252ac3cd9d60903474](https://snowtrace.io/address/0x7cE21dA8BdEC164610a4e8252AC3Cd9D60903474) |
-| `AVAX - ELK`      | `Trader Joe` | [0xc1f70c937ea06b862457ab2ce2d0913dffd4ae0a](https://snowtrace.io/address/0xc1f70C937eA06B862457AB2CE2d0913DFFD4aE0A) |
-| `AVAX - TRACTOR`  | `Trader Joe` | [0x0260d6F8B4F1832c0819466e0E672862c583c4Fd](https://snowtrace.io/address/0x0260d6F8B4F1832c0819466e0E672862c583c4Fd) |
-| `AVAX - OH`       | `Trader Joe` | [0x81eFD4f7c7cccDbb50E2DB09c11130804d781DbA](https://snowtrace.io/address/0x81eFD4f7c7cccDbb50E2DB09c11130804d781DbA) |
-| `AVAX - APEX`     | `Trader Joe` | [0x781e84eF95899417CDd2aD6BB8a7ab30cc51BE36](https://snowtrace.io/address/0x781e84eF95899417CDd2aD6BB8a7ab30cc51BE36) |
-| `AVAX - MIM`      | `Trader Joe` | [0x8555681BA3f8a53b2FE3f2BA8F0Bd45D7b0be35B](https://snowtrace.io/address/0x8555681BA3f8a53b2FE3f2BA8F0Bd45D7b0be35B) |
-| `AVAX - TIME`     | `Trader Joe` | [0xc99dc5Fc08e77e6b4903fdcF135A6919890476D5](https://snowtrace.io/address/0xc99dc5Fc08e77e6b4903fdcF135A6919890476D5) |
-| `AVAX - TIME`     | `Trader Joe` | [0x3af37b647a08d443ef08aff8cddeae33bba56779](https://snowtrace.io/address/0x3af37b647a08d443ef08aff8cddeae33bba56779) |
-| `AVAX - FRAX `    | `Trader Joe` | [0xAF72B2f70e2b572094A55566900BC6775b78F018](https://snowtrace.io/address/0xAF72B2f70e2b572094A55566900BC6775b78F018) |
-| `AVAX - SYN`      | `Trader Joe` | [0x83C06140FE1769405CC98f81A75fe6E177B4B333](https://snowtrace.io/address/0x83C06140FE1769405CC98f81A75fe6E177B4B333) |
-| `AVAX - ELE`      | `Trader Joe` | [0x34a7D5c000fC8f668C5e3cfeCb7bCb0Cc74aCD5A](https://snowtrace.io/address/0x34a7D5c000fC8f668C5e3cfeCb7bCb0Cc74aCD5A) |
-| `AVAX - WET`      | `Trader Joe` | [0x063da670647fcE8aF1c2fDe692a414e2f956db88](https://snowtrace.io/address/0x063da670647fcE8aF1c2fDe692a414e2f956db88) |
-| `AVAX - mYAK`     | `Trader Joe` | [0x3dE0328e26D66163B72f0497a0b65e8A7cD3ea46](https://snowtrace.io/address/0x3dE0328e26D66163B72f0497a0b65e8A7cD3ea46) |
-| `AVAX - mYAK`     | `Trader Joe` | [0xBdcAeC02E470C23DCd60F0972Ca8dD238E5382ca](https://snowtrace.io/address/0xBdcAeC02E470C23DCd60F0972Ca8dD238E5382ca) |
-| `JOE - PNG`       | `Trader Joe` | [0xcacf38d95bc613cb3f5f2306b6fbed2472fd5ae6](https://snowtrace.io/address/0xcAcF38D95Bc613cb3F5f2306b6fBed2472FD5ae6) |
-| `JOE - DAI`       | `Trader Joe` | [0xff49e162e6bc10cdf12a8c35f162b79ab3d34bea](https://snowtrace.io/address/0xfF49E162E6bc10CDF12A8c35f162B79ab3d34BEA) |
-| `DAI.e - USDC.e`  | `Trader Joe` | [0x32553a13b6d3521845861ff1aff6f511b109374b](https://snowtrace.io/address/0x32553a13B6d3521845861Ff1AFF6F511B109374b) |
-| `USDT.e - DAI.e`  | `Trader Joe` | [0x1369e19dbd4825616df7ade73ea92aa7504d851e](https://snowtrace.io/address/0x1369e19DBd4825616Df7ADE73EA92aA7504d851E) |
-| `USDT.e - USDC.e` | `Trader Joe` | [0x29CD11ddC2C42c726F1C1EDD2cF1c15d16412E0f](https://snowtrace.io/address/0x29CD11ddC2C42c726F1C1EDD2cF1c15d16412E0f) |
 | `WAVAX`           | `BenQi`      | [0xaBe28c3B53E8200C87aDb2b790d3594C3fcEf16d](https://snowtrace.io/address/0xaBe28c3B53E8200C87aDb2b790d3594C3fcEf16d) |
 | `QI`              | `BenQi`      | [0x0Ec726BF3FF6CBf58c9f300d86F5fAd149a52039](https://snowtrace.io/address/0x0Ec726BF3FF6CBf58c9f300d86F5fAd149a52039) |
 
