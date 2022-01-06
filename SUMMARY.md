@@ -75,14 +75,7 @@
 ## 💻 Smart Contracts
 
 * [Snowball Contracts](smart-contracts/snowball-contracts.md)
-* [Compounding Contracts](smart-contracts/compounding-contracts/README.md)
-  * [Pangolin Contracts](smart-contracts/compounding-contracts/pangolin-contracts.md)
-  * [Trader Joe Contracts](smart-contracts/compounding-contracts/trader-joe-contracts.md)
-  * [Banker Joe Contracts](smart-contracts/compounding-contracts/banker-joe-contracts.md)
-  * [Benqi Contracts](smart-contracts/compounding-contracts/benqi-contracts.md)
-  * [Aave Contracts](smart-contracts/compounding-contracts/aave-contracts.md)
-  * [Teddy Contracts](smart-contracts/compounding-contracts/teddy-contracts.md)
-  * [Axial Contracts](smart-contracts/compounding-contracts/axial-contracts.md)
+* [Compounding Contracts](smart-contracts/compounding-contracts.md)
 * [StableVault Contracts](smart-contracts/stablevault-contracts.md)
 * [Deprecated Contracts](smart-contracts/deprecated-contracts.md)
 * [NFT Contracts](smart-contracts/nft-contracts.md)

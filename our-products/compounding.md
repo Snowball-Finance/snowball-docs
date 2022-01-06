@@ -62,8 +62,8 @@ Staking strategies are simple, yet very effective. Examples of these are PNG sta
 [compounding-faq.md](../faq/compounding-faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="../smart-contracts/compounding-contracts/" %}
-[compounding-contracts](../smart-contracts/compounding-contracts/)
+{% content-ref url="../smart-contracts/compounding-contracts.md" %}
+[compounding-contracts.md](../smart-contracts/compounding-contracts.md)
 {% endcontent-ref %}
 
 {% content-ref url="../resources/harvest-stats.md" %}
