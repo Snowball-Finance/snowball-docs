@@ -34,6 +34,10 @@ Welcome to SDU's 2nd Year Courses! Here are the courses available to you, in eac
 [ex-271-nfts.md](ex-271-nfts.md)
 {% endcontent-ref %}
 
+{% content-ref url="ex-272-the-metaverse.md" %}
+[ex-272-the-metaverse.md](ex-272-the-metaverse.md)
+{% endcontent-ref %}
+
 {% content-ref url="ex-281-defi-composability.md" %}
 [ex-281-defi-composability.md](ex-281-defi-composability.md)
 {% endcontent-ref %}

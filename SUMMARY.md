@@ -46,6 +46,7 @@
   * [GV 242 - Voting Mechanisms](defi-university/2nd-year-courses/gv-242-voting-mechanisms.md)
   * [YF 261 - Auto-Compounding](defi-university/2nd-year-courses/yf-261-auto-compounding.md)
   * [EX 271 - NFTs](defi-university/2nd-year-courses/ex-271-nfts.md)
+  * [EX 272 - The Metaverse](defi-university/2nd-year-courses/ex-272-the-metaverse.md)
   * [EX 281 - DeFi Composability](defi-university/2nd-year-courses/ex-281-defi-composability.md)
 * [3rd Year Courses](defi-university/3rd-year-courses/README.md)
   * [YF 312 - Folding](defi-university/3rd-year-courses/yf-312-folding.md)
