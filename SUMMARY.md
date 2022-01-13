@@ -65,7 +65,6 @@
   * [Setting Up MetaMask](resources/guides/setting-up-metamask.md)
   * [Depositing into Compounding Strategies from Trader Joe](resources/guides/compounding-guide-trader-joe.md)
   * [Depositing into Compounding Strategies from Pangolin](resources/guides/compounding-guide-pangolin.md)
-  * [Depositing into StableVault](resources/guides/depositing-into-stablevault.md)
   * [Staking SNOB for xSNOB](resources/guides/staking-snob-for-xsnob.md)
   * [Unstaking SNOB](resources/guides/unstaking-snob.md)
   * [Voting on Gauges with xSNOB](resources/guides/voting-on-gauges-with-xsnob.md)
@@ -77,14 +76,12 @@
 
 * [Snowball Contracts](smart-contracts/snowball-contracts.md)
 * [Compounding Contracts](smart-contracts/compounding-contracts.md)
-* [StableVault Contracts](smart-contracts/stablevault-contracts.md)
 * [Deprecated Contracts](smart-contracts/deprecated-contracts.md)
 * [NFT Contracts](smart-contracts/nft-contracts.md)
 * [Audits & Timelocks](smart-contracts/audits.md)
 * [Multisigs](smart-contracts/multisigs.md)
 * [Integrations](smart-contracts/integrations/README.md)
   * [Compounding Pools](smart-contracts/integrations/compounding-pools.md)
-  * [StableVault Pool](smart-contracts/integrations/stablevault-pool.md)
 
 ## 🔗 Links
 

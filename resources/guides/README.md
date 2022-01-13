@@ -14,10 +14,6 @@ Our guides will provide you step-by-step instructions to interact with our vario
 [compounding-guide-pangolin.md](compounding-guide-pangolin.md)
 {% endcontent-ref %}
 
-{% content-ref url="depositing-into-stablevault.md" %}
-[depositing-into-stablevault.md](depositing-into-stablevault.md)
-{% endcontent-ref %}
-
 {% content-ref url="staking-snob-for-xsnob.md" %}
 [staking-snob-for-xsnob.md](staking-snob-for-xsnob.md)
 {% endcontent-ref %}
