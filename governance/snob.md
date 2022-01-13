@@ -61,6 +61,10 @@ SNOB can also be purchased on exchanges. [**Pangolin**](https://info.pangolin.ex
 [general-faq.md](../faq/general-faq.md)
 {% endcontent-ref %}
 
+{% content-ref url="xsnob/" %}
+[xsnob](xsnob/)
+{% endcontent-ref %}
+
 {% content-ref url="../smart-contracts/snowball-contracts.md" %}
 [snowball-contracts.md](../smart-contracts/snowball-contracts.md)
 {% endcontent-ref %}

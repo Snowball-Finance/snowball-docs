@@ -14,6 +14,6 @@ Snowball takes a 10% performance fee on pool reward profits for providing the au
 
 ### Who is behind Snowball?
 
-Snowball was launched pseudonymously by [**@AbominableSas**](https://twitter.com/AbominableSas), [**@big\_wampa**](https://twitter.com/big\_wampa), and [**@8\_bitgiraffe**](https://twitter.com/8bitgiraffe\_). However, Snowball quickly transitioned into a community-driven project. Anyone who wants to see Snowball succeed can participate in its development and improvement by volunteering their time and work to the project.
+Snowball was launched pseudonymously by [**@AbominableSas**](https://twitter.com/AbominableSas), [**@big\_wampa**](https://twitter.com/big\_wampa), and [**@8\_bitgiraffe**](https://twitter.com/8bitgiraffe\_). However, Snowball quickly transitioned into a community-driven project. Anyone who wants to see Snowball succeed can participate in its development and improvement by volunteering their time and work to the project and be compensated for doing so.
 
 We chose a pseudonymous launch for two main reasons; First, personal information is an excellent attack vector for hackers to try and phish for passwords, keys, etc. Second, we believe in promoting a decentralized, permission-less, and international community. Remaining anonymous allows people to participate regardless of status, nationality, background, or income.
