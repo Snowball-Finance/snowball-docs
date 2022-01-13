@@ -22,7 +22,7 @@
 * [x] **Governance V2** - We revamped our [**governance mechanisms**](https://app.snowball.network/governance) for better functionality and increased security.
 * [x] **Website Redesign** - We redesigned our [**website**](https://app.snowball.network) in order to greatly improve user experience.
 * [x] **New Auto-Compounding Strategies** - Now at 111 auto-compounding strategies in total; we've continued to expand our offerings as the Avalanche ecosystem grows.
-* [x] **s4D StableVault** - We deprecated the old StableVaults in order to launch [**s4D**](https://app.snowball.network/s4d-vault), a stable asset pool with DAI.e, FRAX, TUSD and USDT.e.
+* [x] **s4D StableVault** - We deprecated the old StableVaults in order to launch a stable asset pool with DAI.e, FRAX, TUSD and USDT.e.
 * [x] **Partnerships** - We partnered with [**Sherpa Cash**](https://sherpa.cash) in order to launch their new token through an IDO.
 * [x] **Team Expansion** - We have brought on new developers, designers and other team members and nearly tripled the size of [**our team**](our-team.md)!
 

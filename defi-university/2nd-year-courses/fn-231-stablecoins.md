@@ -54,4 +54,4 @@ These stablecoins are tokens with a supply controlled entirely through a smart c
 
 ## Closing Thoughts
 
-Utilizing stablecoins can greatly benefit DeFi users through great liquidity in DEXs and limiting exposure to crypto's volatility when desired. Products such as Snowball's StableVault can also provide a much better place to store your dollars compared to the minuscule interest rates offered by most banks worldwide. Knowing the risks of holding stablecoins though is always important, especially with the recent moves by the US government to investigate and ultimately regulate some fiat-backed stablecoins.
+Utilizing stablecoins can greatly benefit DeFi users through great liquidity in DEXs and limiting exposure to crypto's volatility when desired. Products such as Axial's stablecoin liquidity pools can also provide a much better place to store your dollars compared to the minuscule interest rates offered by most banks worldwide. Knowing the risks of holding stablecoins though is always important, especially with the recent moves by the US government to investigate and ultimately regulate some fiat-backed stablecoins.
