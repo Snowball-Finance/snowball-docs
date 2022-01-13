@@ -1,6 +1,6 @@
 # Compounding
 
-Snowball's compounding products allow you to automatically compound the rewards you receive from other DeFi projects. Essentially, you earn more rewards than you would otherwise because you’re constantly reinvesting your rewards.
+Snowball's compounding product allow you to automatically compound the rewards you receive from other DeFi projects. Essentially, you earn more rewards than you would otherwise because you’re constantly reinvesting your rewards.
 
 {% hint style="info" %}
 Looking for a quick answer to a simple question? Check out our [**Compounding FAQ**](../faq/compounding-faq.md).

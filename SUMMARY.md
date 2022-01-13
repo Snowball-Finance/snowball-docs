@@ -4,12 +4,6 @@
 
 * [Introduction](README.md)
 
-## 📈 Our Products
-
-* [Compounding](our-products/compounding.md)
-* [StableVault](our-products/stablevault.md)
-* [NFT Marketplace](our-products/nft-marketplace.md)
-
 ## 🗳 Governance
 
 * [SNOB](governance/snob.md)
@@ -19,11 +13,17 @@
   * [Revenue Sharing](governance/xsnob/revenue-sharing.md)
 * [Community Proposals](governance/community-proposals.md)
 
+## 📈 Our Products
+
+* [Compounding](our-products/compounding.md)
+* [Axial](our-products/axial.md)
+* [Lava](our-products/lava.md)
+* [NFT Marketplace](our-products/nft-marketplace.md)
+
 ## ❓ FAQ
 
 * [General FAQ](faq/general-faq.md)
 * [Compounding FAQ](faq/compounding-faq.md)
-* [StableVault FAQ](faq/stablevault-faq.md)
 * [xSNOB FAQ](faq/xsnob-faq.md)
 
 ## 🎓 DeFi University
