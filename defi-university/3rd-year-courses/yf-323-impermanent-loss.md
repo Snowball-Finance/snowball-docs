@@ -56,7 +56,7 @@ The more volatility each asset has in comparison to the other asset(s) in the po
 
 ![](../../.gitbook/assets/IL3.png)
 
-Knowing this can lead to some possible solutions to mitigate such exposure. For example, since impermanent loss derives from the volatility of an asset, couldn't you just provide liquidity to a pool with non-volatile assets? Well, yes, you could. **A liquidity pool consisting of stablecoins, for example, would only be susceptible to a negligible amount of impermanent loss.** An example of this kind of pool is Snowball's very own StableVault pool. Since it is comprised of only stablecoins, unless one of them lost its peg and increased or decreased drastically in price, the chance of any impermanent loss is extremely low.
+Knowing this can lead to some possible solutions to mitigate such exposure. For example, since impermanent loss derives from the volatility of an asset, couldn't you just provide liquidity to a pool with non-volatile assets? Well, yes, you could. **A liquidity pool consisting of stablecoins, for example, would only be susceptible to a negligible amount of impermanent loss.** Example of this kind of pool could be Axial's stablecoin pools. Since they are comprised solely of stablecoins, unless one of them lost its peg, the chance of any impermanent loss is extremely low.
 
 While relying solely on stablecoins can be very safe, it does severely limit the number of options you have when choosing which tokens you would like to hold and invest. Especially since many might want to hold tokens that might have a lot of upside potential, for countless reasons. In that case, there is another way of mitigating your exposure to impermanent loss while providing liquidity.
 
