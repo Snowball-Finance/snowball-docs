@@ -38,7 +38,7 @@ Although these are the main points to cover, there are many aspects of decentral
 
 ## What's Being Built
 
-Most of the "metaverses" built so far as geared towards gaming. Even still, the underlying metaverse concepts are there - fully decentralized, identities via NFTs, interacting with other users on-chain, transacting assets, etc.
+Most of the "metaverses" built so far are geared towards gaming. Even still, the underlying metaverse concepts are there - fully decentralized, identities via NFTs, interacting with other users on-chain, transacting assets, etc.
 
 More ambitious projects however, such as [**Decentraland**](https://decentraland.org) and [**Enjin**](https://enjin.io/solutions/individuals) aim to more fully realize the potential of the metaverse, and many similar projects are being built on Avalanche. Examples of such could be [**Imperium Empires**](https://imperiumempires.com) focusing on its space theme, while [**Kalao**](ex-272-the-metaverse.md#suggested-prior-reading) focuses on digital art and creating awesome VR experiences.
 
