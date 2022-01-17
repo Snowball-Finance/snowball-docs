@@ -4,6 +4,8 @@ description: Welcome to Snowball!
 
 # Introduction
 
+![](.gitbook/assets/Banner.jfif)
+
 Snowball is a [_**Decentralized Finance (DeFi)**_](resources/defi-glossary.md#decentralized-finance-defi) protocol built on the Avalanche blockchain. It was launched in early March, 2021 and was the first auto-compounder and stable-asset exchange on the network.
 
 Since March, Snowball has grown to be one of the leading DeFi projects on Avalanche. It continues to offer and develop innovative products, while launching new DAOs integral to the DeFi ecosystem.
