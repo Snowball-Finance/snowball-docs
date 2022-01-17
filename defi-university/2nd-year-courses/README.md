@@ -8,6 +8,10 @@ Welcome to SDU's 2nd Year Courses! Here are the courses available to you, in eac
 [fn-205-bridges.md](fn-205-bridges.md)
 {% endcontent-ref %}
 
+{% content-ref url="fn-207-apps-vs-dapps.md" %}
+[fn-207-apps-vs-dapps.md](fn-207-apps-vs-dapps.md)
+{% endcontent-ref %}
+
 {% content-ref url="fn-221-dexs.md" %}
 [fn-221-dexs.md](fn-221-dexs.md)
 {% endcontent-ref %}
