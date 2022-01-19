@@ -56,6 +56,12 @@ Looking for a more in-depth explanation of folding strategies? Check out the [**
 
 Staking strategies are simple, yet very effective. Examples of these are PNG staking through Pangolin, xJOE staking through Trader Joe, or TEDDY staking through Teddy. Depositing these tokens through Snowball instead of directly through their respective platforms will have all the benefits of auto-compounding, and therefore get you more returns with even less effort required on your part.
 
+## One-Click Deposits
+
+Many of our compounding strategies allow you to deposit funds in a much simpler manner through a single token. This is sometimes referred to as zapping. For a quick overview of this process, check out our infographic below - or for a more in-depth review, read our article [**here**](https://medium.com/snowball-finance/a-look-at-snowballs-new-zapper-functionality-a7ddabae483).
+
+![](../.gitbook/assets/FG1663DXIAASXDo.png)
+
 ## Compounding Resources
 
 {% content-ref url="../faq/compounding-faq.md" %}
