@@ -65,3 +65,11 @@ Harvest may not occur in certain circumstances, such as during rapid spikes in g
 While these stats are currently not displayed on Snowball's dashboard - they will be in the near future. Until then, keeping track of how much you've deposited initially is the easiest way to calculate this. Simply subtract that amount from what you currently have on Snowball, regardless of what type of token it is.
 
 If you haven't kept track, you can check your transaction history through a [**block explorer**](https://snowtrace.io) by inputting your wallet address. Some tools are available to help in that regard, so don't hesitate to reach out to us on [**Discord**](https://discord.gg/BPnBYDSqcb) if you need help.
+
+### I've withdrawn my funds but don't see the tokens in my wallet, what happened?
+
+The most likely scenario is that you've withdrawn your LP tokens to your wallet - these are Liquidity Provider tokens from platforms such as Trader Joe or Pangolin, where you initially made your deposit. In order to convert those into your original tokens you'll have to go to their platforms and withdraw your liquidity. You should be able to see and withdraw your liquidity on the 'Pools' tab of either one.
+
+### How do Zappers work?
+
+Zappers work through automatically making most of the transactions needed for depositing into our many compounding strategies. These are the same transactions you would be making manually otherwise, but faster and more gas-efficient. All tokens received through such transactions go to your wallet or our strategy on your behalf. No protocol fee is taken for this service. Read more about this functionality in our article [**here**](https://medium.com/snowball-finance/a-look-at-snowballs-new-zapper-functionality-a7ddabae483).
