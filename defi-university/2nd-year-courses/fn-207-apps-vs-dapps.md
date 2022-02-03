@@ -1,5 +1,7 @@
 # FN 207 - Apps vs Dapps
 
+![](<../../.gitbook/assets/Apps vs Dapps.png>)
+
 Decentralized applications are the basis for the Web 3.0, but how do they differ from the traditional Web 2.0 apps? This course will answer such question, and go into the following:
 
 * Defining Dapps
