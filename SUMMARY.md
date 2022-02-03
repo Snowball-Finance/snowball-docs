@@ -19,6 +19,7 @@
 * [Axial](our-products/axial.md)
 * [Lava](our-products/lava.md)
 * [NFT Marketplace](our-products/nft-marketplace.md)
+* [Teddy](our-products/teddy.md)
 
 ## ❓ FAQ
 

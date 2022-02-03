@@ -22,6 +22,8 @@ Since March, Snowball has grown to be one of the leading DeFi projects on Avalan
 
 [**NFT Marketplace**](our-products/nft-marketplace.md) - Our very own marketplace to mint exclusive Snowball NFTs.
 
+****[**Teddy**](our-products/teddy.md) - The newest addition to the Snowball ecosystem is the borrowing platform and issuer of TSD; Avalanche's own native stablecoin.
+
 ## Official Links
 
 * [**Website**](https://app.snowball.network)
