@@ -46,7 +46,7 @@ Weekly snapshots are taken every Sunday, and this page is updated every Monday.
 {% endtab %}
 
 {% tab title="QI" %}
-![](<../.gitbook/assets/Harvest Totals By Strategy Type.png>)
+![](<../.gitbook/assets/QI Harvested.png>)
 {% endtab %}
 
 {% tab title="WAVAX" %}
