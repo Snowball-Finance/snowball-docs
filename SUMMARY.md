@@ -71,8 +71,8 @@
   * [Unstaking SNOB](resources/guides/unstaking-snob.md)
   * [Voting on Gauges with xSNOB](resources/guides/voting-on-gauges-with-xsnob.md)
   * [Manual Smart-Contract Interaction](resources/guides/manual-contract-interaction.md)
-  * [MetaMask Security Measures](resources/guides/metamask-security-measures.md)
   * [Bridge FRAX to Avalanche](https://fraxfinancecommunity.medium.com/guide-how-to-bridge-frax-to-avalanche-network-and-add-liquidity-to-snowball-ff32d66ae6cb)
+  * [MetaMask Security Measures](resources/guides/metamask-security-measures.md)
 * [DeFi Glossary](resources/defi-glossary.md)
 
 ## 💻 Smart Contracts
