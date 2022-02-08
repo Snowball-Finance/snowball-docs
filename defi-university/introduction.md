@@ -12,6 +12,8 @@ We sure aren't qualified to give financial advice, but everything at SDU should 
 
 ## Course Structure
 
+![](<../.gitbook/assets/image (13).png>)
+
 Our courses are split into four different categories, each encompassing an aspect of DeFi - from the underlying blockchain technologies that made it possible, to the many unique governance structures that have sprouted from the various decentralized applications over the years:
 
 * **Fundamentals (FN)** - Explores the underlying technology and concepts of DeFi.

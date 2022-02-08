@@ -38,7 +38,7 @@ When not using your computer, and especially if you are not accustomed to lockin
 
 This is as simple as clicking on your account icon on the top right and selecting **Lock**:
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 {% hint style="info" %}
 By default, MetaMask locks your wallet after a certain amount of time. This value can be changed through MetaMask's advanced settings.
