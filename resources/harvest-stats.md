@@ -22,7 +22,7 @@ Weekly snapshots are taken every Sunday, and this page is updated every Monday.
 
 {% tabs %}
 {% tab title="Harvest Totals By Strategy Type" %}
-![](<../.gitbook/assets/QI Harvested (1).png>)
+![](<../.gitbook/assets/Harvest Totals By Strategy Type.png>)
 {% endtab %}
 
 {% tab title="LP Strategies" %}
