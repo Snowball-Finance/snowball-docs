@@ -42,6 +42,7 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `USDT.e - DAI.e`  | `Trader Joe` | [0xfe19f34873fC2C7ddcB8e392791b97526B4d22e0](https://snowtrace.io/address/0xfe19f34873fC2C7ddcB8e392791b97526B4d22e0) |
 | `USDT.e - USDC.e` | `Trader Joe` | [0xd596136ee746BaeE7ac159B3c21E71b3aeb81A68](https://snowtrace.io/address/0xd596136ee746BaeE7ac159B3c21E71b3aeb81A68) |
 | `xJOE`            | `Banker Joe` | [0x6a52e6b23700A63eA4a0Db313eBD386Fb510eE3C](https://snowtrace.io/address/0x6a52e6b23700A63eA4a0Db313eBD386Fb510eE3C) |
+| `MIM`             | `Banker Joe` | [0x3aAF997FdDA51eBb0918e3E59021f5FDE52444d8](https://snowtrace.io/address/0x3aAF997FdDA51eBb0918e3E59021f5FDE52444d8) |
 | `AVAX - ETH`      | `Pangolin`   | [0x586554828eE99811A8ef75029351179949762c26](https://snowtrace.io/address/0x586554828eE99811A8ef75029351179949762c26) |
 | `AVAX - LINK`     | `Pangolin`   | [0x00933c16e06b1d15958317C2793BC54394Ae356C](https://snowtrace.io/address/0x00933c16e06b1d15958317C2793BC54394Ae356C) |
 | `AVAX - SUSHI`    | `Pangolin`   | [0x751089F1bf31B13Fa0F0537ae78108088a2253BF](https://snowtrace.io/address/0x751089F1bf31B13Fa0F0537ae78108088a2253BF) |
@@ -171,6 +172,7 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `USDT.e - DAI.e`  | `Trader Joe` | [0x1369e19dbd4825616df7ade73ea92aa7504d851e](https://snowtrace.io/address/0x1369e19DBd4825616Df7ADE73EA92aA7504d851E) |
 | `USDT.e - USDC.e` | `Trader Joe` | [0x29CD11ddC2C42c726F1C1EDD2cF1c15d16412E0f](https://snowtrace.io/address/0x29CD11ddC2C42c726F1C1EDD2cF1c15d16412E0f) |
 | `xJOE`            | `Banker Joe` | [0xB347a857F20857c954b7aF52D9A306dF2F9EC89f](https://snowtrace.io/address/0xB347a857F20857c954b7aF52D9A306dF2F9EC89f) |
+| `MIM`             | `Banker Joe` | [0x55839d98536348825aB31c0c1263fbE814Bf649a](https://snowtrace.io/address/0x55839d98536348825aB31c0c1263fbE814Bf649a) |
 | `AVAX - ETH`      | `Pangolin`   | [0x6bb9d2420217e0c3f272f47c58942e89e23806c9](https://snowtrace.io/address/0x6bb9D2420217e0C3f272f47C58942e89e23806c9) |
 | `AVAX - LINK`     | `Pangolin`   | [0x7e68717f6228764bc1fc7a970dd5a041837c370c](https://snowtrace.io/address/0x7E68717f6228764Bc1fC7a970dD5A041837C370c) |
 | `AVAX - SUSHI`    | `Pangolin`   | [0x38a9635c0a1b62a7d8bc608a3ad5d84b300831ae](https://snowtrace.io/address/0x38a9635C0a1b62A7D8bc608a3Ad5D84b300831aE) |
