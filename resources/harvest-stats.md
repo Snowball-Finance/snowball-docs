@@ -58,6 +58,6 @@ Weekly snapshots are taken every Sunday, and this page is updated every Monday.
 {% endtab %}
 
 {% tab title="PTP" %}
-_Coming Soon!_
+![](<../.gitbook/assets/PTP Harvested.png>)
 {% endtab %}
 {% endtabs %}
