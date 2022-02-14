@@ -3,6 +3,7 @@
 ## 👋 Welcome
 
 * [Introduction](README.md)
+* [Roadmap](resources/roadmap.md)
 
 ## 🗳 Governance
 
@@ -61,7 +62,6 @@
 ## 🗃 Resources
 
 * [Our Team](resources/our-team.md)
-* [Roadmap](resources/roadmap.md)
 * [Harvest Stats](resources/harvest-stats.md)
 * [Brand Assets](resources/brand-assets.md)
 * [Guides](resources/guides/README.md)
