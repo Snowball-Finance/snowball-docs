@@ -11,6 +11,7 @@
 | `Controller V4`            | [0xf7B8D9f8a82a7a6dd448398aFC5c77744Bd6cb85](https://snowtrace.io/address/0xf7B8D9f8a82a7a6dd448398aFC5c77744Bd6cb85) |
 | `Backup Controller V4`     | [0xacc69deef119ab5bbf14e6aaf0536eafb3d6e046](https://snowtrace.io/address/0xacc69deef119ab5bbf14e6aaf0536eafb3d6e046) |
 | `Timelock Controller V4`   | [0x3d88b8022142ea2693ba43BA349F89256392d59b](https://snowtrace.io/address/0x3d88b8022142ea2693ba43BA349F89256392d59b) |
+| `Optimized Controller V4`  | [0x2F0b4e7aC032d0708C082994Fb21Dd75DB514744](https://snowtrace.io/address/0x2F0b4e7aC032d0708C082994Fb21Dd75DB514744) |
 | `Trader Joe Controller V4` | [0xCEB829a0881350689dAe8CBD77D0E012cf7a6a3f](https://snowtrace.io/address/0xCEB829a0881350689dAe8CBD77D0E012cf7a6a3f) |
 | `Aave Controller V4`       | [0x425A863762BBf24A986d8EaE2A367cb514591C6F](https://snowtrace.io/address/0x425A863762BBf24A986d8EaE2A367cb514591C6F) |
 | `Banker Joe Controller V4` | [0xF2FA11Fc9247C23b3B622C41992d8555f6D01D8f](https://snowtrace.io/address/0xF2FA11Fc9247C23b3B622C41992d8555f6D01D8f) |
@@ -22,3 +23,4 @@
 | `SNOB Fee Distributor`     | [0xad86ef5fd2ebc25bb9db41a1fe8d0f2a322c7839](https://snowtrace.io/address/0xad86ef5fd2ebc25bb9db41a1fe8d0f2a322c7839) |
 | `Pangolin Zapper`          | [0x9675064a9b93dC4156366A4E5f1400185D751375](https://snowtrace.io/address/0x9675064a9b93dC4156366A4E5f1400185D751375) |
 | `Trader Joe Zapper`        | [0x2dA2409cDf11C607375AC9A43c18faB2152b5884](https://snowtrace.io/address/0x2dA2409cDf11C607375AC9A43c18faB2152b5884) |
+| `Gnosis Safe`              | [0xcb42072b73FbD80a4c8005336c2ea78f770c223B](https://snowtrace.io/address/0xcb42072b73FbD80a4c8005336c2ea78f770c223B) |
