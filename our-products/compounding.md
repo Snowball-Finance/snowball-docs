@@ -25,8 +25,13 @@ Snowball supports many [_**DEXs**_](../resources/defi-glossary.md#decentralized-
 * [**Aave**](https://app.aave.com)
 * [**Teddy**](https://app.teddy.cash)
 * [**Axial**](https://app.axial.exchange)
+* [**Platypus**](https://platypus.finance)****
 
 All our compounding strategies can be found in the [**Compound & Earn**](https://app.snowball.network/compound-and-earn) page of our site.
+
+{% hint style="info" %}
+Snowball now has Optimized Pools, which can be used to aggregate various platforms, and gain the yield of whichever one has the best rates at any given time. Learn more about there [**here**](https://medium.com/snowball-finance/introducing-snowballs-optimized-pools-ebba8dca34d9).
+{% endhint %}
 
 ## How does compounding work?
 
@@ -61,6 +66,12 @@ Staking strategies are simple, yet very effective. Examples of these are PNG sta
 Many of our compounding strategies allow you to deposit funds in a much simpler manner through a single token. This is sometimes referred to as zapping. For a quick overview of this process, check out our infographic below - or for a more in-depth review, read our article [**here**](https://medium.com/snowball-finance/a-look-at-snowballs-new-zapper-functionality-a7ddabae483).
 
 ![](../.gitbook/assets/FG1663DXIAASXDo.png)
+
+## Optimized Pools
+
+Snowball also offers Optimized Pools, which enable you to always be netting the highest yields available for the token you wish to deposit. Check out our infographic about them below, or read a more in-depth article about them [**here**](https://medium.com/snowball-finance/introducing-snowballs-optimized-pools-ebba8dca34d9).
+
+![](<../.gitbook/assets/image (16).png>)
 
 ## Compounding Resources
 

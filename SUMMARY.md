@@ -16,9 +16,9 @@
 ## 📈 Our Products
 
 * [Compounding](our-products/compounding.md)
+* [NFT Marketplace](our-products/nft-marketplace.md)
 * [Axial](our-products/axial.md)
 * [Lava](our-products/lava.md)
-* [NFT Marketplace](our-products/nft-marketplace.md)
 * [Teddy](our-products/teddy.md)
 
 ## ❓ FAQ
@@ -84,8 +84,6 @@
 * [NFT Contracts](smart-contracts/nft-contracts.md)
 * [Audits & Timelocks](smart-contracts/audits.md)
 * [Multisigs](smart-contracts/multisigs.md)
-* [Integrations](smart-contracts/integrations/README.md)
-  * [Compounding Pools](smart-contracts/integrations/compounding-pools.md)
 
 ## 🔗 Links
 

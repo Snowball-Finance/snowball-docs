@@ -32,7 +32,7 @@ You can generally have two different types of wallets; hardware and digital. Har
 
 Digital wallets are the easiest to access for those that plan on making many transactions per day, without the hassle of always having your hardware wallet with you. The most popular digital wallet as of 2021 is MetaMask, due to its simplicity, multi-chain integration and dapp support. Popularity is important in this case because the more decentralized applications that support your wallet, the easier it will be to make the most of your journey into DeFi.
 
-![Snowball's Supported Wallets](<../../.gitbook/assets/image (16).png>)
+![Snowball's Supported Wallets](<../../.gitbook/assets/image (16) (1).png>)
 
 {% hint style="info" %}
 We have a guide on how to setup MetaMask for use on the Avalanche Chain [**here**](../../resources/guides/setting-up-metamask.md#1-metamask-setup).

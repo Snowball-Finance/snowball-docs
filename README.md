@@ -16,11 +16,11 @@ Since March, Snowball has grown to be one of the leading DeFi projects on Avalan
 
 [**Compounding**](our-products/compounding.md) - By using Snowball's auto-compounder, rewards from other protocols can be automatically re-invested, saving you gas fees and yielding higher APYs.
 
+[**NFT Marketplace**](our-products/nft-marketplace.md) - Our very own marketplace to mint exclusive Snowball NFTs.
+
 ****[**Axial**](our-products/axial.md) - The first DAO launched by Snowball - a decentralized exchange for value-pegged assets.
 
 ****[**Lava**](our-products/lava.md) - Lava brings liquid AVAX staking to Avalanche.
-
-[**NFT Marketplace**](our-products/nft-marketplace.md) - Our very own marketplace to mint exclusive Snowball NFTs.
 
 ****[**Teddy**](our-products/teddy.md) - The newest addition to the Snowball ecosystem is the borrowing platform and issuer of TSD; Avalanche's own native stablecoin.
 

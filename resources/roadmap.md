@@ -36,7 +36,7 @@
 
 ![](../.gitbook/assets/2022\_Q1.png)
 
-* [ ] **Dynamic Strategies** - We plan to add strategies that can optimize yields by moving funds between farms depending on their yields at any given time.
+* [x] **Dynamic Strategies** - We plan to add strategies that can optimize yields by moving funds between farms depending on their yields at any given time.
 * [ ] **Snowball UI V3** - We plan on completely overhauling the app in order to make the user experience better, faster and more intuitive, while also providing more details to the user about their options and actions on-site.
 * [ ] **Audits** - All Snowball smart contracts will be completely audited.
 * [ ] **Liquid Staking** - The Snowball DAO plans to launch LAVA, a protocol that allows for liquid staking of AVAX.

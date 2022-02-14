@@ -73,3 +73,7 @@ The most likely scenario is that you've withdrawn your LP tokens to your wallet 
 ### How do Zappers work?
 
 Zappers work through automatically making most of the transactions needed for depositing into our many compounding strategies. These are the same transactions you would be making manually otherwise, but faster and more gas-efficient. All tokens received through such transactions go to your wallet or our strategy on your behalf. No protocol fee is taken for this service. Read more about this functionality in our article [**here**](https://medium.com/snowball-finance/a-look-at-snowballs-new-zapper-functionality-a7ddabae483).
+
+### How do Optimized Pools work?
+
+Optimized Pools work by daily re-allocating funds to whichever platform has the best yield at the time. Of course this means only utilizing the best battle-tested dapps on Avalanche, to ensure users' safety. Learn more about these pools in our article [**here**](https://medium.com/snowball-finance/introducing-snowballs-optimized-pools-ebba8dca34d9).
