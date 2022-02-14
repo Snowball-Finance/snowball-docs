@@ -25,7 +25,7 @@ Snowball supports many [_**DEXs**_](../resources/defi-glossary.md#decentralized-
 * [**Aave**](https://app.aave.com)
 * [**Teddy**](https://app.teddy.cash)
 * [**Axial**](https://app.axial.exchange)
-* [**Platypus**](https://platypus.finance)****
+* [**Platypus**](https://platypus.finance)
 
 All our compounding strategies can be found in the [**Compound & Earn**](https://app.snowball.network/compound-and-earn) page of our site.
 

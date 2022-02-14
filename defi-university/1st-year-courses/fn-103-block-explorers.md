@@ -24,7 +24,7 @@ Block explorers provide a way to view information on the blockchain in a simple 
 
 The Avalanche C-Chain has two main block explorers:
 
-* **SnowTrace** - [**https://snowtrace.io/**](https://snowtrace.io)****
+* **SnowTrace** - [**https://snowtrace.io/**](https://snowtrace.io)
 * **AvaScan** - [**https://avascan.info/blockchain/c/txs**](https://avascan.info/blockchain/c/txs)
 
 {% hint style="info" %}

@@ -12,17 +12,17 @@ Since March, Snowball has grown to be one of the leading DeFi projects on Avalan
 
 ## Our Products
 
-****[**Governance**](governance/snob.md) - Everything at Snowball is determined through governance. This includes SNOB token distributions, proposals for launching new DAOs and much, much more.
+[**Governance**](governance/snob.md) - Everything at Snowball is determined through governance. This includes SNOB token distributions, proposals for launching new DAOs and much, much more.
 
 [**Compounding**](our-products/compounding.md) - By using Snowball's auto-compounder, rewards from other protocols can be automatically re-invested, saving you gas fees and yielding higher APYs.
 
 [**NFT Marketplace**](our-products/nft-marketplace.md) - Our very own marketplace to mint exclusive Snowball NFTs.
 
-****[**Axial**](our-products/axial.md) - The first DAO launched by Snowball - a decentralized exchange for value-pegged assets.
+[**Axial**](our-products/axial.md) - The first DAO launched by Snowball - a decentralized exchange for value-pegged assets.
 
-****[**Lava**](our-products/lava.md) - Lava brings liquid AVAX staking to Avalanche.
+[**Lava**](our-products/lava.md) - Lava brings liquid AVAX staking to Avalanche.
 
-****[**Teddy**](our-products/teddy.md) - The newest addition to the Snowball ecosystem is the borrowing platform and issuer of TSD; Avalanche's own native stablecoin.
+[**Teddy**](our-products/teddy.md) - The newest addition to the Snowball ecosystem is the borrowing platform and issuer of TSD; Avalanche's own native stablecoin.
 
 ## Official Links
 

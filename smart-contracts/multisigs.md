@@ -6,7 +6,7 @@ To further increase the decentralization of the Snowball protocol, we have imple
 
 This contract is owned and controlled by on-chain governance and our Council. It is the owner of almost all other Snowball smart contracts.
 
-**Treasury Address:** [**0x294aB3200ef36200db84C4128b7f1b4eec71E38a**](https://snowtrace.io/address/0x294aB3200ef36200db84C4128b7f1b4eec71E38a)****
+**Treasury Address:** [**0x294aB3200ef36200db84C4128b7f1b4eec71E38a**](https://snowtrace.io/address/0x294aB3200ef36200db84C4128b7f1b4eec71E38a)
 
 | Signer         | Address                                                                                                               |
 | -------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -17,7 +17,7 @@ This contract is owned and controlled by on-chain governance and our Council. It
 
 This contract is owned and controlled by a small group of trusted Snowball community members. It is the owner of any incoming revenue and is a signer to the Treasury multisig contract.
 
-**Council Address:** [**0x028933a66DD0cCC239a3d5c2243b2d96672f11F5**](https://snowtrace.io/address/0x028933a66DD0cCC239a3d5c2243b2d96672f11F5)****
+**Council Address:** [**0x028933a66DD0cCC239a3d5c2243b2d96672f11F5**](https://snowtrace.io/address/0x028933a66DD0cCC239a3d5c2243b2d96672f11F5)
 
 | Signer                                          | Address                                                                                                               |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ This contract is owned and controlled by a small group of trusted Snowball commu
 
 This contract is owned and controlled by the founders of Snowball and is used for sending payments to other members of the Snowball team.
 
-**Payroll Address:** [**0x05faF04e3416e40Af70ecA1deEfe2E8B6feC3703**](https://snowtrace.io/address/0x05faF04e3416e40Af70ecA1deEfe2E8B6feC3703)****
+**Payroll Address:** [**0x05faF04e3416e40Af70ecA1deEfe2E8B6feC3703**](https://snowtrace.io/address/0x05faF04e3416e40Af70ecA1deEfe2E8B6feC3703)
 
 | Signer                                                        | Address                                                                                                               |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
