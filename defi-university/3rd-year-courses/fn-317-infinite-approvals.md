@@ -1,5 +1,7 @@
 # FN 317 - Infinite Approvals
 
+![](<../../.gitbook/assets/SDU Approvals Pic.png>)
+
 Most decentralized applications utilize infinite token approvals for everyday user transactions. This course will cover everything you need to know about these:
 
 * Defining Token Approvals
