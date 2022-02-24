@@ -18,7 +18,7 @@ Keep all three of these items somewhere safe, don't write them down online or in
 
 3\) Connect to the Avalanche C-Chain.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 By selecting **Add Network** on the dropdown menu, you'll be prompted to enter some data for the new network you want to connect to. Enter the following into their respective fields:
 

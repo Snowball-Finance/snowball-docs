@@ -42,11 +42,11 @@ Depending on the underlying blockchain, the fees spent through making a transact
 * **Polygon PoS** - The fees paid by users are sent to network validators. However, it is likely that in the near future Polygon PoS will adopt the same system as Ethereum.
 * **Avalanche C-Chain** - All transaction fees are burned - the AVAX tokens are gone forever. While some wallets such as MetaMask allow you to select a priority fee similar to how transactions are structured in Ethereum, in practice it is easier and more efficient to simply select a higher base fee. Everything is burned anyhow.
 
-On every blockchain, the price of gas varies depending on how congested the network is. Each blockchain, however, have their own complex methodologies to analyze congestion levels and determine gas prices while keeping them somewhat predictable, avoiding huge spikes in price, etc.&#x20;
+On every blockchain, the price of gas varies depending on how congested the network is. Each blockchain, however, have their own complex methodologies to analyze congestion levels and determine gas prices while keeping them somewhat predictable, avoiding huge spikes in price, etc.
 
 Even so, price spikes may happen due to a large number of users trying to make time-sensitive transactions at any given time:
 
-![Gas Prices on Avalanche C-Chain (23/12/2021)](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
+![Gas Prices on Avalanche C-Chain (23/12/2021)](<../../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
 
 Charts like the one seen above can be found for Avalanche [**here**](https://ava-labs-inc.metabaseapp.com/public/dashboard/d7a03dd2-28cf-44e5-bc1d-3c9ef41e69f5#refresh=60). These spikes can happen during exciting new IDOs, token launches, NFT drops, etc. On Avalanche these usually are very short-lived and regular users can simply avoid making transactions for half an hour or so in order to avoid paying high fees for everyday transactions.
 
