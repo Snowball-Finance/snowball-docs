@@ -8,6 +8,10 @@ This guide covers how to deposit into our compounding strategies on Snowball for
 
 2\) Find the pool you want to deposit into. In this example, we will use the AVAX-SNOB pool from Pangolin.
 
+{% hint style="info" %}
+If you would like to utilize Snowball's one-click-deposit functionality, you are able to skip steps 3, 4, 5 and 6 by simply depositing AVAX.
+{% endhint %}
+
 3\) Click on **Get PGL**:
 
 ![](<../../.gitbook/assets/Screen Shot 2021-08-03 at 10.41.07 AM.png>)

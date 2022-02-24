@@ -10,7 +10,7 @@ This guide covers voting on gauges with xSNOB to determine the allocation of SNO
 
 ![](<../../.gitbook/assets/Gauge Voting.png>)
 
-3\) Type the percentage weight you would like to apply to each pool into the boxes on the right. Remember that the total percentage must add up to 100%.
+4\) Type the percentage weight you would like to apply to each pool into the boxes on the right. Remember that the total percentage must add up to 100%.
 
 ![](<../../.gitbook/assets/Gauge Voting 2.png>)
 

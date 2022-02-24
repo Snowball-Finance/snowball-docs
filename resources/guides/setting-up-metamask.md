@@ -10,7 +10,7 @@ Always verify the URL you are downloading wallet software from. Downloading it f
 
 2\) Create or Import a Wallet.
 
-If you already have an Ethereum wallet address, you can import it to MetaMask. If you do not, selecting 'Create a Wallet' will allow you to make one. This process is free.
+If you already have an Ethereum wallet address, you can import it to MetaMask. If you do not, selecting **Create a Wallet** will allow you to make one. This process is free.
 
 When following MetaMask's steps on creating a new wallet, make sure you take note of your password, seed phrase and private key. The password is locally stored - and is not linked to the blockchain in any way. The seed phrase is what MetaMask can use to identify your private key. Your private key is what any wallet software needs to sign your transactions on the blockchain.
 
@@ -18,15 +18,15 @@ Keep all three of these items somewhere safe, don't write them down online or in
 
 3\) Connect to the Avalanche C-Chain.
 
-![](https://pangolin.exchange/tutorials/getting-started/001.png)
+![](<../../.gitbook/assets/image (9).png>)
 
-By selecting **Custom RPC** on the dropdown menu, you'll be prompted to enter some data for the new network you want to connect to. Enter the following into their respective fields:
+By selecting **Add Network** on the dropdown menu, you'll be prompted to enter some data for the new network you want to connect to. Enter the following into their respective fields:
 
 * **Network Name**: Avalanche Network
 * **New RPC URL**: https://api.avax.network/ext/bc/C/rpc
-* **ChainID**: 0xa86a
+* **Chain ID**: 0xa86a
 * **Symbol**: AVAX
-* **Explorer**: https://snowtrace.io/
+* **Block Explorer URL**: https://snowtrace.io/
 
 Once these are setup, you should see Avalanche on the networks list to switch to anytime.
 

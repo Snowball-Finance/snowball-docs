@@ -8,6 +8,10 @@ This guide covers how to deposit into our compounding strategies on Snowball for
 
 2\) Find the pool you want to deposit into. In this example, we will use the AVAX-SNOB pool from Trader Joe.
 
+{% hint style="info" %}
+If you would like to utilize Snowball's one-click-deposit functionality, you are able to skip steps 3, 4, 5 and 6 by simply depositing AVAX.
+{% endhint %}
+
 3\) Click on **Get JLP**:
 
 ![](<../../.gitbook/assets/Screen Shot 2021-08-02 at 7.18.03 PM (1).png>)
