@@ -56,6 +56,7 @@
   * [FN 317 - Infinite Approvals](defi-university/3rd-year-courses/fn-317-infinite-approvals.md)
   * [YF 323 - Impermanent Loss](defi-university/3rd-year-courses/yf-323-impermanent-loss.md)
   * [EX 325 - Single-Asset vs LP Strategies](defi-university/3rd-year-courses/ex-325-single-asset-vs-lp-strategies.md)
+  * [YF 362 - Liquid Staking](defi-university/3rd-year-courses/yf-362-liquid-staking.md)
 * [4th Year Courses](defi-university/4th-year-courses/README.md)
   * [YF 424 - LP Math](defi-university/4th-year-courses/yf-424-lp-math.md)
 
