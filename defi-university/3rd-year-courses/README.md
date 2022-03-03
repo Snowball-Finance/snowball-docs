@@ -18,6 +18,10 @@ Welcome to SDU's 3rd Year Courses! Here are the courses available to you, in eac
 [yf-323-impermanent-loss.md](yf-323-impermanent-loss.md)
 {% endcontent-ref %}
 
+{% content-ref url="yf-362-liquid-staking.md" %}
+[yf-362-liquid-staking.md](yf-362-liquid-staking.md)
+{% endcontent-ref %}
+
 #### Governance
 
 * None yet.

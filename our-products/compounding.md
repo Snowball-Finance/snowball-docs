@@ -71,7 +71,7 @@ Many of our compounding strategies allow you to deposit funds in a much simpler 
 
 Snowball also offers Optimized Pools, which enable you to always be netting the highest yields available for the token you wish to deposit. Check out our infographic about them below, or read a more in-depth article about them [**here**](https://medium.com/snowball-finance/introducing-snowballs-optimized-pools-ebba8dca34d9).
 
-![](<../.gitbook/assets/image (16).png>)
+![](../.gitbook/assets/FMdpcSYVkAEJsyo.jpg)
 
 ## Compounding Resources
 
