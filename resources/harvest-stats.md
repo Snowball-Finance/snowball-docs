@@ -3,7 +3,7 @@
 Every week we take a snapshot of how our auto-compounding strategies have performed. The results of which are presented here!
 
 {% hint style="info" %}
-Weekly snapshots are taken every Sunday, and this page is updated every Monday.
+Weekly snapshots are taken every Monday, and the charts below are updated then.
 {% endhint %}
 
 ## Overall Harvest Stats
