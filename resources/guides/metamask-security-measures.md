@@ -16,7 +16,7 @@ This guide will cover how to keep your MetaMask wallet safer than ever through r
 
 4\) Click on the revoke icon and then the **Revoke** button on any approvals you would like to remove.
 
-![](<../../.gitbook/assets/image (9) (1) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 5\) Confirm the transaction to revoke any given approval:
 

@@ -47,7 +47,7 @@ Other blockchains also have their own block explorers. The most popular ones are
 
 The primary and probably most important utility of a block explorer is the ability to see your transaction history. Let's take a look at a random wallet address on Avalanche for example:
 
-![Random Wallet on Avalanche](<../../.gitbook/assets/image (9) (1) (1) (1).png>)
+![Random Wallet on Avalanche](<../../.gitbook/assets/image (9) (1) (1) (1) (1).png>)
 
 If we search for this wallet address on the block explorer, it gives us a lot of information regarding its balance and transaction history. It seems to have been transacting some DAI.e, USDT.e and JOE lately. If you're wondering how it's possible to access anyone's transaction history through a block explorer, it's because everything on a blockchain is public. This is why blockchains are often referred to as public ledgers.
 

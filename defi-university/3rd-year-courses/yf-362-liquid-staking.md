@@ -8,7 +8,9 @@ Liquid staking brings a whole other level of flexibility when it comes to stakin
 
 #### Suggested Prior Reading:
 
-None.
+{% content-ref url="fn-308-consensus-mechanisms.md" %}
+[fn-308-consensus-mechanisms.md](fn-308-consensus-mechanisms.md)
+{% endcontent-ref %}
 
 ## Introduction
 

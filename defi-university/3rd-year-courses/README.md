@@ -4,6 +4,10 @@ Welcome to SDU's 3rd Year Courses! Here are the courses available to you, in eac
 
 #### Fundamentals
 
+{% content-ref url="fn-308-consensus-mechanisms.md" %}
+[fn-308-consensus-mechanisms.md](fn-308-consensus-mechanisms.md)
+{% endcontent-ref %}
+
 {% content-ref url="fn-317-infinite-approvals.md" %}
 [fn-317-infinite-approvals.md](fn-317-infinite-approvals.md)
 {% endcontent-ref %}
