@@ -18,6 +18,8 @@
 | `BenQi Controller V4`      | [0x252B5fD3B1Cb07A2109bF36D5bDE6a247c6f4B59](https://snowtrace.io/address/0x252B5fD3B1Cb07A2109bF36D5bDE6a247c6f4B59) |
 | `Axial Controller V4`      | [0xc7D536a04ECC43269B6B95aC1ce0a06E0000D095](https://snowtrace.io/address/0xc7D536a04ECC43269B6B95aC1ce0a06E0000D095) |
 | `Platypus Controller V4`   | [0x14559fb4d15Cf8DCbc35b7EDd1215d56c0468202](https://snowtrace.io/address/0x14559fb4d15Cf8DCbc35b7EDd1215d56c0468202) |
+| `Vector Controller V4`     | [0x5a068C00E32D18A354755Cddb01aC65ca074Aa06](https://snowtrace.io/address/0x5a068C00E32D18A354755Cddb01aC65ca074Aa06) |
+| `Echidna Controller V4`    | [0x10A2B0cc29d36f2816cDC3F3db17a4f0f91E7313](https://snowtrace.io/address/0x10A2B0cc29d36f2816cDC3F3db17a4f0f91E7313) |
 | `Staked SNOB (xSNOB)`      | [0x83952E7ab4aca74ca96217D6F8f7591BEaD6D64E](https://snowtrace.io/address/0x83952E7ab4aca74ca96217D6F8f7591BEaD6D64E) |
 | `Gauge Proxy V2`           | [0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27](https://snowtrace.io/address/0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27) |
 | `SNOB Fee Distributor`     | [0xad86ef5fd2ebc25bb9db41a1fe8d0f2a322c7839](https://snowtrace.io/address/0xad86ef5fd2ebc25bb9db41a1fe8d0f2a322c7839) |
