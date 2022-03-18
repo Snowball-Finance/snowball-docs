@@ -1,5 +1,7 @@
 # FN 308 - Consensus Mechanisms
 
+![](../../.gitbook/assets/IMG\_0630.png)
+
 Different blockchains make use of different consensus mechanisms to ensure their decentralized nature and the safety of their network, while still remaining as scalable as possible. While software architecture is a large part of this, this course will specifically focus on how blockchains achieve consensus from their enormous number of participants; covering aspects as the following:
 
 * Defining Consensus Mechanisms
