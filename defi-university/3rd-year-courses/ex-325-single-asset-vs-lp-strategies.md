@@ -100,7 +100,7 @@ If you were to consider LP strategies, you'll likely be looking at the two above
 
 In terms of TVL, we can see that Trader Joe has acquired the majority of deposits, which could simply be due to the extent of their incentive rewards, or some reflection of people's trust in the platform. An important aspect to note is that since the TVL is relatively low on Pangolin's strategy, you could gain a large portion of the SNOB rewards allocated to that strategy, but the APR will lower as large deposits are made. Of course, you could always vote to allocate more SNOB rewards to that strategy.
 
-#### Making Decisions
+### Making Decisions
 
 Making decisions as to where to allocate your assets will come to analyzing each of the aspects discussed above, along with your risk-assessment strategies and any time-based considerations.
 
