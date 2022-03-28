@@ -158,6 +158,9 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `TUSD - DAI.e`    | `Pangolin`   | [0xA888388f6f54e25e59A99498731e71CA10aAF77a](https://snowtrace.io/address/0xA888388f6f54e25e59A99498731e71CA10aAF77a) |
 | `WAVAX`           | `BenQi`      | [0x7b74324f523831687fC8FCE946F15a3AA632dC06](https://snowtrace.io/address/0x7b74324f523831687fC8FCE946F15a3AA632dC06) |
 | `QI`              | `BenQi`      | [0x68b8037876385BBd6bBe80bAbB2511b95DA372C4](https://snowtrace.io/address/0x68b8037876385BBd6bBe80bAbB2511b95DA372C4) |
+| `DAI.e`           | `Platypus`   | [0xf332d93A556A556a785AC0B010791918d7b8E927](https://snowtrace.io/address/0xf332d93A556A556a785AC0B010791918d7b8E927) |
+| `USDC.e`          | `Platypus`   | [0x54FfFEedA53a49F0fe59A89E8Cc44d4D80FC4eC4](https://snowtrace.io/address/0x54FfFEedA53a49F0fe59A89E8Cc44d4D80FC4eC4) |
+| `USDT.e`          | `Platypus`   | [0x6D1be2cdE72ABc0a0A02B723c1ef880fa61eBCd3](https://snowtrace.io/address/0x6D1be2cdE72ABc0a0A02B723c1ef880fa61eBCd3) |
 
 ## Compounding Gauge Contracts
 
@@ -322,6 +325,9 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `TUSD - DAI.e`    | `Pangolin`   | [0x2194B40bF9F7d3429E30fC7451cf422c1B3cdcC0](https://snowtrace.io/address/0x2194B40bF9F7d3429E30fC7451cf422c1B3cdcC0) |
 | `WAVAX`           | `BenQi`      | [0xaBe28c3B53E8200C87aDb2b790d3594C3fcEf16d](https://snowtrace.io/address/0xaBe28c3B53E8200C87aDb2b790d3594C3fcEf16d) |
 | `QI`              | `BenQi`      | [0x0Ec726BF3FF6CBf58c9f300d86F5fAd149a52039](https://snowtrace.io/address/0x0Ec726BF3FF6CBf58c9f300d86F5fAd149a52039) |
+| `DAI.e`           | `Platypus`   | [0xFAc93ba9623EC5239686b329E186C1F9B9f3C9B9](https://snowtrace.io/address/0xFAc93ba9623EC5239686b329E186C1F9B9f3C9B9) |
+| `USDC.e`          | `Platypus`   | [0xDB22761685E44b04f6C48984d79C4CDE72544579](https://snowtrace.io/address/0xDB22761685E44b04f6C48984d79C4CDE72544579) |
+| `USDT.e`          | `Platypus`   | [0xc30a42Ab7a9bD6889eFD2a4DDA83dA7839D99842](https://snowtrace.io/address/0xc30a42Ab7a9bD6889eFD2a4DDA83dA7839D99842) |
 
 ## StableVault Contracts
 
