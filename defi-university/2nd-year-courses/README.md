@@ -12,6 +12,10 @@ Welcome to SDU's 2nd Year Courses! Here are the courses available to you, in eac
 [fn-207-apps-vs-dapps.md](fn-207-apps-vs-dapps.md)
 {% endcontent-ref %}
 
+{% content-ref url="fn-209-avalanche.md" %}
+[fn-209-avalanche.md](fn-209-avalanche.md)
+{% endcontent-ref %}
+
 {% content-ref url="fn-221-dexs.md" %}
 [fn-221-dexs.md](fn-221-dexs.md)
 {% endcontent-ref %}

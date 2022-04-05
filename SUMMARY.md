@@ -44,6 +44,7 @@
 * [2nd Year Courses](defi-university/2nd-year-courses/README.md)
   * [FN 205 - Bridges](defi-university/2nd-year-courses/fn-205-bridges.md)
   * [FN 207 - Apps vs Dapps](defi-university/2nd-year-courses/fn-207-apps-vs-dapps.md)
+  * [FN 209 - Avalanche](defi-university/2nd-year-courses/fn-209-avalanche.md)
   * [FN 221 - DEXs](defi-university/2nd-year-courses/fn-221-dexs.md)
   * [FN 231 - Stablecoins](defi-university/2nd-year-courses/fn-231-stablecoins.md)
   * [GV 242 - Voting Mechanisms](defi-university/2nd-year-courses/gv-242-voting-mechanisms.md)

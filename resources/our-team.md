@@ -68,13 +68,9 @@ Zacknistelrooy is an investment analyst with 5+ years of experience working in t
 
 #### ![](../.gitbook/assets/auroter.webp) Auroter
 
-#### ![](../.gitbook/assets/frostbourne.webp) Frostbourne
-
 #### ![](../.gitbook/assets/feds.webp) Feds
 
 #### ![](../.gitbook/assets/luis.webp) Luis
-
-#### ![](../.gitbook/assets/pan\_.webp) Pan\_
 
 #### ![](../.gitbook/assets/bloomie.webp) Bloomie
 
@@ -85,8 +81,6 @@ Zacknistelrooy is an investment analyst with 5+ years of experience working in t
 #### ![](../.gitbook/assets/nrv.webp) Nrv
 
 #### ![](../.gitbook/assets/tylers.webp) TylerS
-
-#### ![](../.gitbook/assets/naotamax.webp) NaotaMax
 
 #### ![](../.gitbook/assets/thebakedone.webp) The Baked One
 
@@ -116,11 +110,11 @@ Zacknistelrooy is an investment analyst with 5+ years of experience working in t
 
 #### ![](../.gitbook/assets/cryptofish.webp) Cryptofish
 
-#### ****![](../.gitbook/assets/elroy.webp) **Elroy**
+#### ![](../.gitbook/assets/elroy.webp) **Elroy**
 
-#### ****![](../.gitbook/assets/jediballs.webp) **Jediballs**
+#### ![](../.gitbook/assets/jediballs.webp) **Jediballs**
 
-#### ****![](../.gitbook/assets/pedrohccq.webp) **Pedrohccq**
+#### ![](../.gitbook/assets/pedrohccq.webp) **Pedrohccq**
 
 #### ![](../.gitbook/assets/shung.webp) Shung
 
@@ -129,3 +123,9 @@ Zacknistelrooy is an investment analyst with 5+ years of experience working in t
 #### ![](../.gitbook/assets/tide.webp) Tide
 
 #### ![](../.gitbook/assets/jennywenny.webp) Jennywenny
+
+#### ![](../.gitbook/assets/naotamax.webp) NaotaMax
+
+#### ![](../.gitbook/assets/frostbourne.webp) Frostbourne
+
+#### ![](../.gitbook/assets/pan\_.webp) Pan\_
