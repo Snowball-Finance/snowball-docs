@@ -8,7 +8,7 @@
 | `Council`                  | [0x028933a66DD0cCC239a3d5c2243b2d96672f11F5](https://snowtrace.io/address/0x028933a66DD0cCC239a3d5c2243b2d96672f11F5) |
 | `Payroll`                  | [0x05faF04e3416e40Af70ecA1deEfe2E8B6feC3703](https://snowtrace.io/address/0x05faF04e3416e40Af70ecA1deEfe2E8B6feC3703) |
 | `Proposal 3 Funds`         | [0x5df42ace37bA4AceB1f3465Aad9bbAcaA238D652](https://snowtrace.io/address/0x5df42ace37bA4AceB1f3465Aad9bbAcaA238D652) |
-| `Controller V4`            | [0xf7B8D9f8a82a7a6dd448398aFC5c77744Bd6cb85](https://snowtrace.io/address/0xf7B8D9f8a82a7a6dd448398aFC5c77744Bd6cb85) |
+| `Base Controller V4`       | [0xf7B8D9f8a82a7a6dd448398aFC5c77744Bd6cb85](https://snowtrace.io/address/0xf7B8D9f8a82a7a6dd448398aFC5c77744Bd6cb85) |
 | `Backup Controller V4`     | [0xacc69deef119ab5bbf14e6aaf0536eafb3d6e046](https://snowtrace.io/address/0xacc69deef119ab5bbf14e6aaf0536eafb3d6e046) |
 | `Timelock Controller V4`   | [0x3d88b8022142ea2693ba43BA349F89256392d59b](https://snowtrace.io/address/0x3d88b8022142ea2693ba43BA349F89256392d59b) |
 | `Optimized Controller V4`  | [0x2F0b4e7aC032d0708C082994Fb21Dd75DB514744](https://snowtrace.io/address/0x2F0b4e7aC032d0708C082994Fb21Dd75DB514744) |
@@ -20,6 +20,7 @@
 | `Platypus Controller V4`   | [0x14559fb4d15Cf8DCbc35b7EDd1215d56c0468202](https://snowtrace.io/address/0x14559fb4d15Cf8DCbc35b7EDd1215d56c0468202) |
 | `Vector Controller V4`     | [0x5a068C00E32D18A354755Cddb01aC65ca074Aa06](https://snowtrace.io/address/0x5a068C00E32D18A354755Cddb01aC65ca074Aa06) |
 | `Echidna Controller V4`    | [0x10A2B0cc29d36f2816cDC3F3db17a4f0f91E7313](https://snowtrace.io/address/0x10A2B0cc29d36f2816cDC3F3db17a4f0f91E7313) |
+| `Kyber Controller V4`      | [0xee9797F49E729DdDCa58f357feBe5ba1ffaa6c1b](https://snowtrace.io/address/0xee9797F49E729DdDCa58f357feBe5ba1ffaa6c1b) |
 | `Staked SNOB (xSNOB)`      | [0x83952E7ab4aca74ca96217D6F8f7591BEaD6D64E](https://snowtrace.io/address/0x83952E7ab4aca74ca96217D6F8f7591BEaD6D64E) |
 | `Gauge Proxy V2`           | [0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27](https://snowtrace.io/address/0x215D5eDEb6A6a3f84AE9d72962FEaCCdF815BF27) |
 | `SNOB Fee Distributor`     | [0xad86ef5fd2ebc25bb9db41a1fe8d0f2a322c7839](https://snowtrace.io/address/0xad86ef5fd2ebc25bb9db41a1fe8d0f2a322c7839) |
