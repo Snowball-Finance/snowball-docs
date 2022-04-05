@@ -1,5 +1,7 @@
 # YF 362 - Liquid Staking
 
+![](../../.gitbook/assets/IMG\_0603.png)
+
 Liquid staking brings a whole other level of flexibility when it comes to staking and securing the network. This course will cover the following regarding this awesome new way to stake:
 
 * Defining Liquid Staking
