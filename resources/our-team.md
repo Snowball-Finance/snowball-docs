@@ -94,6 +94,8 @@ Zacknistelrooy is an investment analyst with 5+ years of experience working in t
 
 #### ![](../.gitbook/assets/fuzzylemma.webp) Fuzzylemma
 
+#### ![](../.gitbook/assets/mar.webp) Marhilism
+
 ## Past Community Contributors
 
 #### ![](../.gitbook/assets/mintle.webp) Mintle
