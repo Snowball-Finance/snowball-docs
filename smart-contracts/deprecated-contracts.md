@@ -49,16 +49,31 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `AVAX - SNOB`     | `Trader Joe` | [0x8b2E1802A7E0E0c7e1EaE8A7c636058964e21047](https://snowtrace.io/address/0x8b2E1802A7E0E0c7e1EaE8A7c636058964e21047) |
 | `AVAX - SPELL`    | `Trader Joe` | [0xec54A22B53EE66a77C5F26F860c6913472199661](https://snowtrace.io/address/0xec54A22B53EE66a77C5F26F860c6913472199661) |
 | `AVAX - YAK`      | `Trader Joe` | [0x9854F6615f73e533940F90FfE8DB1eAFB424A3c7](https://snowtrace.io/address/0x9854F6615f73e533940F90FfE8DB1eAFB424A3c7) |
+| `AVAX - BNB`      | `Trader Joe` | [0xc33b19c3d166CcD844aeDC475A989F5C0FC79E43](https://snowtrace.io/address/0xc33b19c3d166CcD844aeDC475A989F5C0FC79E43) |
+| `AVAX - CLY`      | `Trader Joe` | [0x702999Be42a3F5B47c7B983BF445B1607b846630](https://snowtrace.io/address/0x702999Be42a3F5B47c7B983BF445B1607b846630) |
+| `AVAX - KLO`      | `Trader Joe` | [0xf6E8432EF7d85Ae1202Dc537106D3696eBB27769](https://snowtrace.io/address/0xf6E8432EF7d85Ae1202Dc537106D3696eBB27769) |
+| `AVAX - LINK.e`   | `Trader Joe` | [0xfAa4f21A8Ef346370d00F1a7693FdC5D87C3e12a](https://snowtrace.io/address/0xfAa4f21A8Ef346370d00F1a7693FdC5D87C3e12a) |
+| `AVAX - MAI`      | `Trader Joe` | [0x5b227c2D55f5FDD084a86B8EF0C8BF1EaBa8b8d3](https://snowtrace.io/address/0x5b227c2D55f5FDD084a86B8EF0C8BF1EaBa8b8d3) |
+| `AVAX - RELAY`    | `Trader Joe` | [0x8C4185D7303c7865a45B46d705F40a8FAAd43Add](https://snowtrace.io/address/0x8C4185D7303c7865a45B46d705F40a8FAAd43Add) |
+| `AVAX - UST`      | `Trader Joe` | [0xAD53e02601eca3ebD828646A80539868543c1747](https://snowtrace.io/address/0xAD53e02601eca3ebD828646A80539868543c1747) |
 | `JOE - PNG`       | `Trader Joe` | [0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47](https://snowtrace.io/address/0xB4Fe95e89ED8894790aA6164f29FaC4B0De94f47) |
 | `JOE - DAI`       | `Trader Joe` | [0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2](https://snowtrace.io/address/0x3A4b529d887E0d5672dEd31CE0d7a5202FDb43b2) |
+| `JOE - USDC.e`    | `Trader Joe` | [0xDe9f979fEdf595FcfD1D09c85d194C700678cC83](https://snowtrace.io/address/0xDe9f979fEdf595FcfD1D09c85d194C700678cC83) |
 | `DAI.e - USDC.e`  | `Trader Joe` | [0x6C915564607d62B007D203c04473152bc090EE93](https://snowtrace.io/address/0x6C915564607d62B007D203c04473152bc090EE93) |
+| `USDC.e - USDC`   | `Trader Joe` | [0xA562f95dB32A0D72e0692f731BBfb9E20648870B](https://snowtrace.io/address/0xA562f95dB32A0D72e0692f731BBfb9E20648870B) |
 | `USDT.e - DAI.e`  | `Trader Joe` | [0xfe19f34873fC2C7ddcB8e392791b97526B4d22e0](https://snowtrace.io/address/0xfe19f34873fC2C7ddcB8e392791b97526B4d22e0) |
 | `USDT.e - USDC.e` | `Trader Joe` | [0xd596136ee746BaeE7ac159B3c21E71b3aeb81A68](https://snowtrace.io/address/0xd596136ee746BaeE7ac159B3c21E71b3aeb81A68) |
-| `gOHM - FRAX`     | `Trader Joe` | [0xeea1A5A847D891FF298Fa33f5Ba9E5603bb3384c](https://snowtrace.io/address/0xeea1A5A847D891FF298Fa33f5Ba9E5603bb3384c) |
+| `WBTC.e - USDC.e` | `Trader Joe` | [0xAFB27fB1c5bd91A80d18A321D6dC09aDd6a94219](https://snowtrace.io/address/0xAFB27fB1c5bd91A80d18A321D6dC09aDd6a94219) |
+| `WETH.e - USDC.e` | `Trader Joe` | [0x5586630339C015dF34EAB3Ae0343D37BE89671f9](https://snowtrace.io/address/0x5586630339C015dF34EAB3Ae0343D37BE89671f9) |
 | `LINK.e - USDC.e` | `Trader Joe` | [0xc28F8a82018c0b92C903Fc2D3013381b7e6ae3d5](https://snowtrace.io/address/0xc28F8a82018c0b92C903Fc2D3013381b7e6ae3d5) |
+| `gOHM - FRAX`     | `Trader Joe` | [0xeea1A5A847D891FF298Fa33f5Ba9E5603bb3384c](https://snowtrace.io/address/0xeea1A5A847D891FF298Fa33f5Ba9E5603bb3384c) |
 | `xJOE`            | `Trader Joe` | [0x8c06828A1707b0322baaa46e3B0f4D1D55f6c3E6](https://snowtrace.io/address/0x8c06828A1707b0322baaa46e3B0f4D1D55f6c3E6) |
-| `xJOE`            | `Banker Joe` | [0x6a52e6b23700A63eA4a0Db313eBD386Fb510eE3C](https://snowtrace.io/address/0x6a52e6b23700A63eA4a0Db313eBD386Fb510eE3C) |
+| `LINK.e`          | `Banker Joe` | [0x6C6B562100663b4179C95E5B199576f2E16b150e](https://snowtrace.io/address/0x6C6B562100663b4179C95E5B199576f2E16b150e) |
+| `USDC.e`          | `Banker Joe` | [0x8C9fAEBD41c68B801d628902EDad43D88e4dD0a6](https://snowtrace.io/address/0x8C9fAEBD41c68B801d628902EDad43D88e4dD0a6) |
+| `USDT.e`          | `Banker Joe` | [0xc7Ca863275b2D0F7a07cA6e2550504362705aA1A](https://snowtrace.io/address/0xc7Ca863275b2D0F7a07cA6e2550504362705aA1A) |
+| `WBTC.e`          | `Banker Joe` | [0xfb49ea67b84F7c1bBD825de7febd2C836BC4B47E](https://snowtrace.io/address/0xfb49ea67b84F7c1bBD825de7febd2C836BC4B47E) |
 | `MIM`             | `Banker Joe` | [0x3aAF997FdDA51eBb0918e3E59021f5FDE52444d8](https://snowtrace.io/address/0x3aAF997FdDA51eBb0918e3E59021f5FDE52444d8) |
+| `xJOE`            | `Banker Joe` | [0x6a52e6b23700A63eA4a0Db313eBD386Fb510eE3C](https://snowtrace.io/address/0x6a52e6b23700A63eA4a0Db313eBD386Fb510eE3C) |
 | `AVAX - ETH`      | `Pangolin`   | [0x586554828eE99811A8ef75029351179949762c26](https://snowtrace.io/address/0x586554828eE99811A8ef75029351179949762c26) |
 | `AVAX - LINK`     | `Pangolin`   | [0x00933c16e06b1d15958317C2793BC54394Ae356C](https://snowtrace.io/address/0x00933c16e06b1d15958317C2793BC54394Ae356C) |
 | `AVAX - SUSHI`    | `Pangolin`   | [0x751089F1bf31B13Fa0F0537ae78108088a2253BF](https://snowtrace.io/address/0x751089F1bf31B13Fa0F0537ae78108088a2253BF) |
@@ -117,6 +132,20 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `AVAX - HTZ`      | `Pangolin`   | [0x2C638f7ef1052cFD5782ba07C6693B6e6126Bc41](https://snowtrace.io/address/0x2C638f7ef1052cFD5782ba07C6693B6e6126Bc41) |
 | `AVAX - MAGE`     | `Pangolin`   | [0xC8FD2F1A5B2aC9b85121a43a80Bb2D75B3b9Bef8](https://snowtrace.io/address/0xC8FD2F1A5B2aC9b85121a43a80Bb2D75B3b9Bef8) |
 | `AVAX - PLN`      | `Pangolin`   | [0x1B23790EDacB2e586a49271E4Fac3b7fe3Bbc103](https://snowtrace.io/address/0x1B23790EDacB2e586a49271E4Fac3b7fe3Bbc103) |
+| `AVAX - BAVA`     | `Pangolin`   | [0x3eDF51FCcB9C578386de2f964b5C9A6E6e76f240](https://snowtrace.io/address/0x3eDF51FCcB9C578386de2f964b5C9A6E6e76f240) |
+| `AVAX - BRIBE`    | `Pangolin`   | [0xaA80f9CC2121c690C8De19990a0D3242cb59cffe](https://snowtrace.io/address/0xaA80f9CC2121c690C8De19990a0D3242cb59cffe) |
+| `AVAX - DCAU`     | `Pangolin`   | [0x54c89888fC1809Baf15413B5fFA99ACb0b8AFB30](https://snowtrace.io/address/0x54c89888fC1809Baf15413B5fFA99ACb0b8AFB30) |
+| `AVAX - DEP`      | `Pangolin`   | [0x31412dF24798A8c635bE55c5c100a24da9bA192d](https://snowtrace.io/address/0x31412dF24798A8c635bE55c5c100a24da9bA192d) |
+| `AVAX - FEED`     | `Pangolin`   | [0xa68D5438B7AA4E31cEEf616469dfbE26bEBBA703](https://snowtrace.io/address/0xa68D5438B7AA4E31cEEf616469dfbE26bEBBA703) |
+| `AVAX - FIRE`     | `Pangolin`   | [0x3018Eeb374a1a48338836BD3e693A554E739291B](https://snowtrace.io/address/0x3018Eeb374a1a48338836BD3e693A554E739291B) |
+| `AVAX - gOHM`     | `Pangolin`   | [0x2a1D2D2Fdb76AB3baB6ba424612dDAFc5750de59](https://snowtrace.io/address/0x2a1D2D2Fdb76AB3baB6ba424612dDAFc5750de59) |
+| `AVAX - LOOT`     | `Pangolin`   | [0x9ce2631A9E7075C86F750746AeB385f51287a052](https://snowtrace.io/address/0x9ce2631A9E7075C86F750746AeB385f51287a052) |
+| `AVAX - MIM`      | `Pangolin`   | [0x09d5f6DC51485985ef248d9Ea796B349134595fc](https://snowtrace.io/address/0x09d5f6DC51485985ef248d9Ea796B349134595fc) |
+| `AVAX - MONEY`    | `Pangolin`   | [0x0Ca13F6cfd20eF14e140e7E8D69D04Bc60B77EfC](https://snowtrace.io/address/0x0Ca13F6cfd20eF14e140e7E8D69D04Bc60B77EfC) |
+| `AVAX - ODDZ`     | `Pangolin`   | [0x4672520158F7c20e2CCFcdCE756910C062D77F19](https://snowtrace.io/address/0x4672520158F7c20e2CCFcdCE756910C062D77F19) |
+| `AVAX - sAVAX`    | `Pangolin`   | [0x51D914129E4EAf1BFA34e0194CE36F9C46112a65](https://snowtrace.io/address/0x51D914129E4EAf1BFA34e0194CE36F9C46112a65) |
+| `AVAX - YDR`      | `Pangolin`   | [0x2Fb9D91530b032079a142D7B3c4c6770c85F646b](https://snowtrace.io/address/0x2Fb9D91530b032079a142D7B3c4c6770c85F646b) |
+| `AVAX - ZEE`      | `Pangolin`   | [0x476B7729e57Da8a3f48d37c4A36626201F7A3D35](https://snowtrace.io/address/0x476B7729e57Da8a3f48d37c4A36626201F7A3D35) |
 | `PNG - SNOB`      | `Pangolin`   | [0xB4db531076494432eaAA4C6fCD59fcc876af2734](https://snowtrace.io/address/0xB4db531076494432eaAA4C6fCD59fcc876af2734) |
 | `PNG - VSO`       | `Pangolin`   | [0x8309C64390F376fD778BDd701d54d1F8DFfe1F39](https://snowtrace.io/address/0x8309C64390F376fD778BDd701d54d1F8DFfe1F39) |
 | `PNG - SPORE`     | `Pangolin`   | [0xa39785a4E4CdDa7509751ed152a00f3D37FbFa9F](https://snowtrace.io/address/0xa39785a4E4CdDa7509751ed152a00f3D37FbFa9F) |
@@ -154,8 +183,11 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `PNG - AAVE.e`    | `Pangolin`   | [0x9397A0257631955DBee5404506B363ab276D2315](https://snowtrace.io/address/0x9397A0257631955DBee5404506B363ab276D2315) |
 | `PNG - SHERPA`    | `Pangolin`   | [0x8406aAF035c2c50239b32D1cb4583916c1F1c094](https://snowtrace.io/address/0x8406aAF035c2c50239b32D1cb4583916c1F1c094) |
 | `PNG - ELE`       | `Pangolin`   | [0x1812f42de15EA7da3901ce34237Ee8CA5F01857a](https://snowtrace.io/address/0x1812f42de15EA7da3901ce34237Ee8CA5F01857a) |
+| `PNG - USDC.e`    | `Pangolin`   | [0x39259A07C7B21189BF1bC2Bd75967565b3C1F16e](https://snowtrace.io/address/0x39259A07C7B21189BF1bC2Bd75967565b3C1F16e) |
 | `USDT.e - SKILL`  | `Pangolin`   | [0x32930cFE5B9C5C5d247e36C31837562fDCD68553](https://snowtrace.io/address/0x32930cFE5B9C5C5d247e36C31837562fDCD68553) |
 | `TUSD - DAI.e`    | `Pangolin`   | [0xA888388f6f54e25e59A99498731e71CA10aAF77a](https://snowtrace.io/address/0xA888388f6f54e25e59A99498731e71CA10aAF77a) |
+| `MIM - USDC.e`    | `Pangolin`   | [0x4c073D1F04EC6208f79C097c239153d3797711D9](https://snowtrace.io/address/0x4c073D1F04EC6208f79C097c239153d3797711D9) |
+| `DLAUNCH - UST`   | `Pangolin`   | [0x5e50be947a629a7bE56b143A1271651B832B0Ad6](https://snowtrace.io/address/0x5e50be947a629a7bE56b143A1271651B832B0Ad6) |
 | `WAVAX`           | `BenQi`      | [0x7b74324f523831687fC8FCE946F15a3AA632dC06](https://snowtrace.io/address/0x7b74324f523831687fC8FCE946F15a3AA632dC06) |
 | `QI`              | `BenQi`      | [0x68b8037876385BBd6bBe80bAbB2511b95DA372C4](https://snowtrace.io/address/0x68b8037876385BBd6bBe80bAbB2511b95DA372C4) |
 | `DAI.e`           | `Platypus`   | [0xf332d93A556A556a785AC0B010791918d7b8E927](https://snowtrace.io/address/0xf332d93A556A556a785AC0B010791918d7b8E927) |
@@ -204,16 +236,31 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `AVAX - SNOB`     | `Trader Joe` | [0xbfb39cf60b4598B1EEc796838faF874f6c41289B](https://snowtrace.io/address/0xbfb39cf60b4598B1EEc796838faF874f6c41289B) |
 | `AVAX - SPELL`    | `Trader Joe` | [0x52f994801126A573c60F5b0666766742F8a24A4e](https://snowtrace.io/address/0x52f994801126A573c60F5b0666766742F8a24A4e) |
 | `AVAX - YAK`      | `Trader Joe` | [0xb1516a54C097E59c7265633EcdA2739A612006f3](https://snowtrace.io/address/0xb1516a54C097E59c7265633EcdA2739A612006f3) |
+| `AVAX - BNB`      | `Trader Joe` | [0x750706E95F4AF537BCcD76B77e06D2d55be384BF](https://snowtrace.io/address/0x750706E95F4AF537BCcD76B77e06D2d55be384BF) |
+| `AVAX - CLY`      | `Trader Joe` | [0x89d6eD648200B66A84F90d178E6668213bF2CFcE](https://snowtrace.io/address/0x89d6eD648200B66A84F90d178E6668213bF2CFcE) |
+| `AVAX - KLO`      | `Trader Joe` | [0x185B384e13fD2e79E1d974CC470E4C1a8ae7FC43](https://snowtrace.io/address/0x185B384e13fD2e79E1d974CC470E4C1a8ae7FC43) |
+| `AVAX - LINK.e`   | `Trader Joe` | [0x760598Fc18DE7B31368a2F82F3C0445b4f73c7C9](https://snowtrace.io/address/0x760598Fc18DE7B31368a2F82F3C0445b4f73c7C9) |
+| `AVAX - MAI`      | `Trader Joe` | [0x86B4f0A1258Ed2D8cd71E217e7f6eBFD5bF63c23](https://snowtrace.io/address/0x86B4f0A1258Ed2D8cd71E217e7f6eBFD5bF63c23) |
+| `AVAX - RELAY`    | `Trader Joe` | [0x49e465b776cD1e95D51a737A2845c78169E19C4E](https://snowtrace.io/address/0x49e465b776cD1e95D51a737A2845c78169E19C4E) |
+| `AVAX - UST`      | `Trader Joe` | [0xc33544374CBfd4d7eBA8b3cc854837DF71ec314e](https://snowtrace.io/address/0xc33544374CBfd4d7eBA8b3cc854837DF71ec314e) |
 | `JOE - PNG`       | `Trader Joe` | [0xcacf38d95bc613cb3f5f2306b6fbed2472fd5ae6](https://snowtrace.io/address/0xcAcF38D95Bc613cb3F5f2306b6fBed2472FD5ae6) |
 | `JOE - DAI`       | `Trader Joe` | [0xff49e162e6bc10cdf12a8c35f162b79ab3d34bea](https://snowtrace.io/address/0xfF49E162E6bc10CDF12A8c35f162B79ab3d34BEA) |
+| `JOE - USDC.e`    | `Trader Joe` | [0x9b9F3dAd347F2c7e563D1ee8dae32AB9338Abd44](https://snowtrace.io/address/0x9b9F3dAd347F2c7e563D1ee8dae32AB9338Abd44) |
 | `DAI.e - USDC.e`  | `Trader Joe` | [0x32553a13b6d3521845861ff1aff6f511b109374b](https://snowtrace.io/address/0x32553a13B6d3521845861Ff1AFF6F511B109374b) |
+| `USDC.e - USDC`   | `Trader Joe` | [0x22ec75A6BC9D8f2b828615820c98811c6712B303](https://snowtrace.io/address/0x22ec75A6BC9D8f2b828615820c98811c6712B303) |
 | `USDT.e - DAI.e`  | `Trader Joe` | [0x1369e19dbd4825616df7ade73ea92aa7504d851e](https://snowtrace.io/address/0x1369e19DBd4825616Df7ADE73EA92aA7504d851E) |
 | `USDT.e - USDC.e` | `Trader Joe` | [0x29CD11ddC2C42c726F1C1EDD2cF1c15d16412E0f](https://snowtrace.io/address/0x29CD11ddC2C42c726F1C1EDD2cF1c15d16412E0f) |
+| `WBTC.e - USDC.e` | `Trader Joe` | [0x6579aabb842253e68eD8586cE6c1E288AA511120](https://snowtrace.io/address/0x6579aabb842253e68eD8586cE6c1E288AA511120) |
+| `WETH.e - USDC.e` | `Trader Joe` | [0x82Ca9B36922B3c9D6e45696FF1Fbf979eef8adEB](https://snowtrace.io/address/0x82Ca9B36922B3c9D6e45696FF1Fbf979eef8adEB) |
 | `gOHM - FRAX`     | `Trader Joe` | [0xc3eAC23bE0C89EBabB4323BF8E1B42C4f0D2B4aD](https://snowtrace.io/address/0xc3eAC23bE0C89EBabB4323BF8E1B42C4f0D2B4aD) |
 | `LINK.e - USDC.e` | `Trader Joe` | [0xE2b112dde9A8cE59C7DC486315cdf88924Efa71a](https://snowtrace.io/address/0xE2b112dde9A8cE59C7DC486315cdf88924Efa71a) |
 | `xJOE`            | `Trader Joe` | [0xE19AF15e4E8a62Ae13C29e2f6B1d9BBbFd7D6BA1](https://snowtrace.io/address/0xE19AF15e4E8a62Ae13C29e2f6B1d9BBbFd7D6BA1) |
-| `xJOE`            | `Banker Joe` | [0xB347a857F20857c954b7aF52D9A306dF2F9EC89f](https://snowtrace.io/address/0xB347a857F20857c954b7aF52D9A306dF2F9EC89f) |
+| `LINK.e`          | `Banker Joe` | [0xCda550C9cb6616E7e48ce3511eA47FE64851819E](https://snowtrace.io/address/0xCda550C9cb6616E7e48ce3511eA47FE64851819E) |
+| `USDC.e`          | `Banker Joe` | [0x318AC6831Ba4838BDC3F6A9B7b998A73efD061Ee](https://snowtrace.io/address/0x318AC6831Ba4838BDC3F6A9B7b998A73efD061Ee) |
+| `USDT.e`          | `Banker Joe` | [0x1F5D44E5aB4804183B523B337DD289075e2616Dd](https://snowtrace.io/address/0x1F5D44E5aB4804183B523B337DD289075e2616Dd) |
+| `WBTC.e`          | `Banker Joe` | [0xB57944317ca5A32bf8Db871d4C5fc87072524d5F](https://snowtrace.io/address/0xB57944317ca5A32bf8Db871d4C5fc87072524d5F) |
 | `MIM`             | `Banker Joe` | [0x55839d98536348825aB31c0c1263fbE814Bf649a](https://snowtrace.io/address/0x55839d98536348825aB31c0c1263fbE814Bf649a) |
+| `xJOE`            | `Banker Joe` | [0xB347a857F20857c954b7aF52D9A306dF2F9EC89f](https://snowtrace.io/address/0xB347a857F20857c954b7aF52D9A306dF2F9EC89f) |
 | `AVAX - ETH`      | `Pangolin`   | [0x6bb9d2420217e0c3f272f47c58942e89e23806c9](https://snowtrace.io/address/0x6bb9D2420217e0C3f272f47C58942e89e23806c9) |
 | `AVAX - LINK`     | `Pangolin`   | [0x7e68717f6228764bc1fc7a970dd5a041837c370c](https://snowtrace.io/address/0x7E68717f6228764Bc1fC7a970dD5A041837C370c) |
 | `AVAX - SUSHI`    | `Pangolin`   | [0x38a9635c0a1b62a7d8bc608a3ad5d84b300831ae](https://snowtrace.io/address/0x38a9635C0a1b62A7D8bc608a3Ad5D84b300831aE) |
@@ -272,6 +319,20 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `AVAX - HTZ`      | `Pangolin`   | [0xD9CfAf5CeEd37D7DEEB9beab2730aa1ab33e5C00](https://snowtrace.io/address/0xD9CfAf5CeEd37D7DEEB9beab2730aa1ab33e5C00) |
 | `AVAX - MAGE`     | `Pangolin`   | [0xEfC247259d93d718C7ff2955Ae58024E536cA97d](https://snowtrace.io/address/0xEfC247259d93d718C7ff2955Ae58024E536cA97d) |
 | `AVAX - PLN`      | `Pangolin`   | [0x565f238eb896045bb1b1f8Cf7d0a57f2FE71d3A9](https://snowtrace.io/address/0x565f238eb896045bb1b1f8Cf7d0a57f2FE71d3A9) |
+| `AVAX - BAVA`     | `Pangolin`   | [0xa33843440DBD4c028b63d84bad1CD8e9BAf73BD7](https://snowtrace.io/address/0xa33843440DBD4c028b63d84bad1CD8e9BAf73BD7) |
+| `AVAX - BRIBE`    | `Pangolin`   | [0x919C030E299fe513F21Af119a5854740A0f74442](https://snowtrace.io/address/0x919C030E299fe513F21Af119a5854740A0f74442) |
+| `AVAX - DCAU`     | `Pangolin`   | [0xa1E5b66a9EdA2cB572Bf99a8b7A0Ca1639ce150A](https://snowtrace.io/address/0xa1E5b66a9EdA2cB572Bf99a8b7A0Ca1639ce150A) |
+| `AVAX - DEP`      | `Pangolin`   | [0x53D997D40824dCcb7a4A81B2dc498f5D5a953962](https://snowtrace.io/address/0x53D997D40824dCcb7a4A81B2dc498f5D5a953962) |
+| `AVAX - FEED`     | `Pangolin`   | [0x5C320a44052c8d1b3bC364A40807cDDBAC427cAE](https://snowtrace.io/address/0x5C320a44052c8d1b3bC364A40807cDDBAC427cAE) |
+| `AVAX - FIRE`     | `Pangolin`   | [0x8fcAE5D6dbe3D354EA23AE7509AB0b7de0753240](https://snowtrace.io/address/0x8fcAE5D6dbe3D354EA23AE7509AB0b7de0753240) |
+| `AVAX - gOHM`     | `Pangolin`   | [0xEaB12117c7d5695F7fFde6b599C2b4A13d2EE31f](https://snowtrace.io/address/0xEaB12117c7d5695F7fFde6b599C2b4A13d2EE31f) |
+| `AVAX - LOOT`     | `Pangolin`   | [0x8fFa9cF8c2CED6f88F80e7D4ba534f953FfFB4E6](https://snowtrace.io/address/0x8fFa9cF8c2CED6f88F80e7D4ba534f953FfFB4E6) |
+| `AVAX - MIM`      | `Pangolin`   | [0xc199A791b6A4C1aC0FC76167fd120fbF8de0CfA8](https://snowtrace.io/address/0xc199A791b6A4C1aC0FC76167fd120fbF8de0CfA8) |
+| `AVAX - MONEY`    | `Pangolin`   | [0xac6E59108FD8f868EB2256091c9337943101b164](https://snowtrace.io/address/0xac6E59108FD8f868EB2256091c9337943101b164) |
+| `AVAX - ODDZ`     | `Pangolin`   | [0x53a99457D53Bf3A2d5bfA533385D3715C476E733](https://snowtrace.io/address/0x53a99457D53Bf3A2d5bfA533385D3715C476E733) |
+| `AVAX - sAVAX`    | `Pangolin`   | [0x5B2a130C256661A991075bEf4EeBE55327417015](https://snowtrace.io/address/0x5B2a130C256661A991075bEf4EeBE55327417015) |
+| `AVAX - YDR`      | `Pangolin`   | [0x8d9df13D11a8312d295A6e145EA6B08Ff195D4ad](https://snowtrace.io/address/0x8d9df13D11a8312d295A6e145EA6B08Ff195D4ad) |
+| `AVAX - ZEE`      | `Pangolin`   | [0x8085e2C810D1C880155a8404bADC2a7222eE0B45](https://snowtrace.io/address/0x8085e2C810D1C880155a8404bADC2a7222eE0B45) |
 | `PNG - SNOB`      | `Pangolin`   | [0x2a83cf1cc8727d281c1afa9385d5e7f75b2fafb5](https://snowtrace.io/address/0x2a83Cf1Cc8727D281C1afa9385d5E7f75B2FafB5) |
 | `PNG - VSO`       | `Pangolin`   | [0x97150ce64e4f569b0ad63a85e564391bbddc2a22](https://snowtrace.io/address/0x97150Ce64E4F569B0aD63A85e564391bbddC2a22) |
 | `PNG - SPORE`     | `Pangolin`   | [0x53f7445190f2010f8d22ea6e220813d4254b153f](https://snowtrace.io/address/0x53F7445190F2010F8d22eA6E220813D4254B153f) |
@@ -321,8 +382,11 @@ If you are look for instructions on how to withdraw from a deprecated pool, chec
 | `PNG - AAVE.e`    | `Pangolin`   | [0xfd72d186ba9ac0f5f79f4370ba584b8bda2ae4dd](https://snowtrace.io/address/0xfd72D186ba9ac0f5f79f4370ba584B8Bda2ae4dd) |
 | `PNG - SHERPA`    | `Pangolin`   | [0xe52fd0cbc3e84520c39a383ee6df3c1a1776d5d8](https://snowtrace.io/address/0xe52fd0Cbc3e84520c39A383ee6Df3C1a1776d5D8) |
 | `PNG - ELE`       | `Pangolin`   | [0x15a6d23d2bf3a2aca33aadc2e1f597929d6d61c8](https://snowtrace.io/address/0x15A6D23d2bF3A2AcA33aadc2E1f597929D6d61C8) |
+| `PNG - USDC.e`    | `Pangolin`   | [0xdBc2432422E531577941a57cBb46895d654D7B1E](https://snowtrace.io/address/0xdBc2432422E531577941a57cBb46895d654D7B1E) |
 | `USDT.e - SKILL`  | `Pangolin`   | [0xdBc58A1150b837FB1aA73981988dE90e1C238Dbf](https://snowtrace.io/address/0xdBc58A1150b837FB1aA73981988dE90e1C238Dbf) |
 | `TUSD - DAI.e`    | `Pangolin`   | [0x2194B40bF9F7d3429E30fC7451cf422c1B3cdcC0](https://snowtrace.io/address/0x2194B40bF9F7d3429E30fC7451cf422c1B3cdcC0) |
+| `MIM - USDC.e`    | `Pangolin`   | [0x77631532f8c76e209A56D1826c61B5d981D6924a](https://snowtrace.io/address/0x77631532f8c76e209A56D1826c61B5d981D6924a) |
+| `DLAUNCH - UST`   | `Pangolin`   | [0x3fF53DcB9374CD7c73cf2F998ea61fDb1A287BD0](https://snowtrace.io/address/0x3fF53DcB9374CD7c73cf2F998ea61fDb1A287BD0) |
 | `WAVAX`           | `BenQi`      | [0xaBe28c3B53E8200C87aDb2b790d3594C3fcEf16d](https://snowtrace.io/address/0xaBe28c3B53E8200C87aDb2b790d3594C3fcEf16d) |
 | `QI`              | `BenQi`      | [0x0Ec726BF3FF6CBf58c9f300d86F5fAd149a52039](https://snowtrace.io/address/0x0Ec726BF3FF6CBf58c9f300d86F5fAd149a52039) |
 | `DAI.e`           | `Platypus`   | [0xFAc93ba9623EC5239686b329E186C1F9B9f3C9B9](https://snowtrace.io/address/0xFAc93ba9623EC5239686b329E186C1F9B9f3C9B9) |
