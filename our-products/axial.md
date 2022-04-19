@@ -1,6 +1,6 @@
 # Axial
 
-![](<../.gitbook/assets/image (13) (1) (1).png>)
+![](<../.gitbook/assets/image (15).png>)
 
 Axial is the center for liquidity on Avalanche, particularly for value-pegged assets such as stablecoins, derivatives and synthetics.
 

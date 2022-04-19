@@ -78,9 +78,9 @@ Keep in mind these examples will take into account the current rates as of 02/11
 
 #### Single-Asset AVAX Strategies
 
-![Aave WAVAX Lending + Folding Strategy](../../.gitbook/assets/AvaxAaveStrat.png)
+![Aave WAVAX Lending + Folding Strategy](<../../.gitbook/assets/AvaxAaveStrat (1).png>)
 
-![BenQi WAVAX Lending + Folding Strategy](../../.gitbook/assets/AvaxBenqiStrat.png)
+![BenQi WAVAX Lending + Folding Strategy](<../../.gitbook/assets/AvaxBenqiStrat (1).png>)
 
 For the strategies above, the important aspects to consider are the rates being offered, TVL, underlying platform and the composition of the rates you are getting. The rates being offered for these lending and folding strategies are quite similar, including their compositions (both have approximately 5.5-6% of SNOB APR). Because of this, a decision between these two would likely come down to TVL and how battle-tested each of the underlying platforms are.
 
