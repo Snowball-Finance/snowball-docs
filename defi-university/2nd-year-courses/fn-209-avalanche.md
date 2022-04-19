@@ -1,5 +1,7 @@
 # FN 209 - Avalanche
 
+![](<../../.gitbook/assets/image (17).png>)
+
 With so many blockchains being developed, it is important to know exactly why we choose to build within Avalanche, and what makes it unique amongst other chains. This course will briefly cover the following:
 
 * Avalanche's Infrastructure
