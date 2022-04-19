@@ -53,7 +53,7 @@ If we search for this wallet address on the block explorer, it gives us a lot of
 
 Other than viewing wallet addresses, we can also see even more information regarding smart contracts on a block explorer. Let's take a look at Snowball's main governance contract for example:
 
-![Snowball's Governance Contract on Avalanche](<../../.gitbook/assets/image (11) (1).png>)
+![Snowball's Governance Contract on Avalanche](<../../.gitbook/assets/image (11) (1) (1).png>)
 
 We can see the entire source code for any smart contract on the block explorer unless the contract has not been verified yet. This allows for a lot more transparency and makes it easier for legitimate projects to stand out amongst the crowd of smart contracts by using well-written, safe and robust code.
 

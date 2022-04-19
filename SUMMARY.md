@@ -38,14 +38,14 @@
   * [FN 104 - Tokens](defi-university/1st-year-courses/fn-104-tokens.md)
   * [FN 106 - Gas Fees](defi-university/1st-year-courses/fn-106-gas-fees.md)
   * [YF 111 - Lending Markets](defi-university/1st-year-courses/yf-111-lending-markets.md)
-  * [YF 122 - Liquidity Pools](defi-university/1st-year-courses/yf-122-liquidity-pools.md)
+  * [YF 121 - Liquidity Pools](defi-university/1st-year-courses/yf-122-liquidity-pools.md)
   * [GV 141 - DAOs](defi-university/1st-year-courses/gv-141-daos.md)
   * [EX 151 - Spotting Scams](defi-university/1st-year-courses/ex-151-spotting-scams.md)
 * [2nd Year Courses](defi-university/2nd-year-courses/README.md)
   * [FN 205 - Bridges](defi-university/2nd-year-courses/fn-205-bridges.md)
   * [FN 207 - Apps vs Dapps](defi-university/2nd-year-courses/fn-207-apps-vs-dapps.md)
   * [FN 209 - Avalanche](defi-university/2nd-year-courses/fn-209-avalanche.md)
-  * [FN 221 - DEXs](defi-university/2nd-year-courses/fn-221-dexs.md)
+  * [FN 222 - DEXs](defi-university/2nd-year-courses/fn-221-dexs.md)
   * [FN 231 - Stablecoins](defi-university/2nd-year-courses/fn-231-stablecoins.md)
   * [GV 242 - Voting Mechanisms](defi-university/2nd-year-courses/gv-242-voting-mechanisms.md)
   * [YF 261 - Auto-Compounding](defi-university/2nd-year-courses/yf-261-auto-compounding.md)
@@ -61,6 +61,7 @@
   * [YF 362 - Liquid Staking](defi-university/3rd-year-courses/yf-362-liquid-staking.md)
 * [4th Year Courses](defi-university/4th-year-courses/README.md)
   * [YF 424 - LP Math](defi-university/4th-year-courses/yf-424-lp-math.md)
+  * [YF 425 - One-Sided Stable LPs](defi-university/4th-year-courses/yf-425-one-sided-stable-lps.md)
 
 ## 🗃 Resources
 

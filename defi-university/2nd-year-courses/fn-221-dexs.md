@@ -1,4 +1,4 @@
-# FN 221 - DEXs
+# FN 222 - DEXs
 
 Decentralized Exchanges (DEXs) are another essential functionality in DeFi. They allow you to trade any token without the relying on centralized companies and services. This course will cover the following:
 
@@ -48,7 +48,7 @@ Swapping tokens through a DEX is simple, and in most cases follows the following
 2. Signing an 'approval' transaction through your wallet for the token you want to trade.
 3. Signing the 'swap' transaction through your wallet.
 
-![Trading 1 AVAX for SNOB on Pangolin](<../../.gitbook/assets/image (11) (1) (1).png>)
+![Trading 1 AVAX for SNOB on Pangolin](<../../.gitbook/assets/image (11) (1) (1) (1).png>)
 
 Once you input both the token you want to swap and the token you want to swap for, the dapp should show you the estimated slippage (displayed as 'price impact' above), and any fees associated with your transaction. Large transactions may have higher slippage and fees depending on where you are trading, so make sure you watch out for those and pick your DEX accordingly.
 

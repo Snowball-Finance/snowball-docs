@@ -54,7 +54,7 @@ The other kind is more common, however, and is especially prevalent in blockchai
 
 An example of such tokens can be found [**here**](https://bscscan.com/address/0x0df62d2cd80591798721ddc93001afe868c367ff). Very often block explorers are smart about these types of scams and have warnings on their pages:
 
-![Warning on bscscan.com (BSC's block explorer)](<../../.gitbook/assets/image (14).png>)
+![Warning on bscscan.com (BSC's block explorer)](<../../.gitbook/assets/image (14) (1).png>)
 
 In order to avoid these scams, do the following:
 
