@@ -26,7 +26,7 @@ This guide will cover how to keep your MetaMask wallet safer than ever through r
 
 1\) Select the three dots on the top right and click on **Connected Sites**.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 2\) Click on the trash icon next to any dapps you no longer interact with, and confirm the disconnection:
 

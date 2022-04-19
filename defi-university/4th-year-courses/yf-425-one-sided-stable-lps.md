@@ -40,31 +40,23 @@ There is, however, great study into concepts such as [**mean reversion**](https:
 
 Among the many interesting arguments for the profitability of a one-sided stable LP, one is approaching the issue of impermanent loss and upside potential through the lens of simple probability. For a simple liquidity pool, there are nine possible outcomes when it comes to the price action of its underlying assets:
 
-1. <mark style="color:green;">Asset A has no change in price. Asset B has no change in price.</mark>
-2. <mark style="color:orange;">Asset A has no change in price. Asset B's price increases.</mark>
-3. <mark style="color:orange;">Asset A has no change in price. Asset B's price decreases.</mark>
-4. <mark style="color:orange;">Asset A's price increases. Asset B has no change in price.</mark>
-5. <mark style="color:green;">Asset A's price increases. Asset B's price increases.</mark>
-6. <mark style="color:red;">Asset A's price increases. Asset B's price decreases.</mark>
-7. <mark style="color:orange;">Asset A's price decreases. Asset B has no change in price.</mark>
-8. <mark style="color:red;">Asset A's price decreases. Asset B's price increases.</mark>
-9. <mark style="color:green;">Asset A's price decreases. Asset B's price decreases.</mark>
+![Simplified Grid of Possible LP Outcomes](<../../.gitbook/assets/image (10).png>)
 
 Obviously in reality there is a lot more granularity to how each outcome affects a pool's position, but we can simplify each outcome by how likely it is to generate a large amount of impermanent loss.
 
-Highlighted in green above, for example, are the scenarios where impermanent loss is somewhat mitigated, even though outcomes 5 and 9 could see impermanent loss if one asset's price movement is much larger than the other.
+Highlighted in green above, for example, are the scenarios where impermanent loss is somewhat mitigated, even though the second and third green outcomes could see impermanent loss if one asset's price movement is much larger than the other.
 
 Highlighted in orange are scenarios where impermanent loss is caused by one asset's price movement, and thus would require a large percentage change in order to cause a large amount of impermanent loss.
 
 Highlighted in red are outcomes where due to assets' prices moving in different directions, a smaller percentage change in each asset's price would be required to affect the pool's ratio enough and cause significant impermanent loss.
 
-The following would be a similar list of possible outcomes, but for a one-sided stable LP:
+In a one-sided stable LP, the possible outcomes are reduced to essentially the first row of the grid above:
 
 1. <mark style="color:green;">Asset A has no change in price. Asset B has no change in price.</mark>
 2. <mark style="color:orange;">Asset A has no change in price. Asset B's price increases.</mark>
 3. <mark style="color:orange;">Asset A has no change in price. Asset B's price decreases.</mark>
 
-In this case we maintain the 1/3 chance of generating no impermanent loss, either the same as a traditional liquidity pool or drastically better if you'd argue against the classification of previous outcomes 5 and 9. More importantly, you are no longer exposed to the scenarios most likely to generate large amounts of impermanent loss. This is quite intuitive when you consider you are only exposed to the price movements of one token rather than two.
+In this case we maintain the 1/3 chance of generating no impermanent loss, either the same as a traditional liquidity pool or drastically better if you'd argue against the classification of some previously green outcomes. More importantly, you are no longer exposed to the scenarios most likely to generate large amounts of impermanent loss. This is quite intuitive when you consider you are only exposed to the price movements of one token rather than two.
 
 ## The Automation Approach
 

@@ -41,7 +41,7 @@ In Avalanche, there are currently 3 main lending markets:
 
 Each platform has different approaches to collateralization ratios and interest rates. However, what all have in common are token incentives for those lending and borrowing on their platform. Currently Aave provides incentives in WAVAX tokens, while BenQi uses QI, their own governance token and AVAX. Trader Joe uses a mix of both, their JOE token and AVAX tokens.
 
-![Aave's Interface](<../../.gitbook/assets/image (10) (1).png>)
+![Aave's Interface](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 Lending markets will commonly display, as seen above, the total market size of each token, the amount being borrowed, and the rates for both lending and borrowing each asset. In this case the platform incentives are shown under the deposit and borrow APYs. Other lending markets will share a similar interface, but may or may not already include the incentives when displaying their rates.
 
