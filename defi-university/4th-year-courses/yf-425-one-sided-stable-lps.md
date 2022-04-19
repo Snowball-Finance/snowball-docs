@@ -74,7 +74,7 @@ By instead allocating a token's position into a one-sided stable LP, you are ess
 
 Take a USDC-AVAX liquidity pool, for example. As the price of AVAX decreases, your share of the liquidity pool will contain less USDC, and more AVAX. You are essentially spending USDC to purchase more AVAX as its price decreases. Similarly, as the price of AVAX increases, you will essentially be selling AVAX for USDC.
 
-In practice, this functions as a somewhat unconventional [**hedge**](https://www.investopedia.com/terms/h/hedge.asp), where you are automatically taking profits off of a performing asset with the downside of limiting your exposure to that asset's potential upside. Of course these profits would only be truly realized when exiting the position. You could even consider exiting the position after a large upwards price change of an asset, accepting the impermanent loss that comes from such a move, if you expect the asset to quickly reverse towards its mean.
+In practice, this functions as a somewhat unconventional [**hedge**](https://www.investopedia.com/terms/h/hedge.asp), where you are automatically taking profits off of a performing asset with the opportunity cost of limiting your exposure to that asset's potential upside. Of course these profits would only be truly realized when exiting the position. You could even consider exiting the position after a large upwards price change of an asset, accepting the impermanent loss that comes from such a move, if you expect the asset to quickly reverse towards its mean.
 
 ## The Yield Approach
 
