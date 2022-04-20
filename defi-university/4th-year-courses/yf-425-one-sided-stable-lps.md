@@ -76,7 +76,7 @@ At the end of the day, if a strategy's yield is not there, it is not worth much 
 
 Above we can see the ten largest liquidity pools sorted by weekly volume, on Avalanche's largest decentralized exchange, Trader Joe. All of them include WAVAX, the wrapped form of Avalanche's native token; AVAX. Interestingly, six of them are also one-sided stable LPs, including the two largest pools, with over $100M in weekly volume each. Keep in mind this is only one decentralized exchange; similar results can be seen on Pangolin, for example:
 
-![Top 10 Pangolin Liquidity Pools Sorted By 7-Day Volume (https://info.pangolin.exchange/)](<../../.gitbook/assets/image (11).png>)
+![Top 10 Pangolin Liquidity Pools Sorted By 7-Day Volume (https://info.pangolin.exchange/)](<../../.gitbook/assets/image (11) (1).png>)
 
 Considering even the worst Trader Joe one-sided stable LP has a yield of 11.55% APR, one could argue that exposure to impermanent loss is but a small inconvenience. At these rates, the price of the volatile asset in such a pool would have to almost triple in order to engulf the yield received. This is, of course, completely plausible in DeFi during the timespan of a year, but nonetheless, if an asset you are holding triples in value, I'd say you are well off regardless.
 

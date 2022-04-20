@@ -30,12 +30,12 @@ $$
 
 Simple enough. In this equation, `x` refers to the amount of the first token in the pool, and `y` refers to the amount of the other token in pool. Finally, `k` is the pool's constant product. Let's use the AVAX-SNOB pool on Pangolin as an example:
 
-![Pangolin's AVAX-SNOB Liquidity Pool Contract](../../.gitbook/assets/Math0.png)
+![Pangolin's AVAX-SNOB Liquidity Pool Contract](<../../.gitbook/assets/image (11).png>)
 
-As can be seen on the pool's [**contract**](https://snowtrace.io/address/0xa1C2c3B6b120cBd4Cec7D2371FFd4a931A134A32), there are approximately 2255 AVAX tokens and 125,016 SNOB tokens in it. This means we can calculate the pool's current `k` value:
+As can be seen on the pool's [**contract**](https://snowtrace.io/address/0xa1C2c3B6b120cBd4Cec7D2371FFd4a931A134A32), there are approximately 1,089 AVAX tokens and 623,500 SNOB tokens in it. This means we can calculate the pool's current `k` value:
 
 $$
-\text{2,255} * \text{125,016} = \text{281,911,080}
+\text{1,089} * \text{623,500} = \text{678,911,50}0
 $$
 
 This value, while not very useful on its own, can help calculate the pool's balances based on certain events. The relevant events that can take place in a liquidity pool are the following:
@@ -49,16 +49,16 @@ When others deposit into the pool, the value of `k` would increase since there a
 In the case of trading fees being collected into the pool, since there are also more tokens in the pool, the value of `k` would increase. However, since there are still the same amount of LP tokens in circulation, your share of the pool is unaffected. This means your LP tokens are now worth more. For example, if you owned 0.5% of the pool:
 
 $$
-\frac{\text{2,255}} {100} * 0.5 = 11.275 \text{ AVAX} \text{, } \frac{\text{125,016}} {100} * 0.5 = 625.08 \text{ SNOB}
+\frac{\text{1,089}} {100} * 0.5 = \text{5.445} \text{ AVAX} \text{, } \frac{\text{623,500}} {100} * 0.5 = \text{3,117.5} \text{ SNOB}
 $$
 
-However, let's say over the span of a week 25 AVAX and 1386 SNOB were collected as fees into the pool:
+However, let's say over the span of a week 10 AVAX and 5,725 SNOB were collected as fees into the pool:
 
 $$
-\frac{\text{2,280}} {100} * 0.5 = 11.4 \text{ AVAX} \text{, } \frac{\text{126,402}} {100} * 0.5 = 632.01 \text{ SNOB}
+\frac{\text{1,099}} {100} * 0.5 = \text{5.495} \text{ AVAX} \text{, } \frac{\text{629,225}} {100} * 0.5 = \text{3,146.125} \text{ SNOB}
 $$
 
-This would result in a profit of 0.125 AVAX and 6.93 SNOB for you. This is assuming there were no deposits into or withdrawals from the pool in terms of liquidity, or any asset price changes.
+This would result in a profit of 0.05 AVAX and 28.625 SNOB for you. This is assuming there were no deposits into or withdrawals from the pool in terms of liquidity, or any asset price changes.
 
 These first two events are quite self-explanatory, and do not require a lot of calculations. Where it does start getting a little messy is when price changes come into play.
 
@@ -67,12 +67,12 @@ These first two events are quite self-explanatory, and do not require a lot of c
 The important value to keep in mind when considering asset price changes is the ratio between the two tokens in the pool. In our starting example:
 
 $$
-\frac{\text{125,016}} {\text{2,255}} \approx 55.44
+\frac{\text{623,500}} {\text{1,089}} \approx 572.54
 $$
 
-In practice, this means 1 AVAX is equal to 55.44 SNOB. As calculated beforehand, if you owned 0.5% of the pool, you have 11.275 AVAX and 625.08 SNOB.
+In practice, this means 1 AVAX is equal to 572.54 SNOB. As calculated beforehand, if you owned 0.5% of the pool, you have 5.445 AVAX and 3,117.5 SNOB.
 
-However, let's say that the price of SNOB tokens doubles by next week. AVAX prices remain the same. 1 AVAX would be equal to 27.72 SNOB. In order to calculate the new pool balances based on this price change, we need a few new equations:
+However, let's say that the price of SNOB tokens doubles by next week. AVAX prices remain the same. 1 AVAX would be equal to 286.27 SNOB. In order to calculate the new pool balances based on this price change, we need a few new equations:
 
 $$
 x_t = \sqrt{\frac{k} {r_t}}, y_t = \sqrt{{k * r_t}}
@@ -81,19 +81,19 @@ $$
 In the equations above, `x` and `y` are the token balances at any given time. `k` is the product constant that we calculated beforehand. `r` refers to the ratio of tokens at any given time. We can test these equations with our original values prior to the price change:
 
 $$
-x_t = \sqrt{\frac{\text{281,911,080}} {55.44}} \approx \text{2,255}, y_t = \sqrt{{\text{281,911,080} * 55.44}} \approx \text{125,016}
+x_t = \sqrt{\frac{\text{678,911,500}} {572.54}} \approx \text{1,089}, y_t = \sqrt{{\text{678,911,500} * 572.54}} \approx \text{623,461}
 $$
 
 And similarly, calculate the new balances after the price change using the new ratio:
 
 $$
-x_t = \sqrt{\frac{\text{281,911,080}} {27.72}} \approx \text{3,189}, y_t = \sqrt{{\text{281,911,080} * 27.72}} \approx \text{88,400}
+x_t = \sqrt{\frac{\text{678,911,500}} {286.27}} \approx \text{1,540}, y_t = \sqrt{{\text{678,911,500} * 286.27}} \approx \text{440,854}
 $$
 
-If you owned 0.5% of the pool, previously you would have had 11.275 AVAX and 625.08 SNOB. After the price change, you would now have:
+If you owned 0.5% of the pool, previously you would have had 5.445 AVAX and 3,117.5 SNOB. After the price change, you would now have:
 
 $$
-\frac{\text{3,189}} {100} * 0.5 = 15.945 \text{ AVAX} \text{, } \frac{\text{88,400}} {100} * 0.5 = 442 \text{ SNOB}
+\frac{\text{1,540}} {100} * 0.5 = \text{7.7} \text{ AVAX} \text{, } \frac{\text{440,854}} {100} * 0.5 = \text{2,204.27} \text{ SNOB}
 $$
 
 ## Impermanent Loss
@@ -101,19 +101,19 @@ $$
 Since we have the pool's token balances at any given time based on it's token ratio, we can also calculate the impermanent loss for any price change. We can convert the token balances to one token for easier calculations. For example, prior to the price change:
 
 $$
-\text{2,255} + \frac{\text{125,016}} {55.44} = \text{4,510 AVAX}
+\text{1,089} + \frac{\text{623,461}} {572.54} = \text{2,178 AVAX}
 $$
 
 And similarly, after the SNOB token's price change:
 
 $$
-\text{3,189} + \frac{\text{88,400}} {27.72} = \text{6,378 AVAX}
+\text{1,540} + \frac{\text{440,854}} {286.27} = \text{3,080 AVAX}
 $$
 
-If you owned 0.5% of the pool, you would have gone from having the equivalent of 22.55 AVAX to having the equivalent of 31.89 AVAX. That is a 41.42% increase in value, or a profit of 9.34 AVAX. Since the value of SNOB doubled, wouldn't you expect a 50% increase in value? The value of your original deposit prior to the price change, if you hadn't provided liquidity, would be the following:
+If you owned 0.5% of the pool, you would have gone from having the equivalent of 10.89 AVAX to having the equivalent of 15.4 AVAX. That is a 41.41% increase in value, or a profit of 4.51 AVAX. Since the value of SNOB doubled, wouldn't you expect a 50% increase in value? The value of your original deposit, if you hadn't provided liquidity, would now be the following:
 
 $$
-11.275 + \frac{625.08} {27.72} \approx 33.82 \text{ AVAX}
+5.445 + \frac{3,117.5} {286.27} \approx 16.335 \text{ AVAX}
 $$
 
 This would be a 50% increase in value, as expected. To calculate the impermanent loss of such an event, we can use the following equation:
@@ -123,7 +123,7 @@ $$
 $$
 
 $$
-\text{IL} = \frac{31.89} {33.82} - 1 \approx -0.057 = \text{-5.7%}
+\text{IL} = \frac{15.4} {16.335} - 1 \approx -0.057 = \text{-5.7%}
 $$
 
 **This means that a 100% change in price of one token in comparison to the other paired token will result in an impermanent loss of approximately -5.7%.** Of course, if AVAX prices in this example also climb in at the same rate, impermanent loss will be null. The same is true for the same percentages to the downside, as well.

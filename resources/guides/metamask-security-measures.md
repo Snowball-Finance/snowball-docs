@@ -20,7 +20,7 @@ This guide will cover how to keep your MetaMask wallet safer than ever through r
 
 5\) Confirm the transaction to revoke any given approval:
 
-![Example MetaMask Transaction Confirmation](<../../.gitbook/assets/image (11) (1).png>)
+![Example MetaMask Transaction Confirmation](<../../.gitbook/assets/image (11) (1) (1).png>)
 
 ## Disconnecting From Unused Dapps
 
