@@ -40,7 +40,7 @@ There is, however, great study into concepts such as [**mean reversion**](https:
 
 Among the many interesting arguments for the profitability of a one-sided stable LP, one is approaching the issue of impermanent loss and upside potential through the lens of simple probability. For a simple liquidity pool, there are nine possible outcomes when it comes to the price action of its underlying assets:
 
-![Simplified Grid of Possible LP Outcomes](<../../.gitbook/assets/image (10).png>)
+![Simplified Grid of Possible LP Outcomes](<../../.gitbook/assets/image (10) (1).png>)
 
 Obviously in reality there is a lot more granularity to how each outcome affects a pool's position, but we can simplify each outcome by how likely it is to generate a large amount of impermanent loss.
 
@@ -72,7 +72,7 @@ In practice, this functions as a somewhat unconventional [**hedge**](https://www
 
 At the end of the day, if a strategy's yield is not there, it is not worth much regardless of its safety factor or probability of impermanent loss. It is relevant that, as discussed prior, stablecoins are some of the assets with the most liquidity and volume of most ecosystems.
 
-![Top 10 Trader Joe Liquidity Pools Sorted By 7-Day Volume (https://analytics.traderjoexyz.com/)](<../../.gitbook/assets/image (5).png>)
+![Top 10 Trader Joe Liquidity Pools Sorted By 7-Day Volume (https://analytics.traderjoexyz.com/)](<../../.gitbook/assets/image (5) (1).png>)
 
 Above we can see the ten largest liquidity pools sorted by weekly volume, on Avalanche's largest decentralized exchange, Trader Joe. All of them include WAVAX, the wrapped form of Avalanche's native token; AVAX. Interestingly, six of them are also one-sided stable LPs, including the two largest pools, with over $100M in weekly volume each. Keep in mind this is only one decentralized exchange; similar results can be seen on Pangolin, for example:
 

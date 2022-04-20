@@ -52,7 +52,7 @@ Swapping tokens through a DEX is simple, and in most cases follows the following
 
 Once you input both the token you want to swap and the token you want to swap for, the dapp should show you the estimated slippage (displayed as 'price impact' above), and any fees associated with your transaction. Large transactions may have higher slippage and fees depending on where you are trading, so make sure you watch out for those and pick your DEX accordingly.
 
-![Trading 100 DAI.e for USDT.e on Snowball's StableVault (Now Deprecated)](<../../.gitbook/assets/image (15) (1).png>)
+![Trading 100 DAI.e for USDT.e on Snowball's StableVault (Now Deprecated)](<../../.gitbook/assets/image (15) (1) (1).png>)
 
 As you can see, swap interfaces are relatively similar and should always follow the same transaction process. If you have already traded a token using a specific DEX before, you will not need to approve its spending again, meaning the process is now reduced to 2 simple steps. Furthermore, most dapps automatically connect to your wallet if you've done so previously, which means exchanging tokens through a DEX is as easy as selecting the tokens you want to trade and clicking on 'Swap'. You'll have to sign the transaction, of course.
 

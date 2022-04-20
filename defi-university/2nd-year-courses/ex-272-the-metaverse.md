@@ -1,6 +1,6 @@
 # EX 272 - The Metaverse
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 The metaverse is coming. The question remains as to what the metaverse really is - and what it can become. This course will cover some of these basics and more, such as:
 

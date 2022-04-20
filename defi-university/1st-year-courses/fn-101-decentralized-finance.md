@@ -1,6 +1,6 @@
 # FN 101 - Decentralized Finance
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 The world of DeFi (Decentralized Finance) is constantly expanding, as new blockchains are introduced and new dapps (decentralized apps) are built on top of them. This introductory course for DeFi will cover the following:
 

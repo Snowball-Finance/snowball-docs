@@ -33,7 +33,7 @@ All smart contract / DeFi-related transactions take place on Avalanche's C-Chain
 
 Both explorers provide the same type of information, but have differing visuals and sometimes have more or less information regarding any specific smart contract. SnowTrace is the newest addition to the Avalanche ecosystem, made by the same creators of EtherScan and it's other chain alternatives (BscScan, PolygonScan, FtmScan, etc.).
 
-![Snowtrace - Avalanche C-Chain's Main Block Explorer](<../../.gitbook/assets/image (12) (1) (1).png>)
+![Snowtrace - Avalanche C-Chain's Main Block Explorer](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
 
 Other blockchains also have their own block explorers. The most popular ones are linked below:
 
@@ -59,7 +59,7 @@ We can see the entire source code for any smart contract on the block explorer u
 
 Through a block explorer you can also read, and most importantly write, to any verified smart contract.
 
-![Writing to Snowball's Governance Contract on Avalanche](<../../.gitbook/assets/image (7).png>)
+![Writing to Snowball's Governance Contract on Avalanche](<../../.gitbook/assets/image (7) (1).png>)
 
 When writing to a smart contract you can connect your wallet to the page much like any decentralized application, and interact with the smart contract directly. This is important since websites may have unforeseen downtime. If this happens you will always have access to your funds through the contract itself, on the blockchain.
 

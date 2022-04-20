@@ -16,7 +16,7 @@ Folding is a relatively safe investment strategy that can be profitable under ce
 
 To understand the concept of folding, let's take a look at one of Avalanche's lending markets:
 
-![Trader Joe Lending Market - Screenshot taken on 20/10/2021](<../../.gitbook/assets/image (8) (1) (1) (1).png>)
+![Trader Joe Lending Market - Screenshot taken on 20/10/2021](<../../.gitbook/assets/image (8) (1) (1) (1) (1).png>)
 
 The above is the lending market of Trader Joe, sometimes referred to as 'Banker Joe'. Other lending markets such as Aave, BenQi or Cream have a similar layout. The important data to keep an eye on is the market size (how much is being lent and/or borrowed) alongside the rates being offered. For the purposes of exploring folding strategies, we will focus on the rates available.
 
@@ -41,7 +41,7 @@ $$
 
 In order for folding to be profitable, the equation above must result in a positive number. Let's take a look at an example from the last screenshot:
 
-![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
 
 For the AVAX token, we can grab the current interest rates and incentives and check if it would be profitable to perform a folding strategy on such an asset at this time:
 

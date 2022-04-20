@@ -30,9 +30,9 @@ So, with that being said, what are NFTs being used for? We'll take a look at all
 
 NFTs that embody some form of art have become increasingly popular once people discovered that they can easily sell their art through this new medium. Not only that, but the authenticity is easily verifiable, and they can have control over a token's transferability through smart contracts. For example, an artist could choose to have royalties imbued into every sale of their NFT - meaning every time it is sold to another person, they would make 5%, 10%, or whatever amount they have set of the value of the sale.
 
-![Some of the NFTs available on Snowball's NFT Marketplace](<../../.gitbook/assets/image (8) (1) (1).png>)
+![Some of the NFTs available on Snowball's NFT Marketplace](<../../.gitbook/assets/image (8) (1) (1) (1).png>)
 
-When it comes to collectibles, it is clear why NFTs are the perfect medium to produce and distribute those. A collectible could simply be a visual item, or sometimes a representation of a feat or event attendance, like a badge or trophy. The world of collectibles is exploding in popularity in areas such as fantasy football, card games, and gaming in general. This is because problems of access, authenticity and transferability are issues these industries have been tackling for ages, and  blockchain and NFT technologies simply solve all of them.
+When it comes to collectibles, it is clear why NFTs are the perfect medium to produce and distribute those. A collectible could simply be a visual item, or sometimes a representation of a feat or event attendance, like a badge or trophy. The world of collectibles is exploding in popularity in areas such as fantasy football, card games, and gaming in general. This is because problems of access, authenticity and transferability are issues these industries have been tackling for ages, and blockchain and NFT technologies simply solve all of them.
 
 Let's look at fantasy football, for example. To make it work, you'd need a secure network to buy and sell player cards. That's the blockchain. You'd need a way to check if player cards are authentic. If they are NFT's, just check their hash. Each card would needs to have player stats, parameters, etc. Since NFTs are simply a smart contract, those can be built-in or defined when they are minted. Done.
 
