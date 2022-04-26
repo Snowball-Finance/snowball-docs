@@ -33,7 +33,7 @@ All smart contract / DeFi-related transactions take place on Avalanche's C-Chain
 
 Both explorers provide the same type of information, but have differing visuals and sometimes have more or less information regarding any specific smart contract. SnowTrace is the newest addition to the Avalanche ecosystem, made by the same creators of EtherScan and it's other chain alternatives (BscScan, PolygonScan, FtmScan, etc.).
 
-![Snowtrace - Avalanche C-Chain's Main Block Explorer](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
+![Snowtrace - Avalanche C-Chain's Main Block Explorer](<../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
 
 Other blockchains also have their own block explorers. The most popular ones are linked below:
 

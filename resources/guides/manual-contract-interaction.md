@@ -30,7 +30,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 8\) Find the **depositAll** method.
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 {% hint style="danger" %}
 **Never deposit tokens directly into a compounding gauge contract. Doing so will lead to a loss of funds.** Steps 9 and 14 are to deposit into the compounding deposit contract and compounding gauge contract respectively. These need to be followed in order.
@@ -52,7 +52,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 14\) Click **Write**. You will be asked to approve the transaction through your wallet.
 

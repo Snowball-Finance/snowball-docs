@@ -1,5 +1,7 @@
 # Teddy
 
+![](<../.gitbook/assets/image (12).png>)
+
 Teddy is the decentralized borrowing protocol native to Avalanche, allowing anyone to borrow against their AVAX and mint TSD, a stablecoin pegged to the dollar.
 
 The Teddy protocol was brought into the Snowball ecosystem as per our successful [**20th governance proposal**](https://app.snowball.network/governance/proposal/20).

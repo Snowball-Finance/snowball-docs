@@ -10,7 +10,7 @@ This guide will cover how to keep your MetaMask wallet safer than ever through r
 
 2\) Enter your wallet address.
 
-![](<../../.gitbook/assets/image (12) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
 
 3\) Use the **Connect to Web3** button to connect your wallet.
 
