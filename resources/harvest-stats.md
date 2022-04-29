@@ -21,8 +21,8 @@ Weekly snapshots are taken every Monday, and the charts below are updated then.
 ## Strategy Type Stats
 
 {% tabs %}
-{% tab title="Harvest Totals By Strategy Type" %}
-![](<../.gitbook/assets/Harvest Totals By Strategy Type.png>)
+{% tab title="Strategy Type Distribution" %}
+![](<../.gitbook/assets/Strategy Type Distribution.png>)
 {% endtab %}
 
 {% tab title="LP Strategies" %}
