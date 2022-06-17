@@ -27,3 +27,4 @@
 | `Pangolin Zapper`          | [0x9675064a9b93dC4156366A4E5f1400185D751375](https://snowtrace.io/address/0x9675064a9b93dC4156366A4E5f1400185D751375) |
 | `Trader Joe Zapper`        | [0x2dA2409cDf11C607375AC9A43c18faB2152b5884](https://snowtrace.io/address/0x2dA2409cDf11C607375AC9A43c18faB2152b5884) |
 | `Gnosis Safe`              | [0xcb42072b73FbD80a4c8005336c2ea78f770c223B](https://snowtrace.io/address/0xcb42072b73FbD80a4c8005336c2ea78f770c223B) |
+| `Manual Harvesting`        | [0xbfF6149B2a1EeB145B84e897d2af5AfA3bFf6119](https://snowtrace.io/address/0xbfF6149B2a1EeB145B84e897d2af5AfA3bFf6119) |
