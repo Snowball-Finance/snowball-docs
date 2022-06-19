@@ -66,7 +66,6 @@
 ## 🗃 Resources
 
 * [Our Team](resources/our-team.md)
-* [Harvest Stats](resources/harvest-stats.md)
 * [Brand Assets](resources/brand-assets.md)
 * [Guides](resources/guides/README.md)
   * [Setting Up MetaMask](resources/guides/setting-up-metamask.md)

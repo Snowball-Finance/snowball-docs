@@ -83,10 +83,6 @@ Snowball also offers Optimized Pools, which enable you to always be netting the 
 [compounding-contracts.md](../smart-contracts/compounding-contracts.md)
 {% endcontent-ref %}
 
-{% content-ref url="../resources/harvest-stats.md" %}
-[harvest-stats.md](../resources/harvest-stats.md)
-{% endcontent-ref %}
-
 {% content-ref url="../resources/guides/compounding-guide-trader-joe.md" %}
 [compounding-guide-trader-joe.md](../resources/guides/compounding-guide-trader-joe.md)
 {% endcontent-ref %}
