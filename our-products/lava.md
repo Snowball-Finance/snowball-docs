@@ -8,7 +8,7 @@ Lava is currently in development. Feel free to follow its Twitter and join its D
 
 ## 🔗 Links
 
-#### Website - [https://lavax.org/](https://lavax.org)
+#### Website - [https://lavax.org/](https://lavax.org/)
 
 #### Twitter - [https://twitter.com/lavaxorg](https://twitter.com/lavaxorg)
 

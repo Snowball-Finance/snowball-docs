@@ -98,7 +98,7 @@ If you're planning on interact with deprecated contracts, all the addresses you'
 
 6\) Once you have found it, click on **Contract** and **Write Contract**.
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
 7\) Find the **withdrawAll** method.
 
